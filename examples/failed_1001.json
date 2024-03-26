@@ -1,0 +1,6 @@
+{
+  "code": 1001,
+  "credits": 0,
+  "msg": "check_params error: required param[item_url] not exists.",
+  "tip": "You can read document or contact provider: https://www.idatariver.com/project/temu-e-commerce-scraping-api-2019"
+}
