@@ -6,14 +6,14 @@
 
 ## 成功返回示例
 
-### 商品详情
+### 商品详情(APP)
 
-[成功返回样例](./examples/success_good_detail.json)
+[成功返回样例](./examples/success_good_detail_app.json)
 
 
-### 按照分类获取商品列表
+### 按照分类获取商品列表(APP)
 
-[成功返回样例](./examples/success_cate_goods.json)
+[成功返回样例](./examples/success_cate_goods_app.json)
 
 
 ## 失败返回样例

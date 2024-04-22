@@ -6,14 +6,14 @@ En [中文](./README_CN.md)
 
 ## Success Response Examples
 
-### Product Detail Infomation
+### Product Detail Infomation(APP)
 
-[Success Response](./examples/success_good_detail.json)
+[Success Response](./examples/success_good_detail_app.json)
 
 
-### Get Goods By Category
+### Get Goods By Category(APP)
 
-[Success Response](./examples/success_cate_goods.json)
+[Success Response](./examples/success_cate_goods_app.json)
 
 
 ## Error Response Examples
