@@ -1,6 +1,6 @@
 En [中文](./README_CN.md)
 
-# Temu Scraping API
+# Marketshift Scraping API
 
 [Go to Platform](https://www.idatariver.com)
 
