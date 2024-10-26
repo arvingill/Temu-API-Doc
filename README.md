@@ -1,8 +1,8 @@
 En [中文](./README_CN.md)
 
-# Temu Scraping API
+# Market shift Scraping API
 
-[Go to Platform](https://www.idatariver.com)
+[Go to Platform](https://www.cachiboutique.com)
 
 ## Success Response Examples
 
