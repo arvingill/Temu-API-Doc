@@ -1,0 +1,2695 @@
+{
+  "code": 0,
+  "credits": 0.01,
+  "result": {
+    "after_sale": {
+      "contents": [
+        "The first return for EVERY order is free! To avoid additional shipping costs and minimize the environmental impact of multiple returns, we suggest that you select the items you wish to return together.",
+        "All eligible items can be returned in their original condition within 90 days of purchase for a full refund."
+      ],
+      "title": "Free returns within 90 days",
+      "title2": "Free returns within 90 days",
+      "type": 1
+    },
+    "control": {
+      "big_picture_style": 0,
+      "default_sku_id": 17592222823543,
+      "detail_support_experiment_control": {
+        "add_order_button_countdown": 0,
+        "add_to_cart_optimization": 1,
+        "big_image_show_price": 0,
+        "commitment_optimization": 0,
+        "compress_mall_height": 1,
+        "detail_cart_goods": 1,
+        "enhance_guided_clicks": 0,
+        "goods_property_style": 0,
+        "head_sale_tip": 0,
+        "hide_mall_sales_tip": 0,
+        "quantity_content_show": 0,
+        "rollback_sku_selection": 0,
+        "simplify_title": 0,
+        "size_guide_multi_tab": 1,
+        "sku_panel_not_skc_select_default_spec": 0,
+        "sku_selected_frame": 0,
+        "slide_to_shrink_gallery": 0,
+        "spec_preferred_benefit": 0,
+        "support_add_cart_benefits": 1,
+        "support_carted_goods_benefit": 0,
+        "support_multiple_add_cart_benefit": 1,
+        "support_price_after_coupon": 0,
+        "support_quantity_show": 1,
+        "support_similar_item_for_preorder": 0,
+        "support_sku_purchase_benefit": 0,
+        "waist_recommend_order": 0
+      },
+      "feedback_version": 2,
+      "find_similar": 1,
+      "frequent_bought_together_type": 1,
+      "hide_cs_chat": 1,
+      "jump_sku_gallery_spec_keys": [
+        "Color",
+        "Style",
+        "Size"
+      ],
+      "non_skc_quantity_selector_show": 1,
+      "show_middle_rec": 1,
+      "sku_panel_show_picture_spec_id": 1001,
+      "sku_quantity_selector_show": 1,
+      "sku_thumb_spec_key": "Color",
+      "sku_thumb_spec_key_id": 1001,
+      "support_cell_sku": 0,
+      "support_collect_benefit": 1,
+      "support_experiment_control": {
+        "bought_together_hide_self": 0,
+        "bought_together_remove_carted": 1,
+        "expand_description": 1,
+        "high_cvr_recommend": 0,
+        "link_on_title_press": 1,
+        "main_pic_num_display": 1,
+        "single_cell_sku_for_sale_exposed": 1,
+        "sku_panel_show_comment": 0,
+        "sku_panel_show_sale_info": 0,
+        "support_color_show_small_picture": 0,
+        "support_gallery_bullet_comment": 0,
+        "support_non_apparel_skc_with_small_pic_size": 24,
+        "support_order_floating_layer": 0,
+        "support_title_search": 0,
+        "support_wish": 6,
+        "top_search_type": 1
+      },
+      "support_hot_spec": 1,
+      "support_multiple_add_to_cart_app_h5": 0,
+      "support_multiple_add_to_cart_v2": 0,
+      "support_no_select_sku_low_price_show": 1,
+      "support_not_show_event_tips": 1,
+      "support_recommended_card": 0,
+      "support_recommended_card_v3": 0,
+      "support_search_recommend_module": 0,
+      "support_similar_page_floating": 0,
+      "support_slide_cat_tag": 1,
+      "use_short_share_link": 1
+    },
+    "decoration": {
+      "floor_list": [
+        {
+          "contents": [
+            {
+              "height": 800,
+              "img_url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/503f065208baacb44eeb18cf5c781e9f.jpg",
+              "text_module_element_dto": {},
+              "width": 800
+            }
+          ],
+          "enable_share": 1,
+          "floor_id": 73123417,
+          "key": "DecImage",
+          "priority": 0,
+          "type": "image"
+        },
+        {
+          "contents": [
+            {
+              "height": 800,
+              "img_url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/13524468a7a497fc6bf21852be27f64e.jpg",
+              "text_module_element_dto": {},
+              "width": 800
+            }
+          ],
+          "enable_share": 1,
+          "floor_id": 73123418,
+          "key": "DecImage",
+          "priority": 1,
+          "type": "image"
+        },
+        {
+          "contents": [
+            {
+              "height": 800,
+              "img_url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/8231c82b5080425d612168073d724c80.jpg",
+              "text_module_element_dto": {},
+              "width": 800
+            }
+          ],
+          "enable_share": 1,
+          "floor_id": 73123419,
+          "key": "DecImage",
+          "priority": 2,
+          "type": "image"
+        }
+      ]
+    },
+    "delivery": {
+      "delivery_time_desc_list": [],
+      "delivery_time_desc_normal_font_max_length": 54,
+      "delivery_type": 1,
+      "desc_list": [
+        {
+          "dialog": {
+            "content": "81.9% are ≤ 7 days",
+            "name": "Delivery time distribution",
+            "time_distributed": [
+              {
+                "name": "≤5 days",
+                "percentage": 3710,
+                "percentage_str": "37.1%"
+              },
+              {
+                "name": "6 days",
+                "percentage": 2940,
+                "percentage_str": "29.4%"
+              },
+              {
+                "name": "7 days",
+                "percentage": 1540,
+                "percentage_str": "15.4%"
+              },
+              {
+                "name": "8 days",
+                "percentage": 940,
+                "percentage_str": "9.4%"
+              },
+              {
+                "name": ">8 days",
+                "percentage": 870,
+                "percentage_str": "8.7%"
+              }
+            ],
+            "type": 2
+          },
+          "text_rich": [
+            {
+              "text": "Delivery: ",
+              "text_format": {
+                "bold": 1,
+                "color": "#777777",
+                "font_size": 12,
+                "font_weight": 400,
+                "little_font_size": 12
+              }
+            },
+            {
+              "text": "Mar 31-Apr 3",
+              "text_format": {
+                "bold": 1,
+                "color": "#000000",
+                "font_size": 12,
+                "font_weight": 400,
+                "little_font_size": 12
+              }
+            },
+            {
+              "text": ", ",
+              "text_format": {
+                "bold": 1,
+                "color": "#000000",
+                "font_size": 12,
+                "font_weight": 400,
+                "little_font_size": 12
+              },
+              "type": 0
+            },
+            {
+              "text": "81.9% are ≤ 7 days",
+              "text_format": {
+                "bold": 1,
+                "color": "#000000",
+                "font_size": 12,
+                "font_weight": 400,
+                "little_font_size": 12
+              }
+            }
+          ],
+          "type": 1
+        },
+        {
+          "dialog": {
+            "content": "If delivered after Apr 3, you will get a RM10 credit within 48 hours.",
+            "name": "Guaranteed delivery"
+          },
+          "text_rich": [
+            {
+              "text": "Get a RM10.00 credit for late delivery",
+              "text_format": {
+                "bold": 1,
+                "color": "#777777",
+                "font_size": 12,
+                "font_weight": 400,
+                "little_font_size": 12
+              }
+            }
+          ]
+        },
+        {
+          "hide_delivery_company": 0,
+          "text_rich": [
+            {
+              "text": "Courier company: ",
+              "text_format": {
+                "bold": 0,
+                "color": "#777777",
+                "font_size": 12,
+                "font_weight": 400,
+                "little_font_size": 12
+              }
+            },
+            {
+              "image": {
+                "height": 14,
+                "url": "https://aimg.kwcdn.com/upload_aimg/euler/81919d2e-de6d-4047-831b-0cadf9164f70.png.slim.png",
+                "width": 21
+              },
+              "type": 1
+            },
+            {
+              "text": "J&T express",
+              "text_format": {
+                "bold": 1,
+                "color": "#000000",
+                "font_size": 12,
+                "font_weight": 400,
+                "little_font_size": 12
+              }
+            },
+            {
+              "custom_type": 1,
+              "delimiter": {
+                "color": "#9E9E9E"
+              },
+              "type": 2
+            },
+            {
+              "image": {
+                "height": 14,
+                "url": "https://aimg.kwcdn.com/upload_aimg/wuliu/b10b1b4c-4d6a-45b4-a8f5-01ca2489ef3e.png.slim.png",
+                "width": 12
+              },
+              "type": 1
+            },
+            {
+              "text": "SF INTERNATIONAL",
+              "text_format": {
+                "bold": 1,
+                "color": "#000000",
+                "font_size": 12,
+                "font_weight": 400,
+                "little_font_size": 12
+              }
+            },
+            {
+              "custom_type": 1,
+              "delimiter": {
+                "color": "#9E9E9E"
+              },
+              "type": 2
+            },
+            {
+              "image": {
+                "height": 14,
+                "url": "https://aimg.kwcdn.com/upload_aimg/wuliu/1cd92060-e293-4379-91d5-65112f6e5a6b.png.slim.png",
+                "width": 21
+              },
+              "type": 1
+            },
+            {
+              "text": "SKYNET",
+              "text_format": {
+                "bold": 1,
+                "color": "#000000",
+                "font_size": 12,
+                "font_weight": 400,
+                "little_font_size": 12
+              }
+            },
+            {
+              "custom_type": 1,
+              "delimiter": {
+                "color": "#9E9E9E"
+              },
+              "type": 2
+            },
+            {
+              "image": {
+                "height": 14,
+                "url": "https://aimg.kwcdn.com/upload_aimg/wuliu/814ff35b-e514-4306-8ef5-24139d76e075.png.slim.png",
+                "width": 14
+              },
+              "type": 1
+            },
+            {
+              "text": "BEST",
+              "text_format": {
+                "bold": 1,
+                "color": "#000000",
+                "font_size": 12,
+                "font_weight": 400,
+                "little_font_size": 12
+              }
+            }
+          ]
+        }
+      ],
+      "etc": "etc.",
+      "shipping_detail": [
+        {
+          "content": "81.9% are ≤ 7 days",
+          "delivery_type": 1,
+          "ext_info": "If delivered after Apr 3, you will get a RM10 credit within 48 hours.",
+          "name": "Shipping",
+          "table": {
+            "costs_title": [
+              {
+                "text": "Costs"
+              }
+            ],
+            "costs_value": [
+              {
+                "ladder_content": [
+                  {
+                    "text": "Free on all orders"
+                  }
+                ]
+              }
+            ],
+            "delivery_company_title": [
+              {
+                "text": "Company"
+              }
+            ],
+            "delivery_company_value": [
+              {
+                "logo_height": 14,
+                "logo_url": "https://aimg.kwcdn.com/upload_aimg/euler/81919d2e-de6d-4047-831b-0cadf9164f70.png.slim.png",
+                "logo_width": 21,
+                "name": "J&T express"
+              },
+              {
+                "logo_height": 14,
+                "logo_url": "https://aimg.kwcdn.com/upload_aimg/wuliu/b10b1b4c-4d6a-45b4-a8f5-01ca2489ef3e.png.slim.png",
+                "logo_width": 12,
+                "name": "SF INTERNATIONAL"
+              },
+              {
+                "logo_height": 14,
+                "logo_url": "https://aimg.kwcdn.com/upload_aimg/wuliu/1cd92060-e293-4379-91d5-65112f6e5a6b.png.slim.png",
+                "logo_width": 21,
+                "name": "SKYNET"
+              },
+              {
+                "logo_height": 14,
+                "logo_url": "https://aimg.kwcdn.com/upload_aimg/wuliu/814ff35b-e514-4306-8ef5-24139d76e075.png.slim.png",
+                "logo_width": 14,
+                "name": "BEST"
+              }
+            ],
+            "delivery_time_title": [
+              {
+                "text": "Delivery time"
+              }
+            ],
+            "delivery_time_value": [
+              {
+                "text": "Mar 31-Apr 3"
+              }
+            ],
+            "hide_delivery_company": 0
+          },
+          "time_distributed": [
+            {
+              "name": "≤5 days",
+              "percentage": 3710,
+              "percentage_str": "37.1%"
+            },
+            {
+              "name": "6 days",
+              "percentage": 2940,
+              "percentage_str": "29.4%"
+            },
+            {
+              "name": "7 days",
+              "percentage": 1540,
+              "percentage_str": "15.4%"
+            },
+            {
+              "name": "8 days",
+              "percentage": 940,
+              "percentage_str": "9.4%"
+            },
+            {
+              "name": ">8 days",
+              "percentage": 870,
+              "percentage_str": "8.7%"
+            }
+          ]
+        }
+      ],
+      "sku_id": 17592222823543,
+      "title": "Free shipping on all orders",
+      "title_color": "#0A8800",
+      "title_hide_dialog": 1
+    },
+    "description": {
+      "items": [
+        {
+          "values": "Ergonomic design provides comfortable support for your wrist while typing or gaming"
+        },
+        {
+          "values": "Reduces strain and fatigue on your wrist, allowing for longer periods of use"
+        },
+        {
+          "values": "Non-slip base keeps the pad securely in place on your desk or table"
+        },
+        {
+          "values": "Made with high-quality materials for durability and long-lasting use"
+        },
+        {
+          "values": "Perfect for anyone who spends long hours working or gaming on their computer or laptop"
+        }
+      ],
+      "rows": 6
+    },
+    "environment": {
+      "landing_url": "https://www.temu.com/tree-landing.html?_bg_fs=1&_bg_tc=000000",
+      "lego_url": "lego.html?lego_ssr_api=%2Fapi%2Flego-transaction-tree-for-the-future-popup%2Fget_config%2Ftree-for-the-future-popup&lego_minversion=1.62.0&lego_type=v8&pageName=tree-for-the-future-popup&lego_cache_enable=1&cache_expire_duration=172800000",
+      "show_type": 2,
+      "side_text": "5M+ trees",
+      "text": "Sustainability at Temu"
+    },
+    "goods": {
+      "cat_id": 1021,
+      "cat_id_1": 653,
+      "cat_id_2": 819,
+      "cat_id_3": 999,
+      "cat_id_4": 1020,
+      "check_quantity": 1,
+      "gallery": [
+        {
+          "enable_share": 0,
+          "height": 720,
+          "id": 2035471944,
+          "priority": 6,
+          "type": 18,
+          "url": "https://img.kwcdn.com/product/5349e3b7a18c1f2ef1cc631e14f2f804906e9ec6.goods.000001.jpeg",
+          "video_url": "https://goods-vod.kwcdn.com/goods-video/2ed712cb687539902834ff675424c986f4f64ec1.f30.mp4",
+          "width": 720
+        },
+        {
+          "enable_share": 1,
+          "height": 800,
+          "id": 2005365972,
+          "priority": 5,
+          "type": 1,
+          "url": "https://img.kwcdn.com/product/fancy/4a09dbe9-de8b-4d52-bf37-95e65c0773e5.jpg",
+          "video_url": "",
+          "width": 800
+        },
+        {
+          "enable_share": 1,
+          "height": 800,
+          "id": 2005365971,
+          "priority": 4,
+          "type": 1,
+          "url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/9d23403f0608cad039b6112a69ff80f3.jpg",
+          "video_url": "",
+          "width": 800
+        },
+        {
+          "enable_share": 1,
+          "height": 800,
+          "id": 2005365970,
+          "priority": 3,
+          "type": 1,
+          "url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/ebd78eae80802bc3f40917bf3e251200.jpg",
+          "video_url": "",
+          "width": 800
+        },
+        {
+          "enable_share": 1,
+          "height": 800,
+          "id": 2005365969,
+          "priority": 2,
+          "type": 1,
+          "url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/6833f60798a3ea8db0931e3af97e721f.jpg",
+          "video_url": "",
+          "width": 800
+        },
+        {
+          "enable_share": 1,
+          "height": 800,
+          "id": 2005365968,
+          "priority": 1,
+          "type": 1,
+          "url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/5f903348d2e1f2f4265260a9beed22ef.jpg",
+          "video_url": "",
+          "width": 800
+        },
+        {
+          "enable_share": 1,
+          "height": 375,
+          "id": -1,
+          "priority": 1,
+          "show_text_specs": [
+            {
+              "spec_key": "Color",
+              "spec_key_id": 1001,
+              "spec_value": "grey",
+              "spec_value_id": 16080
+            }
+          ],
+          "type": -1,
+          "url": "https://img.kwcdn.com/product/1e133b32143/f5dfa891-2a75-4467-957e-b663c30b2431_800x800.png",
+          "width": 375
+        },
+        {
+          "enable_share": 1,
+          "height": 375,
+          "id": -2,
+          "priority": 2,
+          "show_text_specs": [
+            {
+              "spec_key": "Color",
+              "spec_key_id": 1001,
+              "spec_value": "Black",
+              "spec_value_id": 3002
+            }
+          ],
+          "type": -1,
+          "url": "https://img.kwcdn.com/product/1e133b32143/3125ead5-d16a-453c-a1a8-71755e14a64c_800x800.png",
+          "width": 375
+        },
+        {
+          "enable_share": 1,
+          "height": 800,
+          "id": 2005365967,
+          "priority": 0,
+          "type": 1,
+          "url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/0a64188f31b0671119c94307a2cd103b.jpg",
+          "width": 800
+        }
+      ],
+      "goods_id": 601099518118140,
+      "goods_name": "1pc Ergonomic Wrist Rest Pad - Improve Comfort And Efficiency While Working Or Gaming On Your Computer Or Laptop",
+      "goods_property": [
+        {
+          "important": 1,
+          "key": "Material",
+          "ref_pid": 12,
+          "reference_id": 0,
+          "values": [
+            "PP"
+          ]
+        },
+        {
+          "key": "Item Shape",
+          "ref_pid": 134,
+          "reference_id": 0,
+          "values": [
+            "Oblong"
+          ]
+        },
+        {
+          "important": 1,
+          "key": "Special Features",
+          "ref_pid": 143,
+          "reference_id": 0,
+          "values": [
+            "Ergonomic"
+          ]
+        },
+        {
+          "copyable": 1,
+          "custom_property": 2,
+          "key": "Item ID",
+          "values": [
+            "VF13401"
+          ]
+        }
+      ],
+      "hd_thumb_url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/0a64188f31b0671119c94307a2cd103b.jpg",
+      "image_url": "",
+      "is_local_goods": 0,
+      "is_onsale": 1,
+      "item_id": "VF13401",
+      "iteration_sku": [
+        17592222823543,
+        17592222823544
+      ],
+      "line_price_rich": [
+        {
+          "text": "",
+          "text_format": {
+            "bold": 1,
+            "color": "#AAAAAA",
+            "font_size": 14,
+            "font_weight": 400
+          },
+          "type": "currency"
+        },
+        {
+          "text": "12.79",
+          "text_format": {
+            "bold": 1,
+            "color": "#AAAAAA",
+            "font_size": 14,
+            "font_weight": 400
+          },
+          "type": "price"
+        }
+      ],
+      "mall_id": 4352042912871,
+      "max_on_sale_price": 554,
+      "min_on_sale_line_price": 1279,
+      "min_on_sale_price": 526,
+      "min_on_sale_price_str": "RM5.26",
+      "min_to_max_price_str": "RM5.26-RM5.54",
+      "min_to_max_sale_price_rich": [
+        {
+          "text": "RM",
+          "text_format": {
+            "bold": 1,
+            "color": "#000000",
+            "font_size": 18,
+            "font_weight": 600
+          },
+          "type": "currency"
+        },
+        {
+          "text": "5.26",
+          "text_format": {
+            "bold": 1,
+            "color": "#000000",
+            "font_size": 20,
+            "font_weight": 600
+          },
+          "type": "price"
+        },
+        {
+          "text": "-",
+          "text_format": {
+            "bold": 1,
+            "color": "#000000",
+            "font_size": 20,
+            "font_weight": 600
+          },
+          "type": "delimiter"
+        },
+        {
+          "text": "RM",
+          "text_format": {
+            "bold": 1,
+            "color": "#000000",
+            "font_size": 18,
+            "font_weight": 600
+          },
+          "type": "currency"
+        },
+        {
+          "text": "5.54",
+          "text_format": {
+            "bold": 1,
+            "color": "#000000",
+            "font_size": 20,
+            "font_weight": 600
+          },
+          "type": "price"
+        }
+      ],
+      "reduction": {
+        "background_color": "#FFFFFF",
+        "border_color": "#FB7701",
+        "reduction": 580,
+        "text_rich": [
+          {
+            "text": "-58%",
+            "text_format": {
+              "bold": 1,
+              "color": "#FB7701",
+              "font_size": 10,
+              "font_weight": 600
+            },
+            "type": "price"
+          }
+        ]
+      },
+      "rows": 5,
+      "sale_info": {
+        "goods_sold_tip": "10K+ sold",
+        "mall_jump_url": "/mall.html?_bg_fs=1&mall_id=4352042912871&goods_id=601099518118140",
+        "mall_logo": "https://img.kwcdn.com/supplier-public-tag/1eac59b83b/91936bb4-96e6-4b42-a0c1-be8a7e2b7457_300x300.jpeg",
+        "mall_name": "Green plantslight up the home",
+        "mall_sales_tip": " (100K+ sold)",
+        "mall_sales_tip_new": "(100K+ sold)",
+        "provided_by": "Provided by ",
+        "seo_url": "/my-en/storror-m-4352042912871.html?goods_id=601099518118140",
+        "side_sales_tip": "10K+ sold, by "
+      },
+      "sale_price_rich": [
+        {
+          "text": "RM",
+          "text_format": {
+            "bold": 1,
+            "color": "#000000",
+            "font_size": 18,
+            "font_weight": 600
+          },
+          "type": "currency"
+        },
+        {
+          "text": "5.26",
+          "text_format": {
+            "bold": 1,
+            "color": "#000000",
+            "font_size": 20,
+            "font_weight": 600
+          },
+          "type": "price"
+        }
+      ],
+      "side_sales_tip": "10K+ sold, by Green plantslight up the home (100K+ sold)",
+      "sold_quantity": 10000,
+      "status": 1,
+      "status_explain": "NORMAL",
+      "thumb_url": ""
+    },
+    "goods_ext": {
+      "minOnSalePrice": "526",
+      "scene": "detail",
+      "supportSalePriceInfo": "1",
+      "supportSalePriceTip": "1",
+      "withSpendSave": "0"
+    },
+    "goods_shopping_cart_num": 0,
+    "guarantee": {
+      "contents": [
+        {
+          "content_id": 1,
+          "icon": "https://aimg.kwcdn.com/upload_aimg/temupch5/SafePaymentOptions/1307c555-4da9-4f84-944c-f14eb68ebb6a.png",
+          "name": "Safe Payment Options"
+        },
+        {
+          "content_id": 2,
+          "icon": "https://aimg.kwcdn.com/upload_aimg/temupch5/SecureLogistics/e784be27-701f-4857-b697-f59efaa3f66d.png",
+          "name": "Secure logistics"
+        },
+        {
+          "content_id": 3,
+          "icon": "https://aimg.kwcdn.com/upload_aimg/temupch5/SecurePrivacy/b96e0ca1-2f6c-403e-a829-1603fe87d8d0.png",
+          "name": "Secure privacy"
+        },
+        {
+          "content_id": 4,
+          "icon": "https://aimg.kwcdn.com/upload_aimg/temupch5/purchaseprotection/d3b3e39a-b2ff-45e4-aca3-843f1f27e0c5.png",
+          "name": "Purchase protection"
+        }
+      ],
+      "dialog": {
+        "contents": [
+          {
+            "content_id": 1,
+            "desc": "Your payment information is safe with us. Temu does not share your information with the merchants.",
+            "descriptions": [
+              {
+                "desc": "Your payment information is safe with us. Temu does not share your information with the merchants.",
+                "desc_rich": {
+                  "line_height": 20,
+                  "support_promotion": false,
+                  "text_rich": [
+                    {
+                      "font_color": "#0A8800",
+                      "font_size": 14,
+                      "type": 0,
+                      "value": "Temu is committed to protecting your payment information. "
+                    },
+                    {
+                      "font_color": "#000000",
+                      "font_size": 14,
+                      "type": 0,
+                      "value": "We follow PCI DSS standards, use strong encryption, and perform regular reviews of its system to protect your privacy."
+                    }
+                  ]
+                },
+                "detail": [
+                  {
+                    "jump_url": "bgc_payment_method.html?title=Payment%20methods",
+                    "name": "1. Payment methods",
+                    "pc_jump_url": "w/bgt_payment_method_policy.html",
+                    "rich_icons": [
+                      {
+                        "height": 34,
+                        "icon": "https://aimg.kwcdn.com/upload_aimg/temu/562a7af4-38e7-4992-8e25-1ce47fd691f4.png.slim.png",
+                        "width": 50
+                      },
+                      {
+                        "height": 34,
+                        "icon": "https://aimg.kwcdn.com/upload_aimg/temu/322f5847-2707-45df-bdd1-3ee0787353a9.png.slim.png",
+                        "width": 50
+                      },
+                      {
+                        "height": 34,
+                        "icon": "https://aimg.kwcdn.com/upload_aimg/temu/da7f463a-916f-4d91-bcbb-047317a1c35e.png.slim.png",
+                        "width": 50
+                      },
+                      {
+                        "height": 34,
+                        "icon": "https://aimg.kwcdn.com/upload_aimg/temu/b79a2dc3-b089-4cf8-a907-015a25ca12f2.png.slim.png",
+                        "width": 50
+                      },
+                      {
+                        "height": 34,
+                        "icon": "https://aimg.kwcdn.com/upload_aimg/temu/936bf9dc-9bb2-4935-9c5a-a70b800d4cf1.png.slim.png",
+                        "width": 50
+                      },
+                      {
+                        "height": 34,
+                        "icon": "https://aimg.kwcdn.com/upload_aimg/temu/3f39097d-e751-4891-af08-41b63ebc876e.png.slim.png",
+                        "width": 50
+                      },
+                      {
+                        "height": 34,
+                        "icon": "https://aimg.kwcdn.com/upload_aimg/temu/c6962c14-ad79-4856-89e4-32205f96a7de.png.slim.png",
+                        "width": 50
+                      },
+                      {
+                        "height": 34,
+                        "icon": "https://aimg.kwcdn.com/upload_aimg/temu/c3e5eb19-1b60-4c2b-87e1-4528fb390cbf.png.slim.png",
+                        "width": 50
+                      },
+                      {
+                        "height": 34,
+                        "icon": "https://aimg.kwcdn.com/upload_aimg/temu/93d37f1a-a35f-4770-b803-8c89cdad6ed7.png.slim.png",
+                        "width": 50
+                      },
+                      {
+                        "height": 34,
+                        "icon": "https://aimg.kwcdn.com/upload_aimg/temu/b60cd5f3-9c10-4d21-af26-a5b92cbce824.png.slim.png",
+                        "width": 50
+                      },
+                      {
+                        "height": 34,
+                        "icon": "https://aimg.kwcdn.com/upload_aimg/temu/ac293ffc-9957-4588-a4df-f3397b4a54e0.png.slim.png",
+                        "width": 50
+                      },
+                      {
+                        "height": 34,
+                        "icon": "https://aimg.kwcdn.com/upload_aimg/temu/6c1505d1-a8d1-4462-b110-d313de9d59ae.png.slim.png",
+                        "width": 50
+                      }
+                    ],
+                    "style": 1
+                  },
+                  {
+                    "name": "2. Security certification",
+                    "rich_icons": [
+                      {
+                        "height": 43,
+                        "icon": "https://aimg.kwcdn.com/upload_aimg/temu/80d57653-6e89-4bd5-82c4-ac1e8e2489fd.png.slim.png",
+                        "width": 68
+                      },
+                      {
+                        "height": 43,
+                        "icon": "https://aimg.kwcdn.com/upload_aimg/temu/bcb8bf23-78c9-45ab-b480-f7020d1a5f66.png.slim.png",
+                        "width": 49
+                      },
+                      {
+                        "height": 43,
+                        "icon": "https://aimg.kwcdn.com/upload_aimg/temu/28a227c9-37e6-4a82-b23b-0ad7814feed1.png.slim.png",
+                        "width": 105
+                      },
+                      {
+                        "height": 43,
+                        "icon": "https://aimg.kwcdn.com/upload_aimg/temu/f1c00d04-7dde-4d4a-ae3d-b8aad2de8f96.png.slim.png",
+                        "width": 105
+                      },
+                      {
+                        "height": 43,
+                        "icon": "https://aimg.kwcdn.com/upload_aimg/temu/65e96f45-9ff5-435a-afbf-0785934809ef.png.slim.png",
+                        "width": 68
+                      },
+                      {
+                        "height": 43,
+                        "icon": "https://aimg.kwcdn.com/upload_aimg/temu/1f29a857-fe21-444e-8617-f57f5aa064f4.png.slim.png",
+                        "width": 68
+                      },
+                      {
+                        "height": 43,
+                        "icon": "https://aimg.kwcdn.com/upload_aimg/temu/52656b9f-5cb7-416f-8e12-f8cb39d3b734.png.slim.png",
+                        "width": 105
+                      }
+                    ],
+                    "style": 2
+                  }
+                ]
+              }
+            ],
+            "jump_url": "bgc_payment_method.html?title=Payment%20methods",
+            "name": "Safe Payment Options",
+            "name_color": "#0A8800",
+            "name_icon": "https://aimg.kwcdn.com/upload_aimg/temu/tick0915ICON/161d7937-997d-40c6-96a7-212444940a86.png.slim.png",
+            "pc_jump_url": "w/bgt_payment_method_policy.html"
+          },
+          {
+            "content_id": 2,
+            "descriptions": [
+              {
+                "desc": "Package safety",
+                "detail": [
+                  {
+                    "name": "Full refund for your damaged or lost package.",
+                    "rich_icons": [],
+                    "style": 1
+                  }
+                ],
+                "jump_url": "bgp_refund_policy.html",
+                "pc_jump_url": "w/bgp_refund_policy.html"
+              },
+              {
+                "desc": "Delivery guaranteed",
+                "detail": [
+                  {
+                    "name": "Accurate and precise order tracking.",
+                    "rich_icons": [],
+                    "style": 1
+                  }
+                ],
+                "jump_text": "Check your order",
+                "jump_url": "bgt_orders.html",
+                "pc_jump_url": "w/bgt_orders.html"
+              }
+            ],
+            "name": "Secure logistics",
+            "name_color": "#0A8800",
+            "name_icon": "https://aimg.kwcdn.com/upload_aimg/temu/tick0915ICON/8c7b2072-ce1e-4a57-b016-f002c72d66cb.png.slim.png"
+          },
+          {
+            "content_id": 3,
+            "desc": "Protecting your privacy is important to us! Please be assured that your information will be kept secured and uncompromised. We do not sell your personal information for money and will only use your information in accordance with our privacy and cookie policy to provide and improve our services to you.",
+            "descriptions": [
+              {
+                "desc": "Protecting your privacy is important to us! Please be assured that your information will be kept secured and uncompromised. We do not sell your personal information for money and will only use your information in accordance with our privacy and cookie policy to provide and improve our services to you.",
+                "detail": [],
+                "jump_url": "bgp_private_policy.html",
+                "pc_jump_url": "w/bgp_private_policy.html"
+              }
+            ],
+            "jump_url": "bgp_private_policy.html",
+            "name": "Secure privacy",
+            "name_color": "#0A8800",
+            "name_icon": "https://aimg.kwcdn.com/upload_aimg/temu/tick0915ICON/d2144e27-ec95-48b9-b531-65e8526df92e.png.slim.png",
+            "pc_jump_url": "w/bgp_private_policy.html"
+          },
+          {
+            "content_id": 4,
+            "desc": "Shop confidently on Temu knowing that if something goes wrong, we've always got your back.",
+            "descriptions": [
+              {
+                "desc": "Shop confidently on Temu knowing that if something goes wrong, we've always got your back.",
+                "detail": [],
+                "jump_url": "bgc_purchase_protection.html",
+                "pc_jump_url": "w/bgt_purchase_protection.html"
+              }
+            ],
+            "jump_url": "bgc_purchase_protection.html",
+            "name": "Purchase protection",
+            "name_color": "#0A8800",
+            "name_icon": "https://aimg.kwcdn.com/upload_aimg/temu/PDICON/76af2a22-9785-49a0-b8b9-67466c414c07.png.slim.png",
+            "pc_jump_url": "w/bgt_purchase_protection.html"
+          },
+          {
+            "content_id": 5,
+            "desc": "Our customer service team is always here if you need help.",
+            "descriptions": [
+              {
+                "desc": "Our customer service team is always here if you need help.",
+                "detail": [
+                  {
+                    "rich_icons": [
+                      {
+                        "icon": "https://aimg.kwcdn.com/upload_aimg/temu/tick0915ICON/7dabc7c8-9a14-46be-ae54-3887d1b52474.png.slim.png",
+                        "jump_url": "/bgm_faq.html",
+                        "text": "FAQs",
+                        "type": 1
+                      },
+                      {
+                        "icon": "https://aimg.kwcdn.com/upload_aimg/temu/tick0915ICON/a85e8fdf-1c39-494e-879e-1cf0a81e8b06.png.slim.png",
+                        "jump_url": "official_chat_detail.html?needs_login=1&login_scene=502&goods_id=601099518118140",
+                        "text": "Live chat",
+                        "type": 2
+                      }
+                    ],
+                    "style": 3
+                  }
+                ]
+              }
+            ],
+            "jump_url": "",
+            "name": "Customer service",
+            "name_color": "#0A8800",
+            "name_icon": "https://aimg.kwcdn.com/upload_aimg/temu/tick0915ICON/3f6c8d18-41e2-4eaf-8d0a-47d0a778eeff.png.slim.png"
+          }
+        ],
+        "title": "Shopping security"
+      },
+      "icon_url": "https://aimg.kwcdn.com/upload_aimg/temu/ceff81d2-87d0-40ae-8f33-d8092c51c217.png.slim.png",
+      "jump_url": "",
+      "title": "Shopping security",
+      "title_color": "#0A8800"
+    },
+    "is_personal_fav": 0,
+    "is_show_fav_icon": 0,
+    "mall": {
+      "mall_data": {
+        "favorite": false,
+        "follower_num_unit": [
+          "557",
+          "Followers"
+        ],
+        "goods_num": "45 Items",
+        "goods_num_unit": [
+          "45",
+          "Items"
+        ],
+        "goods_sales_num_unit": [
+          "100K+",
+          "Sold"
+        ],
+        "is_favorite": false,
+        "mall_id": "4352042912871",
+        "mall_jump_url": "/mall.html?_bg_fs=1&mall_id=4352042912871&goods_id=601099518118140",
+        "mall_logo": "https://img.kwcdn.com/supplier-public-tag/1eac59b83b/91936bb4-96e6-4b42-a0c1-be8a7e2b7457_300x300.jpeg",
+        "mall_name": "Green plantslight up the home",
+        "mall_star": 4.6,
+        "mall_star_str": "4.6",
+        "review_num_str": "8,558",
+        "seo_url": "/my-en/storror-m-4352042912871.html?goods_id=601099518118140"
+      }
+    },
+    "message": {
+      "auto_tune_number_toast": "The quantity you selected exceeds the current stock of this item.",
+      "min_quantity_toast": "The minimum quantity for this item is 1",
+      "sku_limit_toast": "The quantity you selected exceeds the current stock of this item."
+    },
+    "module_map": {
+      "age_confirmation_popup_module": {
+        "module_id": "age_confirmation_popup_module",
+        "show_module": 0
+      },
+      "best_seller_module": {
+        "data": {
+          "new_rank": {
+            "action": {
+              "content": {
+                "router_url": "channel/popular-products.html?billboard_scene=most_repurchased_billboard&billboard_size=50&opt_id=1454&billboard_title=Most%20Repurchased"
+              },
+              "type": 1
+            },
+            "text_rich": [
+              {
+                "bg_color": "#FFDF86",
+                "bottom_edge": 2,
+                "corner_left_bottom": 0,
+                "corner_left_top": 6,
+                "corner_right_bottom": 6,
+                "corner_right_top": 0,
+                "end_edge": 3,
+                "font_color": "#8B4400",
+                "font_size": 12,
+                "font_weight": 500,
+                "id": 1,
+                "padding_end": 5,
+                "pc_font_size": 12,
+                "start_edge": 3,
+                "top_edge": 2,
+                "type": 500,
+                "value": "#25 Most Repurchased"
+              },
+              {
+                "font_color": "#222222",
+                "font_size": 13,
+                "font_weight": 400,
+                "id": 2,
+                "pc_font_size": 14,
+                "type": 0,
+                "value": "in Desk Accessories"
+              }
+            ],
+            "track": {
+              "click": {
+                "ranking_opt_id": "1454",
+                "ranking_type": "Most repurchased"
+              },
+              "impr": {
+                "ranking_opt_id": "1454",
+                "ranking_type": "Most repurchased"
+              }
+            }
+          },
+          "rank": {
+            "ranking_opt_id": "1454",
+            "ranking_type": "Most repurchased",
+            "text_rich": [
+              {
+                "text": "#25 Most Repurchased",
+                "text_format": {
+                  "bg_color": "#FFDF86",
+                  "color": "#8B4400",
+                  "font_size": 12,
+                  "font_weight": 400
+                }
+              },
+              {
+                "text": " in Desk Accessories",
+                "text_format": {
+                  "color": "#222222",
+                  "font_size": 14,
+                  "font_weight": 400
+                }
+              }
+            ]
+          }
+        },
+        "module_id": "best_seller_module",
+        "show_module": 1
+      },
+      "bottom_button_module": {
+        "data": {
+          "bottom_resources": {
+            "frequency": 3,
+            "resources": [
+              {
+                "id": 2,
+                "inner_priority": [
+                  2,
+                  4,
+                  3,
+                  1
+                ]
+              },
+              {
+                "id": 1
+              }
+            ],
+            "valid_time": 86400000
+          },
+          "sku_quantity_tip_rich": {
+            "17592222823543": {
+              "support_promotion": false,
+              "text_rich": [
+                {
+                  "height_f": 16,
+                  "type": 100,
+                  "value": "https://aimg.kwcdn.com/upload_aimg/rec/9c48ec17-3d6f-4995-a3e6-8ab4dc151e63.gif.slim.gif",
+                  "width_f": 16
+                },
+                {
+                  "font_color": "#FFFFFF",
+                  "font_size": 13,
+                  "font_weight": 500,
+                  "id": 2,
+                  "type": 0,
+                  "value": "Almost sold out"
+                }
+              ]
+            }
+          }
+        },
+        "module_id": "bottom_button_module",
+        "show_module": 1
+      },
+      "bought_together_module": {
+        "module_id": "bought_together_module",
+        "show_module": 0
+      },
+      "buy_it_with_module": {
+        "module_id": "buy_it_with_module",
+        "show_module": 0
+      },
+      "customer_service_module": {
+        "data": {
+          "customer_service_data": {
+            "chat_url": "/chat_detail.html?needs_login=1&login_scene=308&goods_id=601099518118140&host_id=4352042912871&goods_name=1pc Ergonomic Wrist Rest Pad - Improve Comfort And Efficiency While Working Or Gaming On Your Computer Or Laptop&thumb_url=https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/0a64188f31b0671119c94307a2cd103b.jpg&refer_page_name=goods",
+            "support_chat": 0
+          }
+        },
+        "module_id": "customer_service_module",
+        "show_module": 1
+      },
+      "delivery_guarantee_module": {
+        "module_id": "delivery_guarantee_module",
+        "show_module": 0
+      },
+      "faq_module": {
+        "data": {},
+        "module_id": "faq_module",
+        "show_module": 1
+      },
+      "lightning_deal_module": {
+        "module_id": "lightning_deal_module",
+        "show_module": 0
+      },
+      "mall_module": {
+        "data": {
+          "mall_data": {
+            "favorite": false,
+            "follower_num_unit": [
+              "557",
+              "Followers"
+            ],
+            "goods_num": "45 Items",
+            "goods_num_unit": [
+              "45",
+              "Items"
+            ],
+            "goods_sales_num_unit": [
+              "100K+",
+              "Sold"
+            ],
+            "is_favorite": false,
+            "mall_id": "4352042912871",
+            "mall_jump_url": "/mall.html?_bg_fs=1&mall_id=4352042912871&goods_id=601099518118140",
+            "mall_logo": "https://img.kwcdn.com/supplier-public-tag/1eac59b83b/91936bb4-96e6-4b42-a0c1-be8a7e2b7457_300x300.jpeg",
+            "mall_name": "Green plantslight up the home",
+            "mall_star": 4.6,
+            "mall_star_str": "4.6",
+            "review_num_str": "8,558",
+            "seo_url": "/my-en/storror-m-4352042912871.html?goods_id=601099518118140"
+          }
+        },
+        "module_id": "mall_module",
+        "show_module": 1
+      },
+      "marketing_tag_module": {
+        "module_id": "marketing_tag_module",
+        "show_module": 1
+      },
+      "popup_module": {
+        "data": {},
+        "module_id": "popup_module",
+        "show_module": 1
+      },
+      "price_module": {
+        "data": {
+          "goods_sale_price_rich": {
+            "support_promotion": true,
+            "text_rich": [
+              {
+                "font_color": "#000000",
+                "font_size": 24,
+                "font_weight": 500,
+                "type": 0,
+                "value": "RM",
+                "ver_align": 0
+              },
+              {
+                "font_color": "#000000",
+                "font_size": 28,
+                "font_weight": 500,
+                "type": 0,
+                "value": "5.26",
+                "ver_align": 3
+              }
+            ],
+            "type": 0
+          },
+          "price_format": {
+            "currency_code": "MYR",
+            "decimal_separator": ".",
+            "decimals": 2,
+            "grouping_separator": ",",
+            "mark_chars": "",
+            "market_region_id": 119,
+            "position": 0,
+            "symbol": "RM",
+            "vision_position": 0
+          },
+          "sku_sale_price_rich_map": {
+            "17592222823543": {
+              "support_promotion": true,
+              "text_rich": [
+                {
+                  "font_color": "#000000",
+                  "font_size": 24,
+                  "font_weight": 500,
+                  "type": 0,
+                  "value": "RM",
+                  "ver_align": 0
+                },
+                {
+                  "font_color": "#000000",
+                  "font_size": 28,
+                  "font_weight": 500,
+                  "type": 0,
+                  "value": "5.26",
+                  "ver_align": 3
+                }
+              ],
+              "type": 0
+            },
+            "17592222823544": {
+              "support_promotion": true,
+              "text_rich": [
+                {
+                  "font_color": "#000000",
+                  "font_size": 24,
+                  "font_weight": 500,
+                  "type": 0,
+                  "value": "RM",
+                  "ver_align": 0
+                },
+                {
+                  "font_color": "#000000",
+                  "font_size": 28,
+                  "font_weight": 500,
+                  "type": 0,
+                  "value": "5.54",
+                  "ver_align": 3
+                }
+              ],
+              "type": 0
+            }
+          },
+          "sku_sale_price_suffix_rich": {
+            "17592222823543": [
+              {
+                "border_color": "#FB7701",
+                "border_width": 1,
+                "corner": 3,
+                "padding_bottom": 1,
+                "padding_end": 2,
+                "padding_start": 2,
+                "padding_top": 1,
+                "support_promotion": true,
+                "text_rich": [
+                  {
+                    "bold": 1,
+                    "font_color": "#FB7701",
+                    "font_size": 10,
+                    "font_weight": 500,
+                    "promotion_font_size": 10,
+                    "type": 0,
+                    "value": "-58%"
+                  }
+                ],
+                "type": 0
+              },
+              {
+                "support_promotion": true,
+                "text_rich": [
+                  {
+                    "font_color": "#AAAAAA",
+                    "font_size": 14,
+                    "font_weight": 400,
+                    "strike_thru": 1,
+                    "type": 0,
+                    "value": "",
+                    "ver_align": 3
+                  },
+                  {
+                    "font_color": "#AAAAAA",
+                    "font_size": 14,
+                    "font_weight": 400,
+                    "strike_thru": 1,
+                    "type": 0,
+                    "value": "12.79",
+                    "ver_align": 3
+                  }
+                ],
+                "type": 0
+              }
+            ],
+            "17592222823544": [
+              {
+                "border_color": "#FB7701",
+                "border_width": 1,
+                "corner": 3,
+                "padding_bottom": 1,
+                "padding_end": 2,
+                "padding_start": 2,
+                "padding_top": 1,
+                "support_promotion": true,
+                "text_rich": [
+                  {
+                    "bold": 1,
+                    "font_color": "#FB7701",
+                    "font_size": 10,
+                    "font_weight": 500,
+                    "promotion_font_size": 10,
+                    "type": 0,
+                    "value": "-56%"
+                  }
+                ],
+                "type": 0
+              },
+              {
+                "support_promotion": true,
+                "text_rich": [
+                  {
+                    "font_color": "#AAAAAA",
+                    "font_size": 14,
+                    "font_weight": 400,
+                    "strike_thru": 1,
+                    "type": 0,
+                    "value": "",
+                    "ver_align": 3
+                  },
+                  {
+                    "font_color": "#AAAAAA",
+                    "font_size": 14,
+                    "font_weight": 400,
+                    "strike_thru": 1,
+                    "type": 0,
+                    "value": "12.79",
+                    "ver_align": 3
+                  }
+                ],
+                "type": 0
+              }
+            ]
+          }
+        },
+        "module_id": "price_module",
+        "show_module": 1
+      },
+      "recently_viewed_module": {
+        "module_id": "recently_viewed_module",
+        "show_module": 0
+      },
+      "service_promise_module": {
+        "data": {
+          "after_sale": {
+            "icon_url": "https://aimg.kwcdn.com/upload_aimg/temu/95b86e0f-1e4e-4c00-a280-6bf5bd4c7df0.png.slim.png",
+            "service_promise_dialog_title": "Service guarantee",
+            "service_promise_item_list": [
+              {
+                "content_list": [
+                  "The first return for EVERY order is free! To avoid additional shipping costs and minimize the environmental impact of multiple returns, we suggest that you select the items you wish to return together.",
+                  "All eligible items can be returned in their original condition within 90 days of purchase for a full refund."
+                ],
+                "icon": "https://commimg-us.kwcdn.com/upload_commimg/order/f86534f5-f67d-4611-a06d-44b4e63a4b4d.png.slim.png",
+                "item_title": "Free returns within 90 days",
+                "link_text": "Read full return policy",
+                "link_url": "bgp_refund_policy.html"
+              },
+              {
+                "content_list": [
+                  "Items purchased from Temu are eligible for our price adjustment policy. Temu will provide the price difference in the currency that the order was paid in if the list price of the item purchased was reduced within 30 days of purchase in the same country or region. The shipment of your order will not be affected by applying for a price adjustment before you receive your item(s). You can request a price adjustment refund by selecting the relevant order in 'Your Orders' and clicking on the 'Price adjustment' button.",
+                  "Items that are on clearance, promotions or no longer available, etc. may not be eligible for our price adjustment policy. Fees, including but not limited to shipping fees, will be excluded for any price adjustment calculation. Temu reserves the right to the final interpretation of our price adjustment policy, the right to modify the terms of this policy at any time, and the right to deny any price adjustment at our sole discretion."
+                ],
+                "icon": "https://commimg-us.kwcdn.com/upload_commimg/order/c206b8f4-bb67-45de-b7f5-b6dabc79bdb8.png.slim.png",
+                "item_title": "Price adjustment within 30 days"
+              }
+            ],
+            "service_promise_title": {
+              "support_promotion": false,
+              "text_rich": [
+                {
+                  "font_color": "#0A8800",
+                  "font_size": 14,
+                  "font_weight": 500,
+                  "type": 0,
+                  "value": "Free returns"
+                },
+                {
+                  "color": "#0A8800",
+                  "corner": 1.5,
+                  "height": 3,
+                  "padding_end": 6,
+                  "padding_start": 6,
+                  "type": 200,
+                  "width": 3
+                },
+                {
+                  "font_color": "#0A8800",
+                  "font_size": 14,
+                  "font_weight": 500,
+                  "type": 0,
+                  "value": "Price adjustment"
+                }
+              ]
+            },
+            "type": 1
+          }
+        },
+        "module_id": "service_promise_module",
+        "show_module": 1
+      },
+      "set_spec_module": {
+        "data": {},
+        "module_id": "set_spec_module",
+        "show_module": 1
+      },
+      "share_module": {
+        "data": {
+          "share": {
+            "desc": "1pc Ergonomic Wrist Rest Pad - Improve Comfort And Efficiency While Working Or Gaming On Your Computer Or Laptop",
+            "link_url": "goods.html?_bg_fs=1&goods_id=601099518118140"
+          }
+        },
+        "module_id": "share_module",
+        "show_module": 1
+      },
+      "similar_items_module": {
+        "module_id": "similar_items_module",
+        "show_module": 0
+      },
+      "sku_spec_selector_module": {
+        "control": {
+          "remove_top_small_picture": 0,
+          "show_big_image": 1
+        },
+        "data": {
+          "sku_stock_quantity_tip": {
+            "17592222823543": "Almost sold out"
+          },
+          "sku_stock_quantity_tip_icon": "https://aimg.kwcdn.com/upload_aimg/rec/ddffe1f9-4283-44ae-97ac-285a0073e53b.gif.slim.gif"
+        },
+        "module_id": "sku_spec_selector_module",
+        "show_module": 1
+      },
+      "video_module": {
+        "data": {},
+        "module_id": "video_module",
+        "show_module": 1
+      },
+      "waist_recommend_module": {
+        "module_id": "waist_recommend_module",
+        "show_module": 0
+      },
+      "wishlist_module": {
+        "control": {
+          "wishlist_break_show_tips": 0
+        },
+        "data": {},
+        "module_id": "wishlist_module",
+        "show_module": 1
+      }
+    },
+    "pay_later_all": {},
+    "product_detail": {
+      "floor_list": [
+        {
+          "items": [
+            {
+              "height": 800,
+              "url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/503f065208baacb44eeb18cf5c781e9f.jpg",
+              "video": {
+                "height": 720,
+                "url": "https://img.kwcdn.com/product/5349e3b7a18c1f2ef1cc631e14f2f804906e9ec6.goods.000001.jpeg",
+                "video_url": "https://goods-vod.kwcdn.com/goods-video/2ed712cb687539902834ff675424c986f4f64ec1.f30.mp4",
+                "width": 720
+              },
+              "width": 800
+            }
+          ],
+          "style": {
+            "margin_bottom": 5
+          },
+          "type": 2
+        },
+        {
+          "items": [
+            {
+              "height": 800,
+              "url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/13524468a7a497fc6bf21852be27f64e.jpg",
+              "width": 800
+            }
+          ],
+          "style": {
+            "margin_bottom": 5
+          },
+          "type": 1
+        },
+        {
+          "items": [
+            {
+              "height": 800,
+              "url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/8231c82b5080425d612168073d724c80.jpg",
+              "width": 800
+            }
+          ],
+          "style": {
+            "margin_bottom": 0
+          },
+          "type": 1
+        }
+      ]
+    },
+    "rank": {
+      "jump_url": "channel/popular-products.html?billboard_scene=most_repurchased_billboard&billboard_size=50&opt_id=1454&billboard_title=Most%20Repurchased",
+      "ranking_opt_id": "1454",
+      "ranking_type": "Most repurchased",
+      "text_rich": [
+        {
+          "text": "#25 Most Repurchased",
+          "text_format": {
+            "bg_color": "#FFDF86",
+            "color": "#8B4400",
+            "font_size": 12,
+            "font_weight": 400
+          }
+        },
+        {
+          "text": " in Desk Accessories",
+          "text_format": {
+            "color": "#222222",
+            "font_size": 14,
+            "font_weight": 400
+          }
+        }
+      ]
+    },
+    "report": {
+      "jump_url": "/bgc_report.html?goods_id=601099518118140"
+    },
+    "review": {
+      "review_data": {
+        "exp_params": {
+          "fold_cloth_fit_review_info": "0",
+          "mall_album": "true",
+          "mall_score_display": "true",
+          "mobile_review_page_add_to_cart": "true",
+          "pic_mode_add_to_cart": "true",
+          "review_display_num": "3",
+          "review_module_mini": "5",
+          "strengthen_review_authenticity": "true"
+        },
+        "goods_score": 4.5,
+        "goods_score_text": "4.5",
+        "labels": [
+          {
+            "label_id": "2ad8d7a9ff10a716cd7e0ebdc74fa42c",
+            "num": 30,
+            "text": "Great Functionality(30)"
+          },
+          {
+            "label_id": "0feb0888ba6ae13db0a1550757b76341",
+            "num": 36,
+            "text": "Works Well(36)"
+          },
+          {
+            "label_id": "b5e36be95a3bcf90867fb55ea9077565",
+            "num": 11,
+            "text": "Very Useful Tool(11)"
+          },
+          {
+            "label_id": "294d8ee689e46aa01beac71c386212c4",
+            "num": 41,
+            "text": "Good Quality(41)"
+          },
+          {
+            "label_id": "62da8cc921eb3f81fd9979039b16bbca",
+            "num": 30,
+            "text": "Satisfied(30)"
+          }
+        ],
+        "mall_review": {
+          "entrance_tips": "This provider is rated 4.6 stars and has 8,558 reviews for other items.",
+          "mall_review_link_url": "/mall.html?_bg_fs=1&mall_id=4352042912871&tag_code=Reviews&sticky_type=2",
+          "mall_score": 4.6,
+          "mall_score_text": "4.6",
+          "review_info_list": [],
+          "review_num": 8558,
+          "review_num_str": "8,558",
+          "review_num_text": "Provider reviews (8,558)",
+          "show_mall_entrance": true
+        },
+        "max_list_size": 1000,
+        "rating_guidelines_popup_vo": {
+          "confirm_btn_text": "OK",
+          "content": "Customer reviews, including star ratings, help customers to learn more about the item to decide whether it is the right item for them.\nTemu calculates a star rating using machine-learned models instead of a simple average. They use multiple criteria that establish the authenticity and trustworthiness of the review. The system continues to learn and improve over time.",
+          "learn_more_link_text": "Learn more",
+          "learn_more_link_url": "/review_guidelines.html",
+          "title": "Guidelines for rating"
+        },
+        "review_authenticity_popup_vo": {
+          "confirm_btn_text": "OK",
+          "lego_link_url": "lego.html?lego_ssr_api=%2Fapi%2Flego-transaction-auth-comment-popup%2Fget_config%2Fauth-comment-popup&lego_minversion=2.50.0&lego_type=v8&pageName=auth-comment-popup&lego_cache_enable=1&cache_expire_duration=172800000",
+          "title": "This means that all reviewers posted their reviews after purchasing the item(s) from Temu."
+        },
+        "review_info_list": [
+          {
+            "avatar": "https://avatar-us.kwcdn.com/avatar/b/Mzc/CgI2WRIITFY5bFRzOUQaEIajgNVDZtJ_rrYe5-JisjswAg-1677443384?imageMogr2/thumbnail/100x",
+            "comment": "Good size and good quality. Very nice mousepad. Nice color. Overall better than I expected. Great price.",
+            "concat_rich_text": {
+              "bg_color": "#FFFFFF",
+              "text_rich": [
+                {
+                  "font_color": "#AAAAAA",
+                  "font_size": 14,
+                  "font_weight": 400,
+                  "type": 0,
+                  "value": "in",
+                  "ver_align": 2
+                },
+                {
+                  "height": 13,
+                  "padding_end": 4,
+                  "padding_start": 4,
+                  "type": 100,
+                  "value": "https://aimg.kwcdn.com/upload_aimg/openingemail/flags/54769d98-90b5-482b-bdad-58366536d371.png.slim.png",
+                  "width": 17
+                },
+                {
+                  "font_color": "#AAAAAA",
+                  "font_size": 14,
+                  "font_weight": 400,
+                  "type": 0,
+                  "value": "on Nov 27, 2023",
+                  "ver_align": 2
+                }
+              ]
+            },
+            "concat_time_lang": "on Nov 27, 2023",
+            "goods_id": "601099518118140",
+            "is_own_review": false,
+            "name": "Shilpa",
+            "op_list": [
+              {
+                "is_show_init": true,
+                "link_url": "https://www.temu.com/review-detail.html?review_id=1568299825531132&title=Review%20details&order_market_region=37&share_source=1&locale_override=37~en~MYR&locale_override_cross=1",
+                "text": "Share",
+                "type": 5
+              },
+              {
+                "is_show_init": true,
+                "num": 1,
+                "status": 0,
+                "text": "Helpful",
+                "type": 4
+              }
+            ],
+            "pic_list_index": 1,
+            "pictures": [
+              {
+                "height": 1920,
+                "url": "https://rewimg-us.kwcdn.com/review-image/1eac59ce73/1e9f1401-06e8-40c2-8cc1-8778f4686a3b.jpeg",
+                "width": 1920
+              }
+            ],
+            "profile_link_url": "/bgp_user_profile.html?show_new_profile=1&refer_id=Q2dJMldSSUljRFpEYzFOUmMya2FNR01nNEdxREl6VXkxTzJ5cjhhcEhOUEFWQ3FqenFwYVNYdmY2YTIwUDNhenlsdUdxMnNCblVCK0JhOVlYT0FBa2pBQw&link_dr=dXM&page_from=21",
+            "review_id": "1568299825531132",
+            "score": 5,
+            "sku_id": 17592222823543,
+            "specs": "[{\"spec_key\":\"Color\",\"spec_value\":\"grey\"}]",
+            "time": 1701118647,
+            "view_more_list": [
+              {
+                "text": "Report",
+                "type": 0
+              }
+            ]
+          },
+          {
+            "avatar": "https://avatar-us.kwcdn.com/avatar/avatar/default/7d96f863-b4c1-43d6-8f03-ebd1c4e23e25.png",
+            "comment": "Es muy cómoda, aún no le doy su función como debería, pero seguro es excelente!, solo que mi cajonera no pudo cerrar debido a que es un poco gruesa la almohadilla, pero aparte de eso, es eficiente y muy cómoda!. Espero me deje de doler mi muñeca con esta almohadilla. Me gustó Mucho.",
+            "concat_rich_text": {
+              "bg_color": "#FFFFFF",
+              "text_rich": [
+                {
+                  "font_color": "#AAAAAA",
+                  "font_size": 14,
+                  "font_weight": 400,
+                  "type": 0,
+                  "value": "in",
+                  "ver_align": 2
+                },
+                {
+                  "height": 13,
+                  "padding_end": 4,
+                  "padding_start": 4,
+                  "type": 100,
+                  "value": "https://aimg.kwcdn.com/upload_aimg/openingemail/Mexico/6a30cc72-f2fe-4100-a445-ffb3debfaacf.png.slim.png",
+                  "width": 17
+                },
+                {
+                  "font_color": "#AAAAAA",
+                  "font_size": 14,
+                  "font_weight": 400,
+                  "type": 0,
+                  "value": "on Sep 2, 2023",
+                  "ver_align": 2
+                }
+              ]
+            },
+            "concat_time_lang": "on Sep 2, 2023",
+            "goods_id": "601099518118140",
+            "is_own_review": false,
+            "name": "jb***07",
+            "op_list": [
+              {
+                "is_show_init": true,
+                "text": "See original",
+                "type": 2
+              },
+              {
+                "is_show_init": false,
+                "text": "Translate",
+                "type": 1
+              },
+              {
+                "is_show_init": true,
+                "link_url": "https://www.temu.com/review-detail.html?review_id=1475372067621116&title=Review%20details&order_market_region=128&share_source=1&locale_override=128~en~MYR&locale_override_cross=1",
+                "text": "Share",
+                "type": 5
+              },
+              {
+                "is_show_init": true,
+                "num": 6,
+                "status": 0,
+                "text": "Helpful",
+                "type": 4
+              }
+            ],
+            "pic_list_index": 2,
+            "pictures": [
+              {
+                "height": 1280,
+                "url": "https://rewimg-us.kwcdn.com/review-image/1e14dde03a2/a7e26a0e-ba20-4c58-b8d3-1c2dd626ba07.jpeg",
+                "width": 1280
+              }
+            ],
+            "review_id": "1475372067621116",
+            "review_lang": {
+              "translate_comment": "It is very comfortable, I still do not give it its function as it should, but it sure is excellent!, only that my chest of drawers could not close because the pad is a bit thick, but apart from that, it is efficient and very comfortable!. I hope my wrist stops hurting with this pad. I liked it a lot."
+            },
+            "score": 5,
+            "sku_id": 17592222823543,
+            "specs": "[{\"spec_key\":\"Color\",\"spec_value\":\"grey\"}]",
+            "time": 1693706645,
+            "video": {
+              "cover_image_height": 1920,
+              "cover_image_url": "https://rewimg-us.kwcdn.com/review-image/1e14dde03a2/3f956b99-1484-4fe6-b184-cc971f73615f.jpeg",
+              "cover_image_width": 1080,
+              "duration": 8,
+              "height": 1920,
+              "size": 19411372,
+              "url": "https://rewvod-us.kwcdn.com/review-video/adeb67c2a911ed8731565510000e9c43fab1328c.f30.mp4",
+              "width": 1080
+            },
+            "view_more_list": [
+              {
+                "text": "Report",
+                "type": 0
+              }
+            ]
+          },
+          {
+            "avatar": "https://avatar-us.kwcdn.com/avatar/avatar/default/7d96f863-b4c1-43d6-8f03-ebd1c4e23e25.png",
+            "comment": "llegaron bien, están en excelente y muy de acuerdo con el precio, ya descansa un poquito mi muñeca x que trabajo mucho en la computadora. muchas gracias las recomiendo",
+            "concat_rich_text": {
+              "bg_color": "#FFFFFF",
+              "text_rich": [
+                {
+                  "font_color": "#AAAAAA",
+                  "font_size": 14,
+                  "font_weight": 400,
+                  "type": 0,
+                  "value": "in",
+                  "ver_align": 2
+                },
+                {
+                  "height": 13,
+                  "padding_end": 4,
+                  "padding_start": 4,
+                  "type": 100,
+                  "value": "https://aimg.kwcdn.com/upload_aimg/openingemail/Mexico/6a30cc72-f2fe-4100-a445-ffb3debfaacf.png.slim.png",
+                  "width": 17
+                },
+                {
+                  "font_color": "#AAAAAA",
+                  "font_size": 14,
+                  "font_weight": 400,
+                  "type": 0,
+                  "value": "on Mar 16, 2024",
+                  "ver_align": 2
+                }
+              ]
+            },
+            "concat_time_lang": "on Mar 16, 2024",
+            "goods_id": "601099518118140",
+            "is_own_review": false,
+            "name": "29***81",
+            "op_list": [
+              {
+                "is_show_init": true,
+                "text": "See original",
+                "type": 2
+              },
+              {
+                "is_show_init": false,
+                "text": "Translate",
+                "type": 1
+              },
+              {
+                "is_show_init": true,
+                "link_url": "https://www.temu.com/review-detail.html?review_id=1689245248948476&title=Review%20details&order_market_region=128&share_source=1&locale_override=128~en~MYR&locale_override_cross=1",
+                "text": "Share",
+                "type": 5
+              },
+              {
+                "is_show_init": true,
+                "num": 0,
+                "status": 0,
+                "text": "Helpful",
+                "type": 4
+              }
+            ],
+            "pictures": [],
+            "profile_link_url": "/bgp_user_profile.html?show_new_profile=1&refer_id=Q2dJMldSSUljRFpEYzFOUmMya2FNSW4zdUlkeFRFbjR1d0xOZnc2dkg0SWxyeXlSeDRNU2ZiVlJsYmVzaWdPb0dac2tRK0dtUCt4dTV5dUtPeUE4bHpBQw&link_dr=dXM&page_from=21",
+            "review_id": "1689245248948476",
+            "review_lang": {
+              "translate_comment": "They arrived well, they are in excellent and very much in accordance with the price, my X doll rests a little bit because I work a lot on the computer. Thank you very much, I recommend you"
+            },
+            "score": 5,
+            "sku_id": 17592222823544,
+            "specs": "[{\"spec_key\":\"Color\",\"spec_value\":\"Black\"}]",
+            "time": 1710626915,
+            "view_more_list": [
+              {
+                "text": "Report",
+                "type": 0
+              }
+            ]
+          }
+        ],
+        "review_num": 1230,
+        "review_num_str": "1,230",
+        "review_num_text": "Item reviews (1,230)"
+      }
+    },
+    "server_time": 1711453927,
+    "share": {
+      "desc": "1pc Ergonomic Wrist Rest Pad - Improve Comfort And Efficiency While Working Or Gaming On Your Computer Or Laptop",
+      "link_url": "goods.html?_bg_fs=1&goods_id=601099518118140"
+    },
+    "shipping": {
+      "line_height": 20,
+      "support_promotion": false,
+      "text_rich": [
+        {
+          "height_f": 20,
+          "type": 100,
+          "value": "https://aimg.kwcdn.com/upload_aimg/temu/caf2c9fa-a52c-4f39-8054-c93b75751716.png.slim.png",
+          "width_f": 20
+        },
+        {
+          "font_color": "#888888",
+          "font_size": 14,
+          "font_weight": 300,
+          "padding_start": 3,
+          "type": 0,
+          "value": "Provided by Green plantslight up the home. Ships from Temu."
+        }
+      ],
+      "type": 0
+    },
+    "size_guide": {
+      "show": 0
+    },
+    "sku": [
+      {
+        "auto_tune_number_toast": "This item has a maximum purchase limit of 99. We've updated it to the maximum available.",
+        "can_subscribe": 1,
+        "control": {},
+        "gallery_id": -1,
+        "goods_id": 601099518118140,
+        "is_onsale": 1,
+        "limit_quantity": 99,
+        "line_price_rich": [
+          {
+            "text": "",
+            "text_format": {
+              "bold": 1,
+              "color": "#AAAAAA",
+              "font_size": 14,
+              "font_weight": 400
+            },
+            "type": "currency"
+          },
+          {
+            "text": "12.79",
+            "text_format": {
+              "bold": 1,
+              "color": "#AAAAAA",
+              "font_size": 14,
+              "font_weight": 400
+            },
+            "type": "price"
+          }
+        ],
+        "normal_line_price": 1279,
+        "normal_line_price_str": "RM12.79",
+        "normal_price": 526,
+        "normal_price_str": "RM5.26",
+        "reduction": {
+          "background_color": "#FFFFFF",
+          "border_color": "#FB7701",
+          "reduction": 580,
+          "text_rich": [
+            {
+              "text": "-58%",
+              "text_format": {
+                "bold": 1,
+                "color": "#FB7701",
+                "font_size": 10,
+                "font_weight": 600
+              },
+              "type": "price"
+            }
+          ]
+        },
+        "sale_price_rich": [
+          {
+            "text": "RM",
+            "text_format": {
+              "bold": 1,
+              "color": "#000000",
+              "font_size": 18,
+              "font_weight": 600
+            },
+            "type": "currency"
+          },
+          {
+            "text": "5.26",
+            "text_format": {
+              "bold": 1,
+              "color": "#000000",
+              "font_size": 20,
+              "font_weight": 600
+            },
+            "type": "price"
+          }
+        ],
+        "size_desc_hover_lists": [],
+        "sku_ext": {
+          "isLowestPriceGoodsSku": "1",
+          "isOnsale": "1",
+          "limitQuantity": "99",
+          "salePrice": "526"
+        },
+        "sku_id": 17592222823543,
+        "sku_limit_toast": "This item has a maximum purchase limit of 99.",
+        "spec_show_image_url": "https://img.kwcdn.com/product/1e133b32143/f5dfa891-2a75-4467-957e-b663c30b2431_800x800.png",
+        "specs": [
+          {
+            "spec_key": "Color",
+            "spec_key_id": 1001,
+            "spec_value": "grey",
+            "spec_value_id": 16080
+          }
+        ],
+        "stock_quantity": 109,
+        "subscribe_status": 0,
+        "thumb_url": "https://img.kwcdn.com/product/1e133b32143/f5dfa891-2a75-4467-957e-b663c30b2431_800x800.png"
+      },
+      {
+        "auto_tune_number_toast": "This item has a maximum purchase limit of 99. We've updated it to the maximum available.",
+        "can_subscribe": 1,
+        "control": {},
+        "gallery_id": -2,
+        "goods_id": 601099518118140,
+        "is_onsale": 1,
+        "limit_quantity": 99,
+        "line_price_rich": [
+          {
+            "text": "",
+            "text_format": {
+              "bold": 1,
+              "color": "#AAAAAA",
+              "font_size": 14,
+              "font_weight": 400
+            },
+            "type": "currency"
+          },
+          {
+            "text": "12.79",
+            "text_format": {
+              "bold": 1,
+              "color": "#AAAAAA",
+              "font_size": 14,
+              "font_weight": 400
+            },
+            "type": "price"
+          }
+        ],
+        "normal_line_price": 1279,
+        "normal_line_price_str": "RM12.79",
+        "normal_price": 554,
+        "normal_price_str": "RM5.54",
+        "reduction": {
+          "background_color": "#FFFFFF",
+          "border_color": "#FB7701",
+          "reduction": 560,
+          "text_rich": [
+            {
+              "text": "-56%",
+              "text_format": {
+                "bold": 1,
+                "color": "#FB7701",
+                "font_size": 10,
+                "font_weight": 600
+              },
+              "type": "price"
+            }
+          ]
+        },
+        "sale_price_rich": [
+          {
+            "text": "RM",
+            "text_format": {
+              "bold": 1,
+              "color": "#000000",
+              "font_size": 18,
+              "font_weight": 600
+            },
+            "type": "currency"
+          },
+          {
+            "text": "5.54",
+            "text_format": {
+              "bold": 1,
+              "color": "#000000",
+              "font_size": 20,
+              "font_weight": 600
+            },
+            "type": "price"
+          }
+        ],
+        "size_desc_hover_lists": [],
+        "sku_ext": {
+          "isLowestPriceGoodsSku": "0",
+          "isOnsale": "1",
+          "limitQuantity": "99",
+          "salePrice": "554"
+        },
+        "sku_id": 17592222823544,
+        "sku_limit_toast": "This item has a maximum purchase limit of 99.",
+        "spec_show_image_url": "https://img.kwcdn.com/product/1e133b32143/3125ead5-d16a-453c-a1a8-71755e14a64c_800x800.png",
+        "specs": [
+          {
+            "spec_key": "Color",
+            "spec_key_id": 1001,
+            "spec_value": "Black",
+            "spec_value_id": 3002
+          }
+        ],
+        "stock_quantity": 270,
+        "subscribe_status": 0,
+        "thumb_url": "https://img.kwcdn.com/product/1e133b32143/3125ead5-d16a-453c-a1a8-71755e14a64c_800x800.png"
+      }
+    ],
+    "sku_control": {
+      "big_picture_style": 0,
+      "default_sku_id": 17592222823543,
+      "feedback_version": 2,
+      "find_similar": 1,
+      "hide_cs_chat": 1,
+      "jump_sku_gallery_spec_keys": [
+        "Color",
+        "Style",
+        "Size"
+      ],
+      "show_middle_rec": 1,
+      "sku_panel_show_picture_spec_id": 1001,
+      "sku_support_experiment_control": {
+        "add_order_button_countdown": 0,
+        "cloth_hold_sku_panel": 0,
+        "enhance_guided_clicks": 0,
+        "hide_mall_sales_tip": 0,
+        "quantity_content_show": 0,
+        "rollback_sku_selection": 0,
+        "size_guide_multi_tab": 1,
+        "sku_panel_items_purchased_together": 0,
+        "sku_panel_spec_tips": 2,
+        "sku_selected_frame": 0,
+        "support_add_cart_benefits": 1,
+        "support_big_picture_add_cart": 1,
+        "support_multiple_add_cart_benefit": 1,
+        "support_price_after_coupon": 0,
+        "support_quantity_show": 1,
+        "support_sku_purchase_benefit": 0
+      },
+      "support_collect_benefit": 1,
+      "support_experiment_control": {
+        "bought_together_hide_self": 0,
+        "bought_together_remove_carted": 1,
+        "expand_description": 1,
+        "high_cvr_recommend": 0,
+        "link_on_title_press": 1,
+        "main_pic_num_display": 1,
+        "single_cell_sku_for_sale_exposed": 1,
+        "sku_panel_show_comment": 0,
+        "sku_panel_show_sale_info": 0,
+        "support_color_show_small_picture": 0,
+        "support_gallery_bullet_comment": 0,
+        "support_non_apparel_skc_with_small_pic_size": 24,
+        "support_order_floating_layer": 0,
+        "support_title_search": 0,
+        "support_wish": 6,
+        "top_search_type": 1
+      },
+      "support_hot_spec": 1,
+      "support_multiple_add_to_cart_app_h5": 0,
+      "support_multiple_add_to_cart_v2": 0,
+      "support_no_select_sku_low_price_show": 1,
+      "use_short_share_link": 1
+    },
+    "sku_module_map": {
+      "age_confirmation_popup_module": {
+        "module_id": "age_confirmation_popup_module",
+        "show_module": 0
+      },
+      "best_seller_module": {
+        "data": {
+          "new_rank": {
+            "text_rich": [
+              {
+                "bg_color": "#FFDF86",
+                "bottom_edge": 2,
+                "corner_left_bottom": 0,
+                "corner_left_top": 6,
+                "corner_right_bottom": 6,
+                "corner_right_top": 0,
+                "end_edge": 3,
+                "font_color": "#8B4400",
+                "font_size": 12,
+                "font_weight": 500,
+                "id": 1,
+                "padding_end": 5,
+                "pc_font_size": 12,
+                "start_edge": 3,
+                "top_edge": 2,
+                "type": 500,
+                "value": "#25 Most Repurchased"
+              },
+              {
+                "font_color": "#222222",
+                "font_size": 13,
+                "font_weight": 400,
+                "id": 2,
+                "pc_font_size": 14,
+                "type": 0,
+                "value": "in Desk Accessories"
+              }
+            ],
+            "track": {
+              "click": {
+                "ranking_opt_id": "1454",
+                "ranking_type": "Most repurchased"
+              },
+              "impr": {
+                "ranking_opt_id": "1454",
+                "ranking_type": "Most repurchased"
+              }
+            }
+          },
+          "rank": {
+            "ranking_opt_id": "1454",
+            "ranking_type": "Most repurchased",
+            "text_rich": [
+              {
+                "text": "#25 Most Repurchased",
+                "text_format": {
+                  "bg_color": "#FFDF86",
+                  "color": "#8B4400",
+                  "font_size": 12,
+                  "font_weight": 400
+                }
+              },
+              {
+                "text": " in Desk Accessories",
+                "text_format": {
+                  "color": "#222222",
+                  "font_size": 14,
+                  "font_weight": 400
+                }
+              }
+            ]
+          }
+        },
+        "module_id": "best_seller_module",
+        "show_module": 1
+      },
+      "bottom_button_module": {
+        "data": {
+          "sku_quantity_tip_rich": {
+            "17592222823543": {
+              "support_promotion": false,
+              "text_rich": [
+                {
+                  "height_f": 16,
+                  "type": 100,
+                  "value": "https://aimg.kwcdn.com/upload_aimg/rec/9c48ec17-3d6f-4995-a3e6-8ab4dc151e63.gif.slim.gif",
+                  "width_f": 16
+                },
+                {
+                  "font_color": "#FFFFFF",
+                  "font_size": 13,
+                  "font_weight": 500,
+                  "id": 2,
+                  "type": 0,
+                  "value": "Almost sold out"
+                }
+              ]
+            }
+          }
+        },
+        "module_id": "bottom_button_module",
+        "show_module": 1
+      },
+      "price_module": {
+        "data": {
+          "goods_sale_price_rich": {
+            "support_promotion": true,
+            "text_rich": [
+              {
+                "font_color": "#000000",
+                "font_size": 24,
+                "font_weight": 500,
+                "type": 0,
+                "value": "RM",
+                "ver_align": 0
+              },
+              {
+                "font_color": "#000000",
+                "font_size": 28,
+                "font_weight": 500,
+                "type": 0,
+                "value": "5.26",
+                "ver_align": 3
+              }
+            ],
+            "type": 0
+          },
+          "price_format": {
+            "currency_code": "MYR",
+            "decimal_separator": ".",
+            "decimals": 2,
+            "grouping_separator": ",",
+            "mark_chars": "",
+            "market_region_id": 119,
+            "position": 0,
+            "symbol": "RM",
+            "vision_position": 0
+          },
+          "sku_sale_price_rich_map": {
+            "17592222823543": {
+              "support_promotion": true,
+              "text_rich": [
+                {
+                  "font_color": "#000000",
+                  "font_size": 24,
+                  "font_weight": 500,
+                  "type": 0,
+                  "value": "RM",
+                  "ver_align": 0
+                },
+                {
+                  "font_color": "#000000",
+                  "font_size": 28,
+                  "font_weight": 500,
+                  "type": 0,
+                  "value": "5.26",
+                  "ver_align": 3
+                }
+              ],
+              "type": 0
+            },
+            "17592222823544": {
+              "support_promotion": true,
+              "text_rich": [
+                {
+                  "font_color": "#000000",
+                  "font_size": 24,
+                  "font_weight": 500,
+                  "type": 0,
+                  "value": "RM",
+                  "ver_align": 0
+                },
+                {
+                  "font_color": "#000000",
+                  "font_size": 28,
+                  "font_weight": 500,
+                  "type": 0,
+                  "value": "5.54",
+                  "ver_align": 3
+                }
+              ],
+              "type": 0
+            }
+          },
+          "sku_sale_price_suffix_rich": {
+            "17592222823543": [
+              {
+                "border_color": "#FB7701",
+                "border_width": 1,
+                "corner": 3,
+                "padding_bottom": 1,
+                "padding_end": 2,
+                "padding_start": 2,
+                "padding_top": 1,
+                "support_promotion": true,
+                "text_rich": [
+                  {
+                    "bold": 1,
+                    "font_color": "#FB7701",
+                    "font_size": 10,
+                    "font_weight": 500,
+                    "promotion_font_size": 10,
+                    "type": 0,
+                    "value": "-58%"
+                  }
+                ],
+                "type": 0
+              },
+              {
+                "support_promotion": true,
+                "text_rich": [
+                  {
+                    "font_color": "#AAAAAA",
+                    "font_size": 14,
+                    "font_weight": 400,
+                    "strike_thru": 1,
+                    "type": 0,
+                    "value": "",
+                    "ver_align": 3
+                  },
+                  {
+                    "font_color": "#AAAAAA",
+                    "font_size": 14,
+                    "font_weight": 400,
+                    "strike_thru": 1,
+                    "type": 0,
+                    "value": "12.79",
+                    "ver_align": 3
+                  }
+                ],
+                "type": 0
+              }
+            ],
+            "17592222823544": [
+              {
+                "border_color": "#FB7701",
+                "border_width": 1,
+                "corner": 3,
+                "padding_bottom": 1,
+                "padding_end": 2,
+                "padding_start": 2,
+                "padding_top": 1,
+                "support_promotion": true,
+                "text_rich": [
+                  {
+                    "bold": 1,
+                    "font_color": "#FB7701",
+                    "font_size": 10,
+                    "font_weight": 500,
+                    "promotion_font_size": 10,
+                    "type": 0,
+                    "value": "-56%"
+                  }
+                ],
+                "type": 0
+              },
+              {
+                "support_promotion": true,
+                "text_rich": [
+                  {
+                    "font_color": "#AAAAAA",
+                    "font_size": 14,
+                    "font_weight": 400,
+                    "strike_thru": 1,
+                    "type": 0,
+                    "value": "",
+                    "ver_align": 3
+                  },
+                  {
+                    "font_color": "#AAAAAA",
+                    "font_size": 14,
+                    "font_weight": 400,
+                    "strike_thru": 1,
+                    "type": 0,
+                    "value": "12.79",
+                    "ver_align": 3
+                  }
+                ],
+                "type": 0
+              }
+            ]
+          }
+        },
+        "module_id": "price_module",
+        "show_module": 1
+      },
+      "service_promise_module": {
+        "module_id": "service_promise_module",
+        "show_module": 1
+      },
+      "set_spec_module": {
+        "data": {},
+        "module_id": "set_spec_module",
+        "show_module": 1
+      },
+      "sku_spec_selector_module": {
+        "control": {
+          "remove_top_small_picture": 0,
+          "show_big_image": 1
+        },
+        "data": {
+          "sku_stock_quantity_tip": {
+            "17592222823543": "Almost sold out"
+          },
+          "sku_stock_quantity_tip_icon": "https://aimg.kwcdn.com/upload_aimg/rec/ddffe1f9-4283-44ae-97ac-285a0073e53b.gif.slim.gif"
+        },
+        "module_id": "sku_spec_selector_module",
+        "show_module": 1
+      },
+      "waist_tip_module": {
+        "control": {
+          "support_tip_rich": 1
+        },
+        "data": {
+          "tip_rich": {
+            "support_promotion": false,
+            "text_rich": [
+              {
+                "height_f": 14,
+                "padding_end": 2,
+                "type": 100,
+                "value": "https://aimg.kwcdn.com/upload_aimg_b/lightningdeal/8ac8334a-3f59-415f-b234-0c453c60acbb.png",
+                "width_f": 14
+              },
+              {
+                "font_color": "#FB7701",
+                "font_size": 12,
+                "font_weight": 500,
+                "type": 0,
+                "value": "Special sale"
+              },
+              {
+                "color": "#FF983C",
+                "height_f": 8,
+                "padding_end": 4,
+                "padding_start": 4,
+                "type": 200,
+                "width_f": 0.5
+              },
+              {
+                "font_color": "#FB7701",
+                "font_size": 12,
+                "font_weight": 500,
+                "type": 0,
+                "value": "Ends in"
+              },
+              {
+                "type": 200,
+                "width_f": 4
+              },
+              {
+                "cell_color": "#FFFFFF",
+                "cell_size": 16,
+                "colon_color": "#FB7701",
+                "colon_size": 12,
+                "colon_weight": 500,
+                "colon_width": 3,
+                "font_color": "#FB7701",
+                "font_size": 12,
+                "font_weight": 500,
+                "type": 300,
+                "value": "1711987199"
+              }
+            ],
+            "track": {
+              "impr": {
+                "acty_type": "3",
+                "page_el_sn": "213487"
+              }
+            },
+            "type": 0
+          }
+        },
+        "module_id": "waist_tip_module",
+        "show_module": 1
+      }
+    },
+    "sku_resources_control": {
+      "frequency": 3,
+      "resources": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        }
+      ],
+      "valid_time": 86400000
+    },
+    "spec_custom": {
+      "hot_spec_list": [
+        {
+          "spec_key_id": 1001,
+          "spec_value_id": 3002
+        }
+      ]
+    },
+    "tag": {
+      "content": []
+    },
+    "user": {},
+    "waist_banner": {
+      "benefits": [
+        {
+          "content": [
+            {
+              "bg_color": "#FEEFE1",
+              "click_color": "#FED9B8",
+              "icon": "https://aimg.kwcdn.com/upload_aimg/promotion/8992b9e0-d3a2-42e6-9fd7-6022bdeed06e.png.slim.png",
+              "subtitle": [
+                {
+                  "bold": false,
+                  "color": "#4B4743",
+                  "font_size": 14,
+                  "text": "Exclusive offer",
+                  "type": "TEXT"
+                }
+              ],
+              "title": [
+                {
+                  "bold": true,
+                  "color": "#000000",
+                  "font_size": 14,
+                  "text": "Free shipping for you",
+                  "type": "TEXT"
+                }
+              ],
+              "track_info": {
+                "page_el_sn": 200370
+              },
+              "type": "FREE_SHIPPING"
+            }
+          ]
+        }
+      ],
+      "login": false,
+      "style_type": "CELL"
+    }
+  },
+  "tip": "You can read document or contact provider: https://www.idatariver.com/project/temu-e-commerce-scraping-api-2019"
+}

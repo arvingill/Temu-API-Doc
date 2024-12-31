@@ -1,0 +1,2373 @@
+{
+  "code": 0,
+  "credits": 0.01,
+  "result": {
+    "next_page_id": "eyJwYWdlIjogMn0=",
+    "response": {
+      "goods": [
+        {
+          "activity_type": 2,
+          "benefit_text": {
+            "text": "-86%"
+          },
+          "comment": {
+            "comment_num_tips": "(12,314)",
+            "goods_score": 4.7
+          },
+          "extend_fields": {
+            "show_similar_items_on_sku_close": true,
+            "support_tag_carousel": true
+          },
+          "goods_id": 601099521225879,
+          "goods_tags": [
+            {
+              "color": "#555555",
+              "ext_map": {
+                "bring_to_detail_flag": "1",
+                "extra_text": "bought 9 min ago"
+              },
+              "height": 39,
+              "marketing_tag_type": 1000,
+              "tag_id": 91022,
+              "tag_series": 2,
+              "text": "bought 9 min ago",
+              "url": "https://avatar-us.kwcdn.com/avatar/b/MjEx/CgI2WRIITFY5bFRzOUQaEFmAI7h3zyEr5CeW7aS4JGAwAg-1695760146?imageMogr2/thumbnail/100x",
+              "width": 39
+            }
+          ],
+          "image": {
+            "height": 375,
+            "id": 601099521225879,
+            "url": "https://img.kwcdn.com/product/fancy/3bf227e8-eb3d-46bd-90d3-6e11dde9e14b.jpg",
+            "width": 375
+          },
+          "item_type": 0,
+          "link_url": "goods.html?_bg_fs=1&goods_id=601099521225879&_oak_mp_inf=EJfpv5um1ogBGiAzZTE3ZDBjOTgzOGM0NDgyYjQ5OTMxNmIxNzhhZGVkOSCS9%2FGr8DE%3D&thumb_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Ffancy%2F3bf227e8-eb3d-46bd-90d3-6e11dde9e14b.jpg&_web_cover=thumb_url&pic_h=375&pic_w=375&spec_gallery_id=601099521225879&refer_page_sn=10012&refer_source=0&freesia_scene=3&_oak_freesia_scene=3&_oak_rec_ext_1=NjQ3&_oak_gallery_order=742622853%2C611912956%2C529335838%2C482518545%2C1875614285",
+          "mall_id": 3893720696152,
+          "opt_id": 2171,
+          "opt_type": 3,
+          "p_rec": {
+            "bid": "69999705",
+            "engine_creative_id": "742622853",
+            "exp": "Co8D8gMTCK4EEMM2FBMIwAQQABQTCMkHABL2BwAhjgUVAPEJygUQ8jUUEwj7BRCFOBQTCCAQkTMUEwgaHQARYwYA8QpqEI8xFBMIgAEQ/BgUEwiEARCYEhQTCJMBHgAS2QcAQPMBEP45AKGqAhC4NBQTCLsCHgAS2wcAEv0HABL/BwAS4QcAoa0DEOIsFBMIgwYrAMD8BBDLNxQTCIoGEMyKACGEAxcAEoUHAPIClwMQyisUEwipAxDiLhQTCOIXAJL8AxCZMBQTCNsPABKY3AAP+QADwN8EEJ8yFBMI5AQQ6qMAAwIBQMcFEO54AA8CAQIRQ4QAEUUGABFMBgARSwYAgWQQ1AoUEwhpDQARfQYABCABko0BEMsvFBMIjhkBErYHABLDBwAEJwES7g8AErEKAUDFAhDqmgAS1w8AEtgHAAM8ARL0DgAPQwEKEt3/AECOBBDMywDAvAQQqC0UEwj3BBCdlQFAgQUQi2AAIasFqgAStwcAA3gBA6oBD38BEwRwAdD9AxDHNBQTCNsDEAAUEOoEGI8D",
+            "final_creative_id": "742622853",
+            "g": "601099521225879",
+            "gin_fallback": "0",
+            "goods_source": "rec",
+            "idx": "0",
+            "list_id": "3e17d0c9838c4482b499316b178aded9",
+            "mid": "69999906",
+            "no_result": "0",
+            "offset": "0",
+            "opt_id": "2170",
+            "opt_type": "0",
+            "region": "211",
+            "scene": "opt",
+            "scene_id": "3",
+            "search_id": "L0vJ5thtrLASGDwG88AEfsZKijSMor_m1Knjgj1C7Ac=",
+            "show_currency": "USD",
+            "show_price": "647",
+            "show_sales": "76K+",
+            "sr": "CsAFcASWpYH8R1YLT05jXiSGgJmX/MPyGcvxiO3OY0A0zZ++PThpyn4wiqe0WR+3eDkWYuhG2xWBiVPpFNeWpnA3jbGgjGCb5IcNRuNL8khhgaGkTs7R1YdWhsXoto/GawJngXD6FTi/6f4pO2SaObBzB6UDussF+vPsjLnvnrGM0djFNzoi9cODzMeMSHkgiBnYjnk/vbFA0l6tLp1B944tvDgwXHn6wKzI2zzKFaiL/Zacp6YN9LJb7K5ZXXmLkm+Xb2hn20nZuvV0b4kUad1BXINRIJ/J1KCQPW/AbBez+UFANGXS/pJ+ieYh+4AMh/Nhct/GxANtaZ+XF1j509GJ4xh6PRYgZBI2eZTBPOWSo7NJSRxHASkQ0yZlaijURrl4mVtqyFrPsWR2iSmwvAcBSC64HMwWW4V0VFsCpUzsP+nG5T5dU3MM+jqRPd6OIOyNTyKF1KR9u7wfaaHBVwlBfZuuhhUEIq52zbts+dp5bMfDfhXWxOYXarYaj4l7b1uJc5/DgrO8SDsoWPekBI1oct6WV4ybLdqkPbcwyoUQJhSdqx7P5fRT7z016+gke9dtBOzCOEHvswyK6/Bf9FB3Eysk8jOQizfA2C4wekB7LBECpG+fGvKZsFVHjQ1mnX5R0fGvckc0z8fm3A670VDdihQEBiUXxO9m4H5HugWpqcdbepd+tjS/L2dk+S/iqhitS3+IP5jxsh531vKps0IEPJs/ZAyW2tYRX1/mgpdMUnFao6+0zLGz84RYjR8yy0/uHbpNgdNlUFUfusNuK6FU48yNtt6B7UkBwKgRmOYpnz1lLy7nMrni2DKEtXUV+Ku8lT62rSxxmZyzX+RfjRMjXo0iSSlpslrqnmFZHRJhBHO9rf5RdJ1qHRlylFTomosn7+d6u7TKCOSPstiQ4Jxbi0ikQzMRei9kyukFayOH2qUQxQUYvwUiJDA1ZmM2YjVkLWRiY2YtNDcwNy04MDk5LTA1YmM2MjQyODcxNw==",
+            "ts": "1713783995301",
+            "ts_req": "0",
+            "tsr": "CoABw94I7VTRobaY1oARSccEj1FWWJd43i+WQ8/i6oeGKIfTdWuMvy2HnuNOZS+LLqkQqX6dbB7I3vSTepZJ7S8fqj6pjA+6iN6vC2N0BYMJuL3E3dhxFxtMRVQ9OkLUbT1SunzIzVCxmpKnd0ge2d0IgsMBrsncIkL8IKtVJsWIFIQQdBh2IiQ2NTgxYzNmYi03ZjQ3LTRkMTAtYjgyMy1kNTM5MjExMGRhOTM=",
+            "version": "4"
+          },
+          "price_info": {
+            "currency": "USD",
+            "market_price": 4893,
+            "market_price_str": "$48.93",
+            "market_price_text": [
+              "$",
+              "48.93",
+              ""
+            ],
+            "price": 647,
+            "price_color": "#FB7701",
+            "price_schema": "6.47",
+            "price_str": "$6.47",
+            "price_text": [
+              "$",
+              "6.47",
+              ""
+            ],
+            "reduction": 860,
+            "reduction_text": [
+              "-86",
+              "%"
+            ]
+          },
+          "queryReleScore": 0,
+          "sales_num": "76K+",
+          "sales_tip": "76K+ sold",
+          "sales_tip_text": [
+            "76K+",
+            "sold"
+          ],
+          "sales_tip_text_list": [
+            "76K+",
+            "sold"
+          ],
+          "show_index": 0,
+          "sold_quantity_percent": 5,
+          "special_tags": [
+            {
+              "footer": {
+                "text": "Final hours!"
+              },
+              "header": {
+                "text": "Lightning deal"
+              },
+              "split_line": 1
+            }
+          ],
+          "tags_info": {
+            "activity_icon_tags": [
+              {
+                "height": 24,
+                "icon_img": "https://aimg.kwcdn.com/upload_aimg_b/search/0f7bbe9c-599b-4380-8c8a-7ea42ba4db03.png",
+                "width": 24
+              }
+            ],
+            "goods_tags": [
+              {
+                "color": "#555555",
+                "ext_map": {
+                  "bring_to_detail_flag": "1",
+                  "extra_text": "bought 9 min ago"
+                },
+                "height": 39,
+                "marketing_tag_type": 1000,
+                "tag_id": 91022,
+                "tag_series": 2,
+                "text": "bought 9 min ago",
+                "url": "https://avatar-us.kwcdn.com/avatar/b/MjEx/CgI2WRIITFY5bFRzOUQaEFmAI7h3zyEr5CeW7aS4JGAwAg-1695760146?imageMogr2/thumbnail/100x",
+                "width": 39
+              }
+            ]
+          },
+          "thumb_url": "https://img.kwcdn.com/product/fancy/3bf227e8-eb3d-46bd-90d3-6e11dde9e14b.jpg",
+          "title": "1pc Wearable Bath Towel, Bowknot Coral Velvet Bath Skirt For Adults, Absorbent Quick Drying Bathrobe With Pockets, Bow Decor Bath Wrap Towel, Bathroom Supplies, Sauna Kilt Spa Sauna Wrap for women, Bathroom Accessories",
+          "video": {
+            "icon_url": "https://aimg.kwcdn.com/upload_aimg/temu/35218716-bd3d-4f5a-8877-9771d5140ddd.png.slim.png",
+            "image_url": "https://img.kwcdn.com/product/fancy/3bf227e8-eb3d-46bd-90d3-6e11dde9e14b.jpg",
+            "url": "https://img.kwcdn.com/product/ff0ecdb8aef363f6b6cd934faef1270029a1718a.goods.000001.jpeg",
+            "video_url": "https://goods-vod.kwcdn.com/goods-video/bd2dc1750239833e5176205d36328faa04db261a.f30.mp4"
+          },
+          "visible": true,
+          "ware_house_type": 0
+        },
+        {
+          "activity_type": 3,
+          "benefit_text": {
+            "text": "-55%"
+          },
+          "comment": {
+            "comment_num_tips": "(52,018)",
+            "goods_score": 4.7
+          },
+          "extend_fields": {
+            "sale_fire_flag": true,
+            "show_similar_items_on_sku_close": true,
+            "support_tag_carousel": true
+          },
+          "goods_id": 601099546539029,
+          "goods_tags": [
+            {
+              "color": "#555555",
+              "ext_map": {
+                "bring_to_detail_flag": "1",
+                "extra_text": "just bought"
+              },
+              "height": 39,
+              "marketing_tag_type": 1000,
+              "tag_id": 91022,
+              "tag_series": 2,
+              "text": "just bought",
+              "url": "https://avatar-us.kwcdn.com/avatar/b/MjEx/CgI2WRIITFY5bFRzOUQaEFP7YYVm7JZj5tSyUsNHgfAwAg-1677525242?imageMogr2/thumbnail/100x",
+              "width": 39
+            },
+            {
+              "color": "#555555",
+              "ext_map": {},
+              "marketing_tag_type": 1000,
+              "tag_id": 91027,
+              "tag_series": 2,
+              "text": "Lowest price in 30 days"
+            }
+          ],
+          "image": {
+            "height": 800,
+            "id": 2087610911,
+            "url": "https://img.kwcdn.com/product/fancy/1d008e99-a011-4aa7-a2de-d37a0d680917.jpg",
+            "width": 800
+          },
+          "item_type": 0,
+          "link_url": "goods.html?_bg_fs=1&goods_id=601099546539029&_oak_mp_inf=EJXoyKem1ogBGiAzZTE3ZDBjOTgzOGM0NDgyYjQ5OTMxNmIxNzhhZGVkOSCT9%2FGr8DE%3D&thumb_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Ffancy%2F1d008e99-a011-4aa7-a2de-d37a0d680917.jpg&_web_cover=thumb_url&pic_h=800&pic_w=800&spec_gallery_id=2087610911&refer_page_sn=10012&refer_source=0&freesia_scene=3&_oak_freesia_scene=3&_oak_rec_ext_1=MTI1OQ&_oak_gallery_order=249121547%2C834695128%2C1625493688%2C1364636615%2C231672402",
+          "mall_id": 320909398756,
+          "opt_id": 2171,
+          "opt_type": 3,
+          "p_rec": {
+            "bid": "69999705",
+            "engine_creative_id": "249121547",
+            "exp": "Co8D8gMTCK4EEMM2FBMIwAQQABQTCMkHABL2BwAhjgUVAPEJygUQ8jUUEwj7BRCFOBQTCCAQkTMUEwgaHQARYwYA8QpqEI8xFBMIgAEQ/BgUEwiEARCYEhQTCJMBHgAS2QcAQPMBEP45AKGqAhC4NBQTCLsCHgAS2wcAEv0HABL/BwAS4QcAoa0DEOIsFBMIgwYrAMD8BBDLNxQTCIoGEMyKACGEAxcAEoUHAPIClwMQyisUEwipAxDiLhQTCOIXAJL8AxCZMBQTCNsPABKY3AAP+QADwN8EEJ8yFBMI5AQQ6qMAAwIBQMcFEO54AA8CAQIRQ4QAEUUGABFMBgARSwYAgWQQ1AoUEwhpDQARfQYABCABko0BEMsvFBMIjhkBErYHABLDBwAEJwES7g8AErEKAUDFAhDqmgAS1w8AEtgHAAM8ARL0DgAPQwEKEt3/AECOBBDMywDAvAQQqC0UEwj3BBCdlQFAgQUQi2AAIasFqgAStwcAA3gBA6oBD38BEwRwAdD9AxDHNBQTCNsDEAAUEOoEGI8D",
+            "final_creative_id": "249121547",
+            "g": "601099546539029",
+            "gin_fallback": "0",
+            "goods_source": "rec",
+            "idx": "1",
+            "list_id": "3e17d0c9838c4482b499316b178aded9",
+            "mid": "69999906",
+            "no_result": "0",
+            "offset": "0",
+            "opt_id": "2170",
+            "opt_type": "0",
+            "region": "211",
+            "scene": "opt",
+            "scene_id": "3",
+            "search_id": "L0vJ5thtrLASGDwG88AEfsZKijSMor_m1Knjgj1C7Ac=",
+            "show_currency": "USD",
+            "show_price": "1259",
+            "show_sales": "12K+",
+            "sr": "CtAFQJ60DGyfpn4EeKGyrhi/fCPw+QKPvhsu9ZA7HYXFozP0Qvm7Bg3NnKyW6bPJP/Mb6E9ctGqmMqIdTmBfTp4UBIk+jZFLnWAzuckDmoTgeEN5KQXkvOKltSgK86H5uoXtzENXkTvX0WFBZZeTSMwZsKOSOE4i9fXAXrXf4/oMHpA2E6B3mSquD8Q0pe/hC7P72S1vCEtII2QTKlpt5XyIpEg53ai+kGGVp5E1lmTVLAtr3za0tCEpOCg0w+f49exRAW+gsiwJabzQqIqGlEnN2DKX4RLbcBbjtlC3OoHi4lmRtCpmK51qlcDyun+tNFI3Dm1xwPhGyWtCXTAWXWBkyCo/RTsH3+s8MJQQlJxL0zQnYgE0ve8aPBbGIzjqA0ioAhSkPzg52Wn4tTMQL3vtL+/lR/KdINiffkc7n9l404pEgVdOFmSXHnS3qlb0V3GoW9aqbDiyGYCFFb2aNNI3J2me+xyTtHqIXXc5UdYLYk1EkYIztWB5S6VqzdRrglq//i78TzMs+O6AEhHTZO9zd53aTKjrbmEHMx8j5Yx8gEe6AKFl/zuEQLGrBJPaZlXUoQllTlR0CIO9QqpFKSlZQyoZX+X+m4raDI0eX0hAdT5FVZQQzWSyPU5tjY/ACxVLkY1KSxC0nLBocqN8tD9WjUJr1HdLHtrRWGylgfoT+SyRPZlbNWXJFIwWdvmqhm3TLKlkAZRcbVPLM/tgXRYrIv0WprS3dzudAFcXku3WvxKCiGucQc4CvpjRuNNLxaICfcmZx4sfuh5bqPV4B1WOx6sQ1hRCf2ZOUDxOWTVdcpv1kGz/6/gthvNsL5x719wfIUakIW3eljpGWzOAd83oXTiimreBFb5NiRnNAJTiO/ILuOHlbtregiQSmg6yf4A37Y37iYomlcDe2FJ5q1NxouN45XwTydM+FVRzOurWI3X8UpjXI/6KHKtNnJQkndfjEMYFGMEFIiQwNWZjNmI1ZC1kYmNmLTQ3MDctODA5OS0wNWJjNjI0Mjg3MTc=",
+            "ts": "1713783995301",
+            "ts_req": "0",
+            "tsr": "CoABw94I7VTRobaY1oARSccEj1FWWJd43i+WQ8/i6oeGKIfTdWuMvy2HnuNOZS+LLqkQ87r8oS/LbKcPGIW0B3Qz2z6pjA+6iN6vC2N0BYMJuL3E3dhxFxtMRVQ9OkLUbT1SpK2ghfz0eNCf6PaZL2XxJmEct9dyAnwxTb0RoznSaJcQdBh2IiQ2NTgxYzNmYi03ZjQ3LTRkMTAtYjgyMy1kNTM5MjExMGRhOTM=",
+            "version": "4"
+          },
+          "price_info": {
+            "currency": "USD",
+            "market_price": 2799,
+            "market_price_str": "$27.99",
+            "market_price_text": [
+              "$",
+              "27.99",
+              ""
+            ],
+            "price": 1259,
+            "price_color": "#FB7701",
+            "price_schema": "12.59",
+            "price_str": "$12.59",
+            "price_text": [
+              "$",
+              "12.59",
+              ""
+            ],
+            "reduction": 550,
+            "reduction_text": [
+              "-55",
+              "%"
+            ]
+          },
+          "queryReleScore": 0,
+          "sales_num": "12K+",
+          "sales_tip": "12K+ sold",
+          "sales_tip_text": [
+            "12K+",
+            "sold"
+          ],
+          "sales_tip_text_list": [
+            "12K+",
+            "sold"
+          ],
+          "show_index": 1,
+          "special_tags": [
+            {
+              "footer": {
+                "text": "Limited time offer"
+              },
+              "header": {
+                "text": "Special sale"
+              },
+              "split_line": 1
+            }
+          ],
+          "tags_info": {
+            "activity_icon_tags": [
+              {}
+            ],
+            "goods_tags": [
+              {
+                "color": "#555555",
+                "ext_map": {
+                  "bring_to_detail_flag": "1",
+                  "extra_text": "just bought"
+                },
+                "height": 39,
+                "marketing_tag_type": 1000,
+                "tag_id": 91022,
+                "tag_series": 2,
+                "text": "just bought",
+                "url": "https://avatar-us.kwcdn.com/avatar/b/MjEx/CgI2WRIITFY5bFRzOUQaEFP7YYVm7JZj5tSyUsNHgfAwAg-1677525242?imageMogr2/thumbnail/100x",
+                "width": 39
+              },
+              {
+                "color": "#555555",
+                "ext_map": {},
+                "marketing_tag_type": 1000,
+                "tag_id": 91027,
+                "tag_series": 2,
+                "text": "Lowest price in 30 days"
+              }
+            ],
+            "top_spec_tags": [
+              {
+                "color": "#555555",
+                "height": 11,
+                "marketing_tag_type": 1000,
+                "tag_id": 91011,
+                "tag_series": 2,
+                "text": "Personalization",
+                "url": "https://aimg.kwcdn.com/upload_aimg/temu/0840e782-f260-41aa-9790-da94f6f04111.png.slim.png",
+                "width": 11
+              }
+            ]
+          },
+          "thumb_url": "https://img.kwcdn.com/product/fancy/1d008e99-a011-4aa7-a2de-d37a0d680917.jpg",
+          "title": "1pc Name Customized Beach Towel, Super Absorbent Swimming Towel, Comfortable Beach Towel, Fashionable Pool Towel, Beach Accessories, Holiday Essential Gift Perfect For Men And Women",
+          "video": {
+            "icon_url": "https://aimg.kwcdn.com/upload_aimg/temu/35218716-bd3d-4f5a-8877-9771d5140ddd.png.slim.png",
+            "image_url": "https://img.kwcdn.com/product/fancy/1d008e99-a011-4aa7-a2de-d37a0d680917.jpg",
+            "url": "https://img.kwcdn.com/product/44e99b3f50a90a68f5fe3e038059e772e9f83889.goods.000001.jpeg",
+            "video_url": "https://goods-vod.kwcdn.com/goods-video/e922f0e20d10007b2f366d90c329285a0398d6b5.f30.mp4"
+          },
+          "visible": true,
+          "ware_house_type": 0
+        },
+        {
+          "activity_type": 3,
+          "benefit_text": {
+            "text": "-90%"
+          },
+          "comment": {
+            "comment_num_tips": "(59,073)",
+            "goods_score": 4.7
+          },
+          "extend_fields": {
+            "show_similar_items_on_sku_close": true,
+            "support_tag_carousel": true
+          },
+          "goods_id": 601099522058767,
+          "goods_tags": [
+            {
+              "color": "#555555",
+              "ext_map": {
+                "bring_to_detail_flag": "1",
+                "extra_text": "bought 1 min ago"
+              },
+              "height": 39,
+              "marketing_tag_type": 1000,
+              "tag_id": 91022,
+              "tag_series": 2,
+              "text": "bought 1 min ago",
+              "url": "https://avatar-us.kwcdn.com/avatar/b/Mzc/CgI2WRIITFY5bFRzOUQaEDw2nt6LsfP48DePoj7R4dcwAg-1676632586?imageMogr2/thumbnail/100x",
+              "width": 39
+            },
+            {
+              "color": "#555555",
+              "ext_map": {},
+              "marketing_tag_type": 1000,
+              "tag_id": 91027,
+              "tag_series": 2,
+              "text": "Lowest price in 60 days"
+            }
+          ],
+          "image": {
+            "height": 869,
+            "id": 2019005479,
+            "url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/b996ead0adfc288cb1e9e7a272afad1d.jpg",
+            "width": 869
+          },
+          "item_type": 0,
+          "link_url": "goods.html?_bg_fs=1&goods_id=601099522058767&_oak_mp_inf=EI%2FU8pum1ogBGiAzZTE3ZDBjOTgzOGM0NDgyYjQ5OTMxNmIxNzhhZGVkOSCT9%2FGr8DE%3D&thumb_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2FFancyalgo%2FVirtualModelMatting%2Fb996ead0adfc288cb1e9e7a272afad1d.jpg&_web_cover=thumb_url&pic_h=869&pic_w=869&spec_gallery_id=2019005479&refer_page_sn=10012&refer_source=0&freesia_scene=3&_oak_freesia_scene=3&_oak_rec_ext_1=MTU1&_oak_gallery_order=1455292424%2C788660777%2C772108739%2C191307877%2C923871212",
+          "mall_id": 5424388145731,
+          "opt_id": 2171,
+          "opt_type": 3,
+          "p_rec": {
+            "bid": "69999705",
+            "engine_creative_id": "1455292424",
+            "exp": "Co8D8gMTCK4EEMM2FBMIwAQQABQTCMkHABL2BwAhjgUVAPEJygUQ8jUUEwj7BRCFOBQTCCAQkTMUEwgaHQARYwYA8QpqEI8xFBMIgAEQ/BgUEwiEARCYEhQTCJMBHgAS2QcAQPMBEP45AKGqAhC4NBQTCLsCHgAS2wcAEv0HABL/BwAS4QcAoa0DEOIsFBMIgwYrAMD8BBDLNxQTCIoGEMyKACGEAxcAEoUHAPIClwMQyisUEwipAxDiLhQTCOIXAJL8AxCZMBQTCNsPABKY3AAP+QADwN8EEJ8yFBMI5AQQ6qMAAwIBQMcFEO54AA8CAQIRQ4QAEUUGABFMBgARSwYAgWQQ1AoUEwhpDQARfQYABCABko0BEMsvFBMIjhkBErYHABLDBwAEJwES7g8AErEKAUDFAhDqmgAS1w8AEtgHAAM8ARL0DgAPQwEKEt3/AECOBBDMywDAvAQQqC0UEwj3BBCdlQFAgQUQi2AAIasFqgAStwcAA3gBA6oBD38BEwRwAdD9AxDHNBQTCNsDEAAUEOoEGI8D",
+            "final_creative_id": "1455292424",
+            "g": "601099522058767",
+            "gin_fallback": "0",
+            "goods_source": "rec",
+            "idx": "2",
+            "list_id": "3e17d0c9838c4482b499316b178aded9",
+            "mid": "69999906",
+            "no_result": "0",
+            "offset": "0",
+            "opt_id": "2170",
+            "opt_type": "0",
+            "region": "211",
+            "scene": "opt",
+            "scene_id": "3",
+            "search_id": "L0vJ5thtrLASGDwG88AEfsZKijSMor_m1Knjgj1C7Ac=",
+            "show_currency": "USD",
+            "show_price": "155",
+            "show_sales": "100K+",
+            "sr": "CtAF7/2X+GUs5UPwIKksEvVKayPw+QKPvhsu9ZA7HYXFozM4rfaIpaRUmGeDn97cg7ErtHddLZJtforHMTymKS/o1wUYXd+RdncKL8YgzAXVplciX+3lNXq7RMnAecvbG9Ivp4s2uLmKLFpfIJyh/kORMxiuASJnAwjM8cLwJDVMOQIiuXrnzEYW0IReXvc5V8wM3Sqhm8e8KgkTSxo7npk6PP2sCqubaaYEW1oSqYIEXc763cBk57FB93RCAJi72acI53YAwp4J5IXpVhMAUpN2283y6ZA0vyZEdAFBdPbO9SZd7OKazmM70wKDPYzXuJloEtsP12aCquLYtYCNPzCVa+33i/KrQB9oSN7JAg8+Rll4I+Qy5A/eWyT2CTibCMv7UrlLNK9aUlaJbJ+aSweoiH9dpvCJgt5EazrPEmLwv1dhD6wGvRsfM3xseJrfw488M9138O80jwX4qYhQCMPrq16ehraubq1vEeRBsv6N5VjszTIDC4E+1vJdS0pKqWJhIyWw8rq2bCfBrYg/iAxgf/449wqPSjNWqPr6V3+xndBzhhXjeDHfIdAV1GVItozqiV2b88oO1KsQYwqJNDN1CKKvcm14JiM8eibKfUAauNY52SKHke1m5IuJh20T38NNjX3oivNYwJhijFoDkNnjNxUuRN7cCB32jb3ghooh+0dsX5g/9qXPM3wC9ThVQW2BBU96BhGUw9JgcLe/7G9Z8Q11hQVJ0BMmkK6rJY7ePAZj8La0prYtHzPqYeO6Cqq+dlbmhn2yD9QRxSUfale8dqsQ1hRCf2ZOUDxOWTVdcpv1kGz/6/gthvNsL5x719wfdqR11FzNLdS5eV/6UUaRjsM+EcA8fRPUV+JyiBbUViILuOHlbtregiQSmg6yf4A3RgjiZw8J/sHNjcD1qHXe5pEukr7AQ3FFItq//8U2i+/FjcFsRWLv7eifnKkjgFvGEMgFGMIFIiQwNWZjNmI1ZC1kYmNmLTQ3MDctODA5OS0wNWJjNjI0Mjg3MTc=",
+            "ts": "1713783995301",
+            "ts_req": "0",
+            "tsr": "CoABbOpPWWfLQifj1NOjeiSQAVFWWJd43i+WQ8/i6oeGKIfTdWuMvy2HnuNOZS+LLqkQSNSc8K9vgfd/LaW17FJ/VT6pjA+6iN6vC2N0BYMJuL3E3dhxFxtMRVQ9OkLUbT1SD+DBrIKfEFqbTISi2H7I1QnDWTpHoZyrpFyFsQsM7WIQdRh3IiQ2NTgxYzNmYi03ZjQ3LTRkMTAtYjgyMy1kNTM5MjExMGRhOTM=",
+            "version": "4"
+          },
+          "price_info": {
+            "currency": "USD",
+            "market_price": 1586,
+            "market_price_str": "$15.86",
+            "market_price_text": [
+              "$",
+              "15.86",
+              ""
+            ],
+            "price": 155,
+            "price_color": "#FB7701",
+            "price_schema": "1.55",
+            "price_str": "$1.55",
+            "price_text": [
+              "$",
+              "1.55",
+              ""
+            ],
+            "reduction": 900,
+            "reduction_text": [
+              "-90",
+              "%"
+            ]
+          },
+          "queryReleScore": 0,
+          "sales_num": "100K+",
+          "sales_tip": "100K+ sold",
+          "sales_tip_text": [
+            "100K+",
+            "sold"
+          ],
+          "sales_tip_text_list": [
+            "100K+",
+            "sold"
+          ],
+          "show_index": 2,
+          "special_tags": [
+            {
+              "footer": {
+                "text": "Limited time offer"
+              },
+              "header": {
+                "text": "Special sale"
+              },
+              "split_line": 1
+            }
+          ],
+          "tags_info": {
+            "activity_icon_tags": [
+              {}
+            ],
+            "goods_tags": [
+              {
+                "color": "#555555",
+                "ext_map": {
+                  "bring_to_detail_flag": "1",
+                  "extra_text": "bought 1 min ago"
+                },
+                "height": 39,
+                "marketing_tag_type": 1000,
+                "tag_id": 91022,
+                "tag_series": 2,
+                "text": "bought 1 min ago",
+                "url": "https://avatar-us.kwcdn.com/avatar/b/Mzc/CgI2WRIITFY5bFRzOUQaEDw2nt6LsfP48DePoj7R4dcwAg-1676632586?imageMogr2/thumbnail/100x",
+                "width": 39
+              },
+              {
+                "color": "#555555",
+                "ext_map": {},
+                "marketing_tag_type": 1000,
+                "tag_id": 91027,
+                "tag_series": 2,
+                "text": "Lowest price in 60 days"
+              }
+            ]
+          },
+          "thumb_url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/b996ead0adfc288cb1e9e7a272afad1d.jpg",
+          "title": "1pc Rainbow Embroidered Hair Towel With Button, Soft Hair Drying Cap, Cute Solid Color Hair Towel For Bathroom, Absorbent Quick Drying Hair Wrap Towel For Women, Bathroom Supplies, Bathroom Accessories",
+          "video": {
+            "icon_url": "https://aimg.kwcdn.com/upload_aimg/temu/35218716-bd3d-4f5a-8877-9771d5140ddd.png.slim.png",
+            "image_url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/b996ead0adfc288cb1e9e7a272afad1d.jpg",
+            "url": "https://img.kwcdn.com/product/2de33309e34e5df08992e8e87c67659c0d14e017.goods.000001.jpeg",
+            "video_url": "https://goods-vod.kwcdn.com/goods-video/0255cb07f3f6924681e670bfa4b8b51861cb8ff2.f30.mp4"
+          },
+          "visible": true,
+          "ware_house_type": 0
+        },
+        {
+          "activity_type": 3,
+          "benefit_text": {
+            "text": "-36%"
+          },
+          "comment": {
+            "comment_num_tips": "(2,388)",
+            "goods_score": 4.8
+          },
+          "extend_fields": {
+            "sale_fire_flag": true,
+            "show_similar_items_on_sku_close": true,
+            "support_tag_carousel": true
+          },
+          "goods_id": 601099536694202,
+          "goods_tags": [
+            {
+              "color": "#555555",
+              "ext_map": {
+                "bring_to_detail_flag": "1",
+                "extra_text": "just bought"
+              },
+              "height": 39,
+              "marketing_tag_type": 1000,
+              "tag_id": 91022,
+              "tag_series": 2,
+              "text": "just bought",
+              "url": "https://avatar-us.kwcdn.com/avatar/b/Mzc/CgI2WRIITFY5bFRzOUQaEEwYBL2pfwHa-ipdk9NmRg8wAg-1689742778?imageMogr2/thumbnail/100x",
+              "width": 39
+            }
+          ],
+          "image": {
+            "height": 1200,
+            "id": 2074565695,
+            "url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/c2ffa46b65d2b21bf9e5103a7921e9ee.jpg",
+            "width": 1200
+          },
+          "item_type": 0,
+          "link_url": "goods.html?_bg_fs=1&goods_id=601099536694202&_oak_mp_inf=ELr376Km1ogBGiAzZTE3ZDBjOTgzOGM0NDgyYjQ5OTMxNmIxNzhhZGVkOSCT9%2FGr8DE%3D&thumb_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2FFancyalgo%2FVirtualModelMatting%2Fc2ffa46b65d2b21bf9e5103a7921e9ee.jpg&_web_cover=thumb_url&pic_h=1200&pic_w=1200&spec_gallery_id=2074565695&refer_page_sn=10012&refer_source=0&freesia_scene=3&_oak_freesia_scene=3&_oak_rec_ext_1=ODQ2&_oak_gallery_order=352773120%2C796018551%2C1696478622%2C1823120086%2C1514082925",
+          "mall_id": 5185595202208,
+          "opt_id": 2171,
+          "opt_type": 3,
+          "p_rec": {
+            "bid": "69999705",
+            "engine_creative_id": "352773120",
+            "exp": "Co8D8gMTCK4EEMM2FBMIwAQQABQTCMkHABL2BwAhjgUVAPEJygUQ8jUUEwj7BRCFOBQTCCAQkTMUEwgaHQARYwYA8QpqEI8xFBMIgAEQ/BgUEwiEARCYEhQTCJMBHgAS2QcAQPMBEP45AKGqAhC4NBQTCLsCHgAS2wcAEv0HABL/BwAS4QcAoa0DEOIsFBMIgwYrAMD8BBDLNxQTCIoGEMyKACGEAxcAEoUHAPIClwMQyisUEwipAxDiLhQTCOIXAJL8AxCZMBQTCNsPABKY3AAP+QADwN8EEJ8yFBMI5AQQ6qMAAwIBQMcFEO54AA8CAQIRQ4QAEUUGABFMBgARSwYAgWQQ1AoUEwhpDQARfQYABCABko0BEMsvFBMIjhkBErYHABLDBwAEJwES7g8AErEKAUDFAhDqmgAS1w8AEtgHAAM8ARL0DgAPQwEKEt3/AECOBBDMywDAvAQQqC0UEwj3BBCdlQFAgQUQi2AAIasFqgAStwcAA3gBA6oBD38BEwRwAdD9AxDHNBQTCNsDEAAUEOoEGI8D",
+            "final_creative_id": "352773120",
+            "g": "601099536694202",
+            "gin_fallback": "0",
+            "goods_source": "rec",
+            "idx": "3",
+            "list_id": "3e17d0c9838c4482b499316b178aded9",
+            "mid": "69999906",
+            "no_result": "0",
+            "offset": "0",
+            "opt_id": "2170",
+            "opt_type": "0",
+            "region": "211",
+            "scene": "opt",
+            "scene_id": "3",
+            "search_id": "L0vJ5thtrLASGDwG88AEfsZKijSMor_m1Knjgj1C7Ac=",
+            "show_currency": "USD",
+            "show_price": "846",
+            "show_sales": "8.5K+",
+            "sr": "CtAFAzC8N6QjSv+SSRQzhukipSPw+QKPvhsu9ZA7HYXFozNCs0zmBKR3pW0RT0q3Mp0utHddLZJtforHMTymKS/o1wUYXd+RdncKL8YgzAXVplciX+3lNXq7RMnAecvbG9Ivp4s2uLmKLFpfIJyh/kORMxiuASJnAwjM8cLwJDVMOQIiuXrnzEYW0IReXvc5V8wM3Sqhm8e8KgkTSxo7npk6PP2sCqubaaYEW1oSqYIEXc763cBk57FB93RCAJi72acI53YAwp4J5IXpVhMAUpN2283y6ZA0vyZEdAFBdPbO9SZd7OKazmM70wKDPYzXuJloEtsP12aCquLYtYCNPzCVa+33i/KrQB9oSN7JAg8+Rll4I+Qy5A/eWyT2CTibCMv7UrlLNK9aUlaJbJ+aSweoiH9dpvCJgt5EazrPEmLwv1dhD6wGvRsfM3xseJrfw488M9138O80jwX4qYhQCMPrq16ehraubq1vEeRBsv6N5VjszTIDC4E+1vJdS0pKqWJhIyWw8rq2bCfBrYg/iAxgf/449wqPSjNWqPr6V3+xndBzhhXjeDHfIdAV1GVItozqiV2b88oO1KsQYwqJNDN1CKKvcm14JiM8eibKfUAauNY52SKHke1m5IuJh20T38NNjX3oivNYwJhijFoDkNnjNxUuRN7cCB32jb3ghooh+0dsX5g/9qXPM3wC9ThVQW2BBU96BhGUw9JgcLe/7G9Z8Q11hQVJ0BMmkK6rJY7ePAZj8La0prYtHzPqYeO6Cqq+dlbmhn2yD9QRxSUfale8dqsQ1hRCf2ZOUDxOWTVdcpv1kGz/6/gthvNsL5x719wfDyhQTtZu17VPB9/FWmVRkLY9WXDca0/9GjJo5wV62+cLuOHlbtregiQSmg6yf4A3gMxoxU4elgQLJdTM/deIPmN1jMI18vyi6UXVQScP1KhuJO8MUyxj6Vx32AwP0BEBEMgFGMIFIiQwNWZjNmI1ZC1kYmNmLTQ3MDctODA5OS0wNWJjNjI0Mjg3MTc=",
+            "ts": "1713783995301",
+            "ts_req": "0",
+            "tsr": "CoABbOpPWWfLQifj1NOjeiSQAVFWWJd43i+WQ8/i6oeGKIfTdWuMvy2HnuNOZS+LLqkQh5lYFXOR9sZZkkA6jRdPaT6pjA+6iN6vC2N0BYMJuL3E3dhxFxtMRVQ9OkLUbT1S+DEqBjfe4H0g4K5W8TKcX5PIAXwee2ZxClqM1YMUv0UQdRh3IiQ2NTgxYzNmYi03ZjQ3LTRkMTAtYjgyMy1kNTM5MjExMGRhOTM=",
+            "version": "4"
+          },
+          "price_info": {
+            "currency": "USD",
+            "market_price": 1328,
+            "market_price_str": "$13.28",
+            "market_price_text": [
+              "$",
+              "13.28",
+              ""
+            ],
+            "price": 846,
+            "price_color": "#FB7701",
+            "price_schema": "8.46",
+            "price_str": "$8.46",
+            "price_text": [
+              "$",
+              "8.46",
+              ""
+            ],
+            "reduction": 360,
+            "reduction_text": [
+              "-36",
+              "%"
+            ]
+          },
+          "queryReleScore": 0,
+          "sales_num": "8.5K+",
+          "sales_tip": "8.5K+ sold",
+          "sales_tip_text": [
+            "8.5K+",
+            "sold"
+          ],
+          "sales_tip_text_list": [
+            "8.5K+",
+            "sold"
+          ],
+          "show_index": 3,
+          "special_tags": [
+            {
+              "footer": {
+                "text": "Limited time offer"
+              },
+              "header": {
+                "text": "Special sale"
+              },
+              "split_line": 1
+            }
+          ],
+          "tags_info": {
+            "activity_icon_tags": [
+              {}
+            ],
+            "goods_tags": [
+              {
+                "color": "#555555",
+                "ext_map": {
+                  "bring_to_detail_flag": "1",
+                  "extra_text": "just bought"
+                },
+                "height": 39,
+                "marketing_tag_type": 1000,
+                "tag_id": 91022,
+                "tag_series": 2,
+                "text": "just bought",
+                "url": "https://avatar-us.kwcdn.com/avatar/b/Mzc/CgI2WRIITFY5bFRzOUQaEEwYBL2pfwHa-ipdk9NmRg8wAg-1689742778?imageMogr2/thumbnail/100x",
+                "width": 39
+              }
+            ]
+          },
+          "thumb_url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/c2ffa46b65d2b21bf9e5103a7921e9ee.jpg",
+          "title": "1pc Oversized Super Soft Bath Towel, Absorbent Quick-drying Women's Shower Towel, Cute Comfortable Household Towel, Bathroom Supplies, Home Supplies, 35.43*70.87inch",
+          "visible": true,
+          "ware_house_type": 0
+        },
+        {
+          "activity_type": 2,
+          "benefit_text": {
+            "text": "-89%"
+          },
+          "comment": {
+            "comment_num_tips": "(2,931)",
+            "goods_score": 4.5
+          },
+          "extend_fields": {
+            "show_similar_items_on_sku_close": true,
+            "support_tag_carousel": true
+          },
+          "goods_id": 601099527228850,
+          "goods_tags": [
+            {
+              "color": "#555555",
+              "ext_map": {
+                "bring_to_detail_flag": "1",
+                "extra_text": "just bought"
+              },
+              "height": 39,
+              "marketing_tag_type": 1000,
+              "tag_id": 91022,
+              "tag_series": 2,
+              "text": "just bought",
+              "url": "https://avatar-us.kwcdn.com/avatar/b/MjEx/CgI2WRIITFY5bFRzOUQaEM0JWOjU06nWXZ0UPoIyjCIwAg-1667370220?imageMogr2/thumbnail/100x",
+              "width": 39
+            }
+          ],
+          "image": {
+            "height": 375,
+            "id": 601099527228850,
+            "url": "https://img.kwcdn.com/product/open/2023-09-22/1695364141194-cd0753a71c2e418abb557afddfc8d9ef-goods.jpeg",
+            "width": 375
+          },
+          "item_type": 0,
+          "link_url": "goods.html?_bg_fs=1&goods_id=601099527228850&_oak_mp_inf=ELKbrp6m1ogBGiAzZTE3ZDBjOTgzOGM0NDgyYjQ5OTMxNmIxNzhhZGVkOSCT9%2FGr8DE%3D&thumb_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Fopen%2F2023-09-22%2F1695364141194-cd0753a71c2e418abb557afddfc8d9ef-goods.jpeg&_web_cover=thumb_url&pic_h=375&pic_w=375&spec_gallery_id=601099527228850&refer_page_sn=10012&refer_source=0&freesia_scene=3&_oak_freesia_scene=3&_oak_rec_ext_1=Njg3&_oak_gallery_order=1054612386%2C744528675%2C1459744049%2C1907520043%2C544243162",
+          "mall_id": 221353679668,
+          "opt_id": 2171,
+          "opt_type": 3,
+          "p_rec": {
+            "bid": "69999705",
+            "engine_creative_id": "1054612386",
+            "exp": "Co8D8gMTCK4EEMM2FBMIwAQQABQTCMkHABL2BwAhjgUVAPEJygUQ8jUUEwj7BRCFOBQTCCAQkTMUEwgaHQARYwYA8QpqEI8xFBMIgAEQ/BgUEwiEARCYEhQTCJMBHgAS2QcAQPMBEP45AKGqAhC4NBQTCLsCHgAS2wcAEv0HABL/BwAS4QcAoa0DEOIsFBMIgwYrAMD8BBDLNxQTCIoGEMyKACGEAxcAEoUHAPIClwMQyisUEwipAxDiLhQTCOIXAJL8AxCZMBQTCNsPABKY3AAP+QADwN8EEJ8yFBMI5AQQ6qMAAwIBQMcFEO54AA8CAQIRQ4QAEUUGABFMBgARSwYAgWQQ1AoUEwhpDQARfQYABCABko0BEMsvFBMIjhkBErYHABLDBwAEJwES7g8AErEKAUDFAhDqmgAS1w8AEtgHAAM8ARL0DgAPQwEKEt3/AECOBBDMywDAvAQQqC0UEwj3BBCdlQFAgQUQi2AAIasFqgAStwcAA3gBA6oBD38BEwRwAdD9AxDHNBQTCNsDEAAUEOoEGI8D",
+            "final_creative_id": "1054612386",
+            "g": "601099527228850",
+            "gin_fallback": "0",
+            "goods_source": "rec",
+            "idx": "4",
+            "list_id": "3e17d0c9838c4482b499316b178aded9",
+            "mid": "69999906",
+            "no_result": "0",
+            "offset": "0",
+            "opt_id": "2170",
+            "opt_type": "0",
+            "region": "211",
+            "scene": "opt",
+            "scene_id": "3",
+            "search_id": "L0vJ5thtrLASGDwG88AEfsZKijSMor_m1Knjgj1C7Ac=",
+            "show_currency": "USD",
+            "show_price": "687",
+            "show_sales": "13K+",
+            "sr": "CtAFIojz2EhtgOhJdq39kxyI6iPw+QKPvhsu9ZA7HYXFozPXSP0lODg5cY8DyjU3QK/7tHddLZJtforHMTymKS/o1wUYXd+RdncKL8YgzAXVplciX+3lNXq7RMnAecvbG9Ivp4s2uLmKLFpfIJyh/kORMxiuASJnAwjM8cLwJDVMOQIiuXrnzEYW0IReXvc5V8wM3Sqhm8e8KgkTSxo7npk6PP2sCqubaaYEW1oSqYIEXc763cBk57FB93RCAJi72acI53YAwp4J5IXpVhMAUpN2283y6ZA0vyZEdAFBdPbO9SZd7OKazmM70wKDPYzXuJloEtsP12aCquLYtYCNPzCVa+33i/KrQB9oSN7JAg8+Rll4I+Qy5A/eWyT2CTibCMv7UrlLNK9aUlaJbJ+aSweoiH9dpvCJgt5EazrPEmLwv1dhD6wGvRsfM3xseJrfw488M9138O80jwX4qYhQCMPrq16ehraubq1vEeRBsv6N5VjszTIDC4E+1vJdS0pKqWJhIyWw8rq2bCfBrYg/iAxgf/449wqPSjNWqPr6V3+xndBzhhXjeDHfIdAV1GVItozqiV2b88oO1KsQYwqJNDN1CKKvcm14JiM8eibKfUAauNY52SKHke1m5IuJh20T38NNjX3oivNYwJhijFoDkNnjNxUuRN7cCB32jb3ghooh+0dsX5g/9qXPM3wC9ThVQW2BBU96BhGUw9JgcLe/7G9Z8Q11hQVJ0BMmkK6rJY7ePAZxSo2fc5GUoF7OVRPRv2K4fcmZx4sfuh5bqPV4B1WOx6sQ1hRCf2ZOUDxOWTVdcpv1kGz/6/gthvNsL5x719wfzhAyME15A47zwWLzEEEQRiwsd4EXXJTlmSTJC5aI1awLuOHlbtregiQSmg6yf4A3GQOLbk1iejN7+B5FWze7VUTRfRS28K7WySKLfjPDJxX0kozFCAgHIwd4I2TDWHycEMcFGMEFIiQwNWZjNmI1ZC1kYmNmLTQ3MDctODA5OS0wNWJjNjI0Mjg3MTc=",
+            "ts": "1713783995301",
+            "ts_req": "0",
+            "tsr": "CoABw94I7VTRobaY1oARSccEj1FWWJd43i+WQ8/i6oeGKIfTdWuMvy2HnuNOZS+LLqkQOiBx/cAMyOOvtrsJhd3gVT6pjA+6iN6vC2N0BYMJuL3E3dhxFxtMRVQ9OkLUbT1Sa/dHUERi4QNToR8eA37320r2ALIVfjSIgfT/9azWDE8QdBh2IiQ2NTgxYzNmYi03ZjQ3LTRkMTAtYjgyMy1kNTM5MjExMGRhOTM=",
+            "version": "4"
+          },
+          "price_info": {
+            "currency": "USD",
+            "market_price": 6699,
+            "market_price_str": "$66.99",
+            "market_price_text": [
+              "$",
+              "66.99",
+              ""
+            ],
+            "price": 687,
+            "price_color": "#FB7701",
+            "price_schema": "6.87",
+            "price_str": "$6.87",
+            "price_text": [
+              "$",
+              "6.87",
+              ""
+            ],
+            "reduction": 890,
+            "reduction_text": [
+              "-89",
+              "%"
+            ]
+          },
+          "queryReleScore": 0,
+          "sales_num": "13K+",
+          "sales_tip": "13K+ sold",
+          "sales_tip_text": [
+            "13K+",
+            "sold"
+          ],
+          "sales_tip_text_list": [
+            "13K+",
+            "sold"
+          ],
+          "show_index": 4,
+          "sold_quantity_percent": 5,
+          "special_tags": [
+            {
+              "footer": {
+                "text": "Final hours!"
+              },
+              "header": {
+                "text": "Lightning deal"
+              },
+              "split_line": 1
+            }
+          ],
+          "tags_info": {
+            "activity_icon_tags": [
+              {
+                "height": 24,
+                "icon_img": "https://aimg.kwcdn.com/upload_aimg_b/search/0f7bbe9c-599b-4380-8c8a-7ea42ba4db03.png",
+                "width": 24
+              }
+            ],
+            "goods_tags": [
+              {
+                "color": "#555555",
+                "ext_map": {
+                  "bring_to_detail_flag": "1",
+                  "extra_text": "just bought"
+                },
+                "height": 39,
+                "marketing_tag_type": 1000,
+                "tag_id": 91022,
+                "tag_series": 2,
+                "text": "just bought",
+                "url": "https://avatar-us.kwcdn.com/avatar/b/MjEx/CgI2WRIITFY5bFRzOUQaEM0JWOjU06nWXZ0UPoIyjCIwAg-1667370220?imageMogr2/thumbnail/100x",
+                "width": 39
+              }
+            ]
+          },
+          "thumb_url": "https://img.kwcdn.com/product/open/2023-09-22/1695364141194-cd0753a71c2e418abb557afddfc8d9ef-goods.jpeg",
+          "title": "20pcs Solid Color Washcloths, Simple Plain Face Cloth, Soft Absorbent Towel Small Face Towel, Bathroom Supplies Travel Accessories Bathroom Accessories",
+          "video": {
+            "icon_url": "https://aimg.kwcdn.com/upload_aimg/temu/35218716-bd3d-4f5a-8877-9771d5140ddd.png.slim.png",
+            "image_url": "https://img.kwcdn.com/product/open/2023-09-22/1695364141194-cd0753a71c2e418abb557afddfc8d9ef-goods.jpeg",
+            "url": "https://img.kwcdn.com/product/927bba13d3e7add5aa279d996db56ceacad9ad89.goods.000001.jpeg",
+            "video_url": "https://goods-vod.kwcdn.com/goods-video/03ae456b9c6d2f44247c8087c992fead2598a48c.f30.mp4"
+          },
+          "visible": true,
+          "ware_house_type": 0
+        },
+        {
+          "activity_type": 2,
+          "benefit_text": {
+            "text": "-73%"
+          },
+          "comment": {
+            "comment_num_tips": "(760)",
+            "goods_score": 4.7
+          },
+          "extend_fields": {
+            "show_similar_items_on_sku_close": true,
+            "support_tag_carousel": true
+          },
+          "goods_id": 601099533190713,
+          "goods_tags": [
+            {
+              "color": "#555555",
+              "ext_map": {
+                "bring_to_detail_flag": "1",
+                "extra_text": "bought 6 min ago"
+              },
+              "height": 39,
+              "marketing_tag_type": 1000,
+              "tag_id": 91022,
+              "tag_series": 2,
+              "text": "bought 6 min ago",
+              "url": "https://avatar-us.kwcdn.com/avatar/b/MjEx/CgI2WRIITFY5bFRzOUQaEEiTYQHBRVmFXhgx2o2hDtAwAg-1670162522?imageMogr2/thumbnail/100x",
+              "width": 39
+            }
+          ],
+          "image": {
+            "height": 800,
+            "id": 2058193668,
+            "url": "https://img.kwcdn.com/product/open/2023-11-10/1699596271793-21324184da794a4c95f7e4d889d930f3-goods.jpeg",
+            "width": 800
+          },
+          "item_type": 0,
+          "link_url": "goods.html?_bg_fs=1&goods_id=601099533190713&_oak_mp_inf=ELmMmqGm1ogBGiAzZTE3ZDBjOTgzOGM0NDgyYjQ5OTMxNmIxNzhhZGVkOSCT9%2FGr8DE%3D&thumb_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Fopen%2F2023-11-10%2F1699596271793-21324184da794a4c95f7e4d889d930f3-goods.jpeg&_web_cover=thumb_url&pic_h=800&pic_w=800&spec_gallery_id=2058193668&refer_page_sn=10012&refer_source=0&freesia_scene=3&_oak_freesia_scene=3&_oak_rec_ext_1=Njg3&_oak_gallery_order=408224649%2C301733999%2C1522577108%2C48138826%2C1153217587",
+          "mall_id": 634418212258003,
+          "opt_id": 2171,
+          "opt_type": 3,
+          "p_rec": {
+            "bid": "69999705",
+            "engine_creative_id": "408224649",
+            "exp": "Co8D8gMTCK4EEMM2FBMIwAQQABQTCMkHABL2BwAhjgUVAPEJygUQ8jUUEwj7BRCFOBQTCCAQkTMUEwgaHQARYwYA8QpqEI8xFBMIgAEQ/BgUEwiEARCYEhQTCJMBHgAS2QcAQPMBEP45AKGqAhC4NBQTCLsCHgAS2wcAEv0HABL/BwAS4QcAoa0DEOIsFBMIgwYrAMD8BBDLNxQTCIoGEMyKACGEAxcAEoUHAPIClwMQyisUEwipAxDiLhQTCOIXAJL8AxCZMBQTCNsPABKY3AAP+QADwN8EEJ8yFBMI5AQQ6qMAAwIBQMcFEO54AA8CAQIRQ4QAEUUGABFMBgARSwYAgWQQ1AoUEwhpDQARfQYABCABko0BEMsvFBMIjhkBErYHABLDBwAEJwES7g8AErEKAUDFAhDqmgAS1w8AEtgHAAM8ARL0DgAPQwEKEt3/AECOBBDMywDAvAQQqC0UEwj3BBCdlQFAgQUQi2AAIasFqgAStwcAA3gBA6oBD38BEwRwAdD9AxDHNBQTCNsDEAAUEOoEGI8D",
+            "final_creative_id": "408224649",
+            "g": "601099533190713",
+            "gin_fallback": "0",
+            "goods_source": "rec",
+            "idx": "5",
+            "list_id": "3e17d0c9838c4482b499316b178aded9",
+            "mid": "69999906",
+            "no_result": "0",
+            "offset": "0",
+            "opt_id": "2170",
+            "opt_type": "0",
+            "region": "211",
+            "scene": "opt",
+            "scene_id": "3",
+            "search_id": "L0vJ5thtrLASGDwG88AEfsZKijSMor_m1Knjgj1C7Ac=",
+            "show_currency": "USD",
+            "show_price": "687",
+            "show_sales": "5.2K+",
+            "sr": "CtAFilcqv1SQ+a3oMzDrUhP99yPw+QKPvhsu9ZA7HYXFozN+2N3rxDrD9k5SN0KgkHRktHddLZJtforHMTymKS/o1wUYXd+RdncKL8YgzAXVplciX+3lNXq7RMnAecvbG9Ivp4s2uLmKLFpfIJyh/kORMxiuASJnAwjM8cLwJDVMOQIiuXrnzEYW0IReXvc5V8wM3Sqhm8e8KgkTSxo7npk6PP2sCqubaaYEW1oSqYIEXc763cBk57FB93RCAJi72acI53YAwp4J5IXpVhMAUpN2283y6ZA0vyZEdAFBdPbO9SZd7OKazmM70wKDPYzXuJloEtsP12aCquLYtYCNPzCVa+33i/KrQB9oSN7JAg8+Rll4I+Qy5A/eWyT2CTibCMv7UrlLNK9aUlaJbJ+aSweoiH9dpvCJgt5EazrPEmLwv1dhD6wGvRsfM3xseJrfw488M9138O80jwX4qYhQCMPrq16ehraubq1vEeRBsv6N5VjszTIDC4E+1vJdS0pKqWJhIyWw8rq2bCfBrYg/iAxgf/449wqPSjNWqPr6V3+xndBzhhXjeDHfIdAV1GVItozqiV2b88oO1KsQYwqJNDN1CKKvcm14JiM8eibKfUAauNY52SKHke1m5IuJh20T38NNjX3oivNYwJhijFoDkNnjNxUuRN7cCB32jb3ghooh+0dsX5g/9qXPM3wC9ThVQW2BBU96BhGUw9JgcLe/7G9Z8Q11hQVJ0BMmkK6rJY7ePAZj8La0prYtHzPqYeO6Cqq+dlbmhn2yD9QRxSUfale8dqsQ1hRCf2ZOUDxOWTVdcpv1kGz/6/gthvNsL5x719wfNgiJhZr8uRh3Y0a8EY27ovBzSIzvwGpFNldn7ClcSJMLuOHlbtregiQSmg6yf4A3GQOLbk1iejN7+B5FWze7VUfgYyTV9EjwyztWk4vECjnzIU0GEcN2vpWaIIR3GndlEMgFGMIFIiQwNWZjNmI1ZC1kYmNmLTQ3MDctODA5OS0wNWJjNjI0Mjg3MTc=",
+            "ts": "1713783995301",
+            "ts_req": "0",
+            "tsr": "CoABbOpPWWfLQifj1NOjeiSQAVFWWJd43i+WQ8/i6oeGKIfTdWuMvy2HnuNOZS+LLqkQFDye/RJoYjjCmtTZXUNoOj6pjA+6iN6vC2N0BYMJuL3E3dhxFxtMRVQ9OkLUbT1Srzxjli2lOe1IB4srTaLv2IbjAsgV5xsO6ffEQmKm+24QdRh3IiQ2NTgxYzNmYi03ZjQ3LTRkMTAtYjgyMy1kNTM5MjExMGRhOTM=",
+            "version": "4"
+          },
+          "price_info": {
+            "currency": "USD",
+            "market_price": 2548,
+            "market_price_str": "$25.48",
+            "market_price_text": [
+              "$",
+              "25.48",
+              ""
+            ],
+            "price": 687,
+            "price_color": "#FB7701",
+            "price_schema": "6.87",
+            "price_str": "$6.87",
+            "price_text": [
+              "$",
+              "6.87",
+              ""
+            ],
+            "reduction": 730,
+            "reduction_text": [
+              "-73",
+              "%"
+            ]
+          },
+          "queryReleScore": 0,
+          "sales_num": "5.2K+",
+          "sales_tip": "5.2K+ sold",
+          "sales_tip_text": [
+            "5.2K+",
+            "sold"
+          ],
+          "sales_tip_text_list": [
+            "5.2K+",
+            "sold"
+          ],
+          "show_index": 5,
+          "sold_quantity_percent": 5,
+          "special_tags": [
+            {
+              "footer": {
+                "text": "Final hours!"
+              },
+              "header": {
+                "text": "Lightning deal"
+              },
+              "split_line": 1
+            }
+          ],
+          "tags_info": {
+            "activity_icon_tags": [
+              {
+                "height": 24,
+                "icon_img": "https://aimg.kwcdn.com/upload_aimg_b/search/0f7bbe9c-599b-4380-8c8a-7ea42ba4db03.png",
+                "width": 24
+              }
+            ],
+            "goods_tags": [
+              {
+                "color": "#555555",
+                "ext_map": {
+                  "bring_to_detail_flag": "1",
+                  "extra_text": "bought 6 min ago"
+                },
+                "height": 39,
+                "marketing_tag_type": 1000,
+                "tag_id": 91022,
+                "tag_series": 2,
+                "text": "bought 6 min ago",
+                "url": "https://avatar-us.kwcdn.com/avatar/b/MjEx/CgI2WRIITFY5bFRzOUQaEEiTYQHBRVmFXhgx2o2hDtAwAg-1670162522?imageMogr2/thumbnail/100x",
+                "width": 39
+              }
+            ]
+          },
+          "thumb_url": "https://img.kwcdn.com/product/open/2023-11-10/1699596271793-21324184da794a4c95f7e4d889d930f3-goods.jpeg",
+          "title": "20pcs Solid Color Washcloth, Household Plain Handkerchiefs, Small Square Towel, Soft Absorbent Towel For Home Bathroom, Bathroom Supplies, 9.8*9.8in",
+          "visible": true,
+          "ware_house_type": 0
+        },
+        {
+          "activity_type": 3,
+          "benefit_text": {
+            "text": "-81%"
+          },
+          "comment": {
+            "comment_num_tips": "(21,579)",
+            "goods_score": 4.7
+          },
+          "extend_fields": {
+            "sale_fire_flag": true,
+            "show_similar_items_on_sku_close": true,
+            "support_tag_carousel": true
+          },
+          "goods_id": 601099531408405,
+          "goods_tags": [
+            {
+              "color": "#555555",
+              "ext_map": {
+                "bring_to_detail_flag": "1",
+                "extra_text": "just bought"
+              },
+              "height": 39,
+              "marketing_tag_type": 1000,
+              "tag_id": 91022,
+              "tag_series": 2,
+              "text": "just bought",
+              "url": "https://avatar-us.kwcdn.com/avatar/b/MjEx/CgI2WRIITFY5bFRzOUQaEJLddI5mODE46JFHRPmoMr4wAg-1704783729?imageMogr2/thumbnail/100x",
+              "width": 39
+            }
+          ],
+          "image": {
+            "height": 900,
+            "id": 2051088165,
+            "url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/8af66634683d31002750513228f9679d.jpg",
+            "width": 900
+          },
+          "item_type": 0,
+          "link_url": "goods.html?_bg_fs=1&goods_id=601099531408405&_oak_mp_inf=EJWoraCm1ogBGiAzZTE3ZDBjOTgzOGM0NDgyYjQ5OTMxNmIxNzhhZGVkOSCT9%2FGr8DE%3D&thumb_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2FFancyalgo%2FVirtualModelMatting%2F8af66634683d31002750513228f9679d.jpg&_web_cover=thumb_url&pic_h=900&pic_w=900&spec_gallery_id=2051088165&refer_page_sn=10012&refer_source=0&freesia_scene=3&_oak_freesia_scene=3&_oak_rec_ext_1=MjI0MA&_oak_gallery_order=336946946%2C1477284545%2C1343898514%2C1142790776%2C486448528",
+          "mall_id": 3762664598290,
+          "opt_id": 2171,
+          "opt_type": 3,
+          "p_rec": {
+            "bid": "69999705",
+            "engine_creative_id": "336946946",
+            "exp": "Co8D8gMTCK4EEMM2FBMIwAQQABQTCMkHABL2BwAhjgUVAPEJygUQ8jUUEwj7BRCFOBQTCCAQkTMUEwgaHQARYwYA8QpqEI8xFBMIgAEQ/BgUEwiEARCYEhQTCJMBHgAS2QcAQPMBEP45AKGqAhC4NBQTCLsCHgAS2wcAEv0HABL/BwAS4QcAoa0DEOIsFBMIgwYrAMD8BBDLNxQTCIoGEMyKACGEAxcAEoUHAPIClwMQyisUEwipAxDiLhQTCOIXAJL8AxCZMBQTCNsPABKY3AAP+QADwN8EEJ8yFBMI5AQQ6qMAAwIBQMcFEO54AA8CAQIRQ4QAEUUGABFMBgARSwYAgWQQ1AoUEwhpDQARfQYABCABko0BEMsvFBMIjhkBErYHABLDBwAEJwES7g8AErEKAUDFAhDqmgAS1w8AEtgHAAM8ARL0DgAPQwEKEt3/AECOBBDMywDAvAQQqC0UEwj3BBCdlQFAgQUQi2AAIasFqgAStwcAA3gBA6oBD38BEwRwAdD9AxDHNBQTCNsDEAAUEOoEGI8D",
+            "final_creative_id": "336946946",
+            "g": "601099531408405",
+            "gin_fallback": "0",
+            "goods_source": "rec",
+            "idx": "6",
+            "list_id": "3e17d0c9838c4482b499316b178aded9",
+            "mid": "69999906",
+            "no_result": "0",
+            "offset": "0",
+            "opt_id": "2170",
+            "opt_type": "0",
+            "region": "211",
+            "scene": "opt",
+            "scene_id": "3",
+            "search_id": "L0vJ5thtrLASGDwG88AEfsZKijSMor_m1Knjgj1C7Ac=",
+            "show_currency": "USD",
+            "show_price": "2240",
+            "show_sales": "7.1K+",
+            "sr": "CtAFlGAUPkE+lzZdjupc4DpXjyPw+QKPvhsu9ZA7HYXFozP7lxwfgCOa9n5dvBfMzoVGtHddLZJtforHMTymKS/o1wUYXd+RdncKL8YgzAXVplciX+3lNXq7RMnAecvbG9Ivp4s2uLmKLFpfIJyh/kORMxiuASJnAwjM8cLwJDVMOQIiuXrnzEYW0IReXvc5V8wM3Sqhm8e8KgkTSxo7npk6PP2sCqubaaYEW1oSqYIEXc763cBk57FB93RCAJi72acI53YAwp4J5IXpVhMAUpN2283y6ZA0vyZEdAFBdPbO9SZd7OKazmM70wKDPYzXuJloEtsP12aCquLYtYCNPzCVa+33i/KrQB9oSN7JAg8+Rll4I+Qy5A/eWyT2CTibCMv7UrlLNK9aUlaJbJ+aSweoiH9dpvCJgt5EazrPEmLwv1dhD6wGvRsfM3xseJrfw488M9138O80jwX4qYhQCMPrq16ehraubq1vEeRBsv6N5VjszTIDC4E+1vJdS0pKqWJhIyWw8rq2bCfBrYg/iAxgf/449wqPSjNWqPr6V3+xndBzhhXjeDHfIdAV1GVItozqiV2b88oO1KsQYwqJNDN1CKKvcm14JiM8eibKfUAauNY52SKHke1m5IuJh20T38NNjX3oivNYwJhijFoDkNnjNxUuRN7cCB32jb3ghooh+0dsX5g/9qXPM3wC9ThVQW2BBU96BhGUw9JgcLe/7G9Z8Q11hQVJ0BMmkK6rJY7ePAZt5xZPbeg5yfiPPM7RxY4lNW06ma9bpEkp/FO8rYSUxasQ1hRCf2ZOUDxOWTVdcpv1kGz/6/gthvNsL5x719wfRmg4bq9chM8plkNQM8wF460rWMODJM4UXFeKYbPOfJgLuOHlbtregiQSmg6yf4A3mzMPgGUG6FbNMBITbhcWacQKzSpRCZvCVGfArWE7pwMGNrUpP2FPYPO4Adn8BH2sEMkFGMMFIiQwNWZjNmI1ZC1kYmNmLTQ3MDctODA5OS0wNWJjNjI0Mjg3MTc=",
+            "ts": "1713783995301",
+            "ts_req": "0",
+            "tsr": "CoABXJpWpUJLnDpPxhIlvA577lFWWJd43i+WQ8/i6oeGKIfTdWuMvy2HnuNOZS+LLqkQCUbsd3B90qEEIfLtjzqdHT6pjA+6iN6vC2N0BYMJuL3E3dhxFxtMRVQ9OkLUbT1SfOw7WyHtKovZRKq8o27b7peWq2qu00wMGOTWZQqDYbIQdhh4IiQ2NTgxYzNmYi03ZjQ3LTRkMTAtYjgyMy1kNTM5MjExMGRhOTM=",
+            "version": "4"
+          },
+          "price_info": {
+            "currency": "USD",
+            "market_price": 11949,
+            "market_price_str": "$119.49",
+            "market_price_text": [
+              "$",
+              "119.49",
+              ""
+            ],
+            "price": 2240,
+            "price_color": "#FB7701",
+            "price_schema": "22.40",
+            "price_str": "$22.40",
+            "price_text": [
+              "$",
+              "22.40",
+              ""
+            ],
+            "reduction": 810,
+            "reduction_text": [
+              "-81",
+              "%"
+            ]
+          },
+          "queryReleScore": 0,
+          "sales_num": "7.1K+",
+          "sales_tip": "7.1K+ sold",
+          "sales_tip_text": [
+            "7.1K+",
+            "sold"
+          ],
+          "sales_tip_text_list": [
+            "7.1K+",
+            "sold"
+          ],
+          "show_index": 6,
+          "special_tags": [
+            {
+              "footer": {
+                "text": "Limited time offer"
+              },
+              "header": {
+                "text": "Special sale"
+              },
+              "split_line": 1
+            }
+          ],
+          "tags_info": {
+            "activity_icon_tags": [
+              {}
+            ],
+            "goods_tags": [
+              {
+                "color": "#555555",
+                "ext_map": {
+                  "bring_to_detail_flag": "1",
+                  "extra_text": "just bought"
+                },
+                "height": 39,
+                "marketing_tag_type": 1000,
+                "tag_id": 91022,
+                "tag_series": 2,
+                "text": "just bought",
+                "url": "https://avatar-us.kwcdn.com/avatar/b/MjEx/CgI2WRIITFY5bFRzOUQaEJLddI5mODE46JFHRPmoMr4wAg-1704783729?imageMogr2/thumbnail/100x",
+                "width": 39
+              }
+            ]
+          },
+          "thumb_url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/8af66634683d31002750513228f9679d.jpg",
+          "title": "12pcs Solid Color Towel Set, Household Microfiber Towel, Soft Bath Linen Sets, Absorbent Towels For Bathroom, 4 Bath Towel & 4 Hand Towel & 4 Square Towels, Bathroom Supplies, Bathroom Accessories",
+          "visible": true,
+          "ware_house_type": 0
+        },
+        {
+          "activity_type": 3,
+          "benefit_text": {
+            "text": "-41%"
+          },
+          "comment": {
+            "comment_num_tips": "(3,792)",
+            "goods_score": 4.8
+          },
+          "extend_fields": {
+            "sale_fire_flag": true,
+            "show_similar_items_on_sku_close": true,
+            "support_tag_carousel": true
+          },
+          "goods_id": 601099532202189,
+          "goods_tags": [
+            {
+              "color": "#FB7701",
+              "marketing_tag_type": 1000,
+              "tag_id": 91004,
+              "tag_series": 2,
+              "text": "Almost sold out"
+            },
+            {
+              "color": "#555555",
+              "ext_map": {
+                "bring_to_detail_flag": "1",
+                "extra_text": "just bought"
+              },
+              "height": 39,
+              "marketing_tag_type": 1000,
+              "tag_id": 91022,
+              "tag_series": 2,
+              "text": "just bought",
+              "url": "https://avatar-us.kwcdn.com/avatar/b/MjEx/CgI2WRIITFY5bFRzOUQaELd-meeg7T6CKIEsEcCc3RowAg-1679499418?imageMogr2/thumbnail/100x",
+              "width": 39
+            }
+          ],
+          "image": {
+            "height": 800,
+            "id": 2054220245,
+            "url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/cf16e0741476e8babe89dcddbfb705dd.jpg",
+            "width": 800
+          },
+          "item_type": 0,
+          "link_url": "goods.html?_bg_fs=1&goods_id=601099532202189&_oak_mp_inf=EM3h3aCm1ogBGiAzZTE3ZDBjOTgzOGM0NDgyYjQ5OTMxNmIxNzhhZGVkOSCT9%2FGr8DE%3D&thumb_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2FFancyalgo%2FVirtualModelMatting%2Fcf16e0741476e8babe89dcddbfb705dd.jpg&_web_cover=thumb_url&pic_h=800&pic_w=800&spec_gallery_id=2054220245&refer_page_sn=10012&refer_source=0&freesia_scene=3&_oak_freesia_scene=3&_oak_rec_ext_1=MTcwOQ&_oak_gallery_order=1921494003%2C1369117462%2C254210004%2C538633069%2C1764649966",
+          "mall_id": 634418211468099,
+          "opt_id": 2171,
+          "opt_type": 3,
+          "p_rec": {
+            "bid": "69999705",
+            "engine_creative_id": "1921494003",
+            "exp": "Co8D8gMTCK4EEMM2FBMIwAQQABQTCMkHABL2BwAhjgUVAPEJygUQ8jUUEwj7BRCFOBQTCCAQkTMUEwgaHQARYwYA8QpqEI8xFBMIgAEQ/BgUEwiEARCYEhQTCJMBHgAS2QcAQPMBEP45AKGqAhC4NBQTCLsCHgAS2wcAEv0HABL/BwAS4QcAoa0DEOIsFBMIgwYrAMD8BBDLNxQTCIoGEMyKACGEAxcAEoUHAPIClwMQyisUEwipAxDiLhQTCOIXAJL8AxCZMBQTCNsPABKY3AAP+QADwN8EEJ8yFBMI5AQQ6qMAAwIBQMcFEO54AA8CAQIRQ4QAEUUGABFMBgARSwYAgWQQ1AoUEwhpDQARfQYABCABko0BEMsvFBMIjhkBErYHABLDBwAEJwES7g8AErEKAUDFAhDqmgAS1w8AEtgHAAM8ARL0DgAPQwEKEt3/AECOBBDMywDAvAQQqC0UEwj3BBCdlQFAgQUQi2AAIasFqgAStwcAA3gBA6oBD38BEwRwAdD9AxDHNBQTCNsDEAAUEOoEGI8D",
+            "final_creative_id": "1921494003",
+            "g": "601099532202189",
+            "gin_fallback": "0",
+            "goods_source": "rec",
+            "idx": "7",
+            "list_id": "3e17d0c9838c4482b499316b178aded9",
+            "mid": "69999906",
+            "no_result": "0",
+            "offset": "0",
+            "opt_id": "2170",
+            "opt_type": "0",
+            "region": "211",
+            "scene": "opt",
+            "scene_id": "3",
+            "search_id": "L0vJ5thtrLASGDwG88AEfsZKijSMor_m1Knjgj1C7Ac=",
+            "show_currency": "USD",
+            "show_price": "1709",
+            "show_sales": "6.1K+",
+            "sr": "CtAF83ROyDZ6DNxZoCR1q8owMSPw+QKPvhsu9ZA7HYXFozPUmoKVSHrYbAz2DhuFPMF8tHddLZJtforHMTymKS/o1wUYXd+RdncKL8YgzAXVplciX+3lNXq7RMnAecvbG9Ivp4s2uLmKLFpfIJyh/kORMxiuASJnAwjM8cLwJDVMOQIiuXrnzEYW0IReXvc5V8wM3Sqhm8e8KgkTSxo7npk6PP2sCqubaaYEW1oSqYIEXc763cBk57FB93RCAJi72acI53YAwp4J5IXpVhMAUpN2283y6ZA0vyZEdAFBdPbO9SZd7OKazmM70wKDPYzXuJloEtsP12aCquLYtYCNPzCVa+33i/KrQB9oSN7JAg8+Rll4I+Qy5A/eWyT2CTibCMv7UrlLNK9aUlaJbJ+aSweoiH9dpvCJgt5EazrPEmLwv1dhD6wGvRsfM3xseJrfw488M9138O80jwX4qYhQCMPrq16ehraubq1vEeRBsv6N5VjszTIDC4E+1vJdS0pKqWJhIyWw8rq2bCfBrYg/iAxgf/449wqPSjNWqPr6V3+xndBzhhXjeDHfIdAV1GVItozqiV2b88oO1KsQYwqJNDN1CKKvcm14JiM8eibKfUAauNY52SKHke1m5IuJh20T38NNjX3oivNYwJhijFoDkNnjNxUuRN7cCB32jb3ghooh+0dsX5g/9qXPM3wC9ThVQW2BBU96BhGUw9JgcLe/7G9Z8Q11hQVJ0BMmkK6rJY7ePAZt5xZPbeg5yfiPPM7RxY4lNW06ma9bpEkp/FO8rYSUxasQ1hRCf2ZOUDxOWTVdcpv1kGz/6/gthvNsL5x719wfeEY52pBINL5KuCPx1U+GNQaCYDRsWWEYSDx8hLzbGPwLuOHlbtregiQSmg6yf4A3fMGGbKZSs9CMzMq7ODEE8keZygUb3JEdBTWV74PKX1gYFAzdnRi+sd2rCQQ6M+nyEMkFGMMFIiQwNWZjNmI1ZC1kYmNmLTQ3MDctODA5OS0wNWJjNjI0Mjg3MTc=",
+            "ts": "1713783995301",
+            "ts_req": "0",
+            "tsr": "CoABXJpWpUJLnDpPxhIlvA577lFWWJd43i+WQ8/i6oeGKIfTdWuMvy2HnuNOZS+LLqkQSZbGyYunp+qjLXmpIzYFUj6pjA+6iN6vC2N0BYMJuL3E3dhxFxtMRVQ9OkLUbT1SJJPgJ5NbWlvkS4ha0cF0vDVvPQEzkywsVvYS2vSLBKIQdhh4IiQ2NTgxYzNmYi03ZjQ3LTRkMTAtYjgyMy1kNTM5MjExMGRhOTM=",
+            "version": "4"
+          },
+          "price_info": {
+            "currency": "USD",
+            "market_price": 2920,
+            "market_price_str": "$29.20",
+            "market_price_text": [
+              "$",
+              "29.20",
+              ""
+            ],
+            "price": 1709,
+            "price_color": "#FB7701",
+            "price_schema": "17.09",
+            "price_str": "$17.09",
+            "price_text": [
+              "$",
+              "17.09",
+              ""
+            ],
+            "reduction": 410,
+            "reduction_text": [
+              "-41",
+              "%"
+            ]
+          },
+          "queryReleScore": 0,
+          "sales_num": "6.1K+",
+          "sales_tip": "6.1K+ sold",
+          "sales_tip_text": [
+            "6.1K+",
+            "sold"
+          ],
+          "sales_tip_text_list": [
+            "6.1K+",
+            "sold"
+          ],
+          "show_index": 7,
+          "special_tags": [
+            {
+              "footer": {
+                "text": "Limited time offer"
+              },
+              "header": {
+                "text": "Special sale"
+              },
+              "split_line": 1
+            }
+          ],
+          "tags_info": {
+            "activity_icon_tags": [
+              {}
+            ],
+            "goods_tags": [
+              {
+                "color": "#FB7701",
+                "marketing_tag_type": 1000,
+                "tag_id": 91004,
+                "tag_series": 2,
+                "text": "Almost sold out"
+              },
+              {
+                "color": "#555555",
+                "ext_map": {
+                  "bring_to_detail_flag": "1",
+                  "extra_text": "just bought"
+                },
+                "height": 39,
+                "marketing_tag_type": 1000,
+                "tag_id": 91022,
+                "tag_series": 2,
+                "text": "just bought",
+                "url": "https://avatar-us.kwcdn.com/avatar/b/MjEx/CgI2WRIITFY5bFRzOUQaELd-meeg7T6CKIEsEcCc3RowAg-1679499418?imageMogr2/thumbnail/100x",
+                "width": 39
+              }
+            ]
+          },
+          "thumb_url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/cf16e0741476e8babe89dcddbfb705dd.jpg",
+          "title": "8pcs Striped Towels Set, Quick Dry Absorbent Bathroom Towels, 2 Bath Towels 2 Hand Towels 4 Washcloth, Towels For Home Bathroom Hotel And Spa Salon, Bathroom Supplies, Bathroom Accessories",
+          "visible": true,
+          "ware_house_type": 0
+        },
+        {
+          "activity_type": 3,
+          "benefit_text": {
+            "text": "-89%"
+          },
+          "comment": {
+            "comment_num_tips": "(13,601)",
+            "goods_score": 4.7
+          },
+          "extend_fields": {
+            "show_similar_items_on_sku_close": true,
+            "support_tag_carousel": true
+          },
+          "goods_id": 601099524258047,
+          "goods_tags": [
+            {
+              "color": "#555555",
+              "ext_map": {
+                "bring_to_detail_flag": "1",
+                "extra_text": "just bought"
+              },
+              "height": 39,
+              "marketing_tag_type": 1000,
+              "tag_id": 91022,
+              "tag_series": 2,
+              "text": "just bought",
+              "url": "https://avatar-us.kwcdn.com/avatar/b/MjEx/CgI2WRIITFY5bFRzOUQaEHHC33gkzEvkW8Ef_CHT8zAwAg-1689805050?imageMogr2/thumbnail/100x",
+              "width": 39
+            }
+          ],
+          "image": {
+            "height": 375,
+            "id": 601099524258047,
+            "url": "https://img.kwcdn.com/product/fancy/6f8193d2-837f-43d2-ac9f-1b7759160a4c.jpg",
+            "width": 375
+          },
+          "item_type": 0,
+          "link_url": "goods.html?_bg_fs=1&goods_id=601099524258047&_oak_mp_inf=EP%2Fx%2BJym1ogBGiAzZTE3ZDBjOTgzOGM0NDgyYjQ5OTMxNmIxNzhhZGVkOSCT9%2FGr8DE%3D&thumb_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Ffancy%2F6f8193d2-837f-43d2-ac9f-1b7759160a4c.jpg&_web_cover=thumb_url&pic_h=375&pic_w=375&spec_gallery_id=601099524258047&refer_page_sn=10012&refer_source=0&freesia_scene=3&_oak_freesia_scene=3&_oak_rec_ext_1=NTg0&_oak_gallery_order=2108503595%2C147438753%2C1293105382%2C1077868731%2C287192097",
+          "mall_id": 4658741256294,
+          "opt_id": 2171,
+          "opt_type": 3,
+          "p_rec": {
+            "bid": "69999705",
+            "engine_creative_id": "2108503595",
+            "exp": "Co8D8gMTCK4EEMM2FBMIwAQQABQTCMkHABL2BwAhjgUVAPEJygUQ8jUUEwj7BRCFOBQTCCAQkTMUEwgaHQARYwYA8QpqEI8xFBMIgAEQ/BgUEwiEARCYEhQTCJMBHgAS2QcAQPMBEP45AKGqAhC4NBQTCLsCHgAS2wcAEv0HABL/BwAS4QcAoa0DEOIsFBMIgwYrAMD8BBDLNxQTCIoGEMyKACGEAxcAEoUHAPIClwMQyisUEwipAxDiLhQTCOIXAJL8AxCZMBQTCNsPABKY3AAP+QADwN8EEJ8yFBMI5AQQ6qMAAwIBQMcFEO54AA8CAQIRQ4QAEUUGABFMBgARSwYAgWQQ1AoUEwhpDQARfQYABCABko0BEMsvFBMIjhkBErYHABLDBwAEJwES7g8AErEKAUDFAhDqmgAS1w8AEtgHAAM8ARL0DgAPQwEKEt3/AECOBBDMywDAvAQQqC0UEwj3BBCdlQFAgQUQi2AAIasFqgAStwcAA3gBA6oBD38BEwRwAdD9AxDHNBQTCNsDEAAUEOoEGI8D",
+            "final_creative_id": "2108503595",
+            "g": "601099524258047",
+            "gin_fallback": "0",
+            "goods_source": "rec",
+            "idx": "8",
+            "list_id": "3e17d0c9838c4482b499316b178aded9",
+            "mid": "69999906",
+            "no_result": "0",
+            "offset": "0",
+            "opt_id": "2170",
+            "opt_type": "0",
+            "region": "211",
+            "scene": "opt",
+            "scene_id": "3",
+            "search_id": "L0vJ5thtrLASGDwG88AEfsZKijSMor_m1Knjgj1C7Ac=",
+            "show_currency": "USD",
+            "show_price": "584",
+            "show_sales": "85K+",
+            "sr": "CtAFIcCFSvD3t6S5iGeNYpq5TiPw+QKPvhsu9ZA7HYXFozN+/biYN1Ywpoxh5ycjn9B4tHddLZJtforHMTymKS/o1wUYXd+RdncKL8YgzAXVplciX+3lNXq7RMnAecvbG9Ivp4s2uLmKLFpfIJyh/kORMxiuASJnAwjM8cLwJDVMOQIiuXrnzEYW0IReXvc5V8wM3Sqhm8e8KgkTSxo7npk6PP2sCqubaaYEW1oSqYIEXc763cBk57FB93RCAJi72acI53YAwp4J5IXpVhMAUpN2283y6ZA0vyZEdAFBdPbO9SZd7OKazmM70wKDPYzXuJloEtsP12aCquLYtYCNPzCVa+33i/KrQB9oSN7JAg8+Rll4I+Qy5A/eWyT2CTibCMv7UrlLNK9aUlaJbJ+aSweoiH9dpvCJgt5EazrPEmLwv1dhD6wGvRsfM3xseJrfw488M9138O80jwX4qYhQCMPrq16ehraubq1vEeRBsv6N5VjszTIDC4E+1vJdS0pKqWJhIyWw8rq2bCfBrYg/iAxgf/449wqPSjNWqPr6V3+xndBzhhXjeDHfIdAV1GVItozqiV2b88oO1KsQYwqJNDN1CKKvcm14JiM8eibKfUAauNY52SKHke1m5IuJh20T38NNjX3oivNYwJhijFoDkNnjNxUuRN7cCB32jb3ghooh+0dsX5g/9qXPM3wC9ThVQW2BBU96BhGUw9JgcLe/7G9Z8Q11hQVJ0BMmkK6rJY7ePAZxSo2fc5GUoF7OVRPRv2K4fcmZx4sfuh5bqPV4B1WOx6sQ1hRCf2ZOUDxOWTVdcpv1kGz/6/gthvNsL5x719wfzkPehsY6HzFMqBHZBtKC6v4/RdyHduxhtVp0JFxRpvILuOHlbtregiQSmg6yf4A3f6BX5SoGScxDAxe7NkU6gZkWxzdQm40d2CvXAYuOde6xwfZBQgEmPX2D9jje40U6EMcFGMEFIiQwNWZjNmI1ZC1kYmNmLTQ3MDctODA5OS0wNWJjNjI0Mjg3MTc=",
+            "ts": "1713783995301",
+            "ts_req": "0",
+            "tsr": "CoABw94I7VTRobaY1oARSccEj1FWWJd43i+WQ8/i6oeGKIfTdWuMvy2HnuNOZS+LLqkQRj6BSTJh9rAh0s0Cig5EOT6pjA+6iN6vC2N0BYMJuL3E3dhxFxtMRVQ9OkLUbT1Sd3FY6B24ZxFLsmoM4ER4ElrGKZAco5edBj+rE1c5fSoQdBh2IiQ2NTgxYzNmYi03ZjQ3LTRkMTAtYjgyMy1kNTM5MjExMGRhOTM=",
+            "version": "4"
+          },
+          "price_info": {
+            "currency": "USD",
+            "market_price": 5635,
+            "market_price_str": "$56.35",
+            "market_price_text": [
+              "$",
+              "56.35",
+              ""
+            ],
+            "price": 584,
+            "price_color": "#FB7701",
+            "price_schema": "5.84",
+            "price_str": "$5.84",
+            "price_text": [
+              "$",
+              "5.84",
+              ""
+            ],
+            "reduction": 890,
+            "reduction_text": [
+              "-89",
+              "%"
+            ]
+          },
+          "queryReleScore": 0,
+          "sales_num": "85K+",
+          "sales_tip": "85K+ sold",
+          "sales_tip_text": [
+            "85K+",
+            "sold"
+          ],
+          "sales_tip_text_list": [
+            "85K+",
+            "sold"
+          ],
+          "show_index": 8,
+          "special_tags": [
+            {
+              "footer": {
+                "text": "Limited time offer"
+              },
+              "header": {
+                "text": "Special sale"
+              },
+              "split_line": 1
+            }
+          ],
+          "tags_info": {
+            "activity_icon_tags": [
+              {}
+            ],
+            "goods_tags": [
+              {
+                "color": "#555555",
+                "ext_map": {
+                  "bring_to_detail_flag": "1",
+                  "extra_text": "just bought"
+                },
+                "height": 39,
+                "marketing_tag_type": 1000,
+                "tag_id": 91022,
+                "tag_series": 2,
+                "text": "just bought",
+                "url": "https://avatar-us.kwcdn.com/avatar/b/MjEx/CgI2WRIITFY5bFRzOUQaEHHC33gkzEvkW8Ef_CHT8zAwAg-1689805050?imageMogr2/thumbnail/100x",
+                "width": 39
+              }
+            ]
+          },
+          "thumb_url": "https://img.kwcdn.com/product/fancy/6f8193d2-837f-43d2-ac9f-1b7759160a4c.jpg",
+          "title": "1pc Wearable Bath Towel, Cute Bow Soft Shower Skirt For Women, Adjustable Bath Robe With Pocket For Home And Travel, Bathroom Accessories, Sauna Kilt Spa Sauna Wrap for women, Bathroom Accessories",
+          "video": {
+            "icon_url": "https://aimg.kwcdn.com/upload_aimg/temu/35218716-bd3d-4f5a-8877-9771d5140ddd.png.slim.png",
+            "image_url": "https://img.kwcdn.com/product/fancy/6f8193d2-837f-43d2-ac9f-1b7759160a4c.jpg",
+            "url": "https://img.kwcdn.com/product/0c52261105ea0e282387860f63416d81c85c13c8.goods.000001.jpeg",
+            "video_url": "https://goods-vod.kwcdn.com/goods-video/0571608817264967918eaa8c042eaa86c27c56e1.f30.mp4"
+          },
+          "visible": true,
+          "ware_house_type": 0
+        },
+        {
+          "activity_type": 3,
+          "benefit_text": {
+            "text": "-89%"
+          },
+          "comment": {
+            "comment_num_tips": "(10,438)",
+            "goods_score": 4.6
+          },
+          "extend_fields": {
+            "show_similar_items_on_sku_close": true,
+            "support_tag_carousel": true
+          },
+          "goods_id": 601099532395185,
+          "goods_tags": [
+            {
+              "color": "#FB7701",
+              "marketing_tag_type": 1000,
+              "tag_id": 91004,
+              "tag_series": 2,
+              "text": "Almost sold out"
+            },
+            {
+              "color": "#555555",
+              "ext_map": {
+                "bring_to_detail_flag": "1",
+                "extra_text": "rated 5 stars 12 min ago"
+              },
+              "height": 39,
+              "marketing_tag_type": 1000,
+              "tag_id": 91022,
+              "tag_series": 2,
+              "text": "rated 5 stars 12 min ago",
+              "url": "https://avatar-us.kwcdn.com/avatar/b/MjEx/CgI2WRIITFY5bFRzOUQaEOavf5vf6DyI6IbUdpaJaqcwAg-1675423559?imageMogr2/thumbnail/100x",
+              "width": 39
+            },
+            {
+              "color": "#555555",
+              "ext_map": {},
+              "marketing_tag_type": 1000,
+              "tag_id": 91027,
+              "tag_series": 2,
+              "text": "Lowest price in 30 days"
+            }
+          ],
+          "image": {
+            "height": 800,
+            "id": 2047908072,
+            "url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/64d079969727f0f2dcfded8a080e8237.jpg",
+            "width": 800
+          },
+          "item_type": 0,
+          "link_url": "goods.html?_bg_fs=1&goods_id=601099532395185&_oak_mp_inf=ELHF6aCm1ogBGiAzZTE3ZDBjOTgzOGM0NDgyYjQ5OTMxNmIxNzhhZGVkOSCT9%2FGr8DE%3D&thumb_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2FFancyalgo%2FVirtualModelMatting%2F64d079969727f0f2dcfded8a080e8237.jpg&_web_cover=thumb_url&pic_h=800&pic_w=800&spec_gallery_id=2047908072&refer_page_sn=10012&refer_source=0&freesia_scene=3&_oak_freesia_scene=3&_oak_rec_ext_1=NTY2&_oak_gallery_order=532538490%2C927580537%2C341592841%2C702499118%2C1119291682",
+          "mall_id": 634418210464332,
+          "opt_id": 6927,
+          "opt_type": 3,
+          "p_rec": {
+            "bid": "69999705",
+            "engine_creative_id": "532538490",
+            "exp": "Co8D8gMTCK4EEMM2FBMIwAQQABQTCMkHABL2BwAhjgUVAPEJygUQ8jUUEwj7BRCFOBQTCCAQkTMUEwgaHQARYwYA8QpqEI8xFBMIgAEQ/BgUEwiEARCYEhQTCJMBHgAS2QcAQPMBEP45AKGqAhC4NBQTCLsCHgAS2wcAEv0HABL/BwAS4QcAoa0DEOIsFBMIgwYrAMD8BBDLNxQTCIoGEMyKACGEAxcAEoUHAPIClwMQyisUEwipAxDiLhQTCOIXAJL8AxCZMBQTCNsPABKY3AAP+QADwN8EEJ8yFBMI5AQQ6qMAAwIBQMcFEO54AA8CAQIRQ4QAEUUGABFMBgARSwYAgWQQ1AoUEwhpDQARfQYABCABko0BEMsvFBMIjhkBErYHABLDBwAEJwES7g8AErEKAUDFAhDqmgAS1w8AEtgHAAM8ARL0DgAPQwEKEt3/AECOBBDMywDAvAQQqC0UEwj3BBCdlQFAgQUQi2AAIasFqgAStwcAA3gBA6oBD38BEwRwAdD9AxDHNBQTCNsDEAAUEOoEGI8D",
+            "final_creative_id": "532538490",
+            "g": "601099532395185",
+            "gin_fallback": "0",
+            "goods_source": "rec",
+            "idx": "9",
+            "list_id": "3e17d0c9838c4482b499316b178aded9",
+            "mid": "69999906",
+            "no_result": "0",
+            "offset": "0",
+            "opt_id": "2170",
+            "opt_type": "0",
+            "region": "211",
+            "scene": "opt",
+            "scene_id": "3",
+            "search_id": "L0vJ5thtrLASGDwG88AEfsZKijSMor_m1Knjgj1C7Ac=",
+            "show_currency": "USD",
+            "show_price": "566",
+            "show_sales": "21K+",
+            "sr": "CtAFpCpw9usELq2egHd5U/fWviPw+QKPvhsu9ZA7HYXFozPSLMjWYRQaCcjNT6Qj+GjutHddLZJtforHMTymKS/o1wUYXd+RdncKL8YgzAXVplciX+3lNXq7RMnAecvbG9Ivp4s2uLmKLFpfIJyh/kORMxiuASJnAwjM8cLwJDVMOQIiuXrnzEYW0IReXvc5V8wM3Sqhm8e8KgkTSxo7npk6PP2sCqubaaYEW1oSqYIEXc763cBk57FB93RCAJi72acI53YAwp4J5IXpVhMAUpN2283y6ZA0vyZEdAFBdPbO9SZd7OKazmM70wKDPYzXuJloEtsP12aCquLYtYCNPzCVa+33i/KrQB9oSN7JAg8+Rll4I+Qy5A/eWyT2CTibCMv7UrlLNK9aUlaJbJ+aSweoiH9dpvCJgt5EazrPEmLwv1dhD6wGvRsfM3xseJrfw488M9138O80jwX4qYhQCMPrq16ehraubq1vEeRBsv6N5VjszTIDC4E+1vJdS0pKqWJhIyWw8rq2bCfBrYg/iAxgf/449wqPSjNWqPr6V3+xndBzhhXjeDHfIdAV1GVItozqiV2b88oO1KsQYwqJNDN1CKKvcm14JiM8eibKfUAauNY52SKHke1m5IuJh20T38NNjX3oivNYwJhijFoDkNnjNxUuRN7cCB32jb3ghooh+0dsX5g/9qXPM3wC9ThVQW2BBU96BhGUw9JgcLe/7G9Z8Q11hQVJ0BMmkK6rJY7ePAZxSo2fc5GUoF7OVRPRv2K4fcmZx4sfuh5bqPV4B1WOx6sQ1hRCf2ZOUDxOWTVdcpv1kGz/6/gthvNsL5x719wfi15E+pXpjxtKGRP+nRcdF/7roAYAXOoWbtYUVMMGFyoLuOHlbtregiQSmg6yf4A34OEOYKtDH6XGyHJCCXBuwq+1UNsakxbwxeOyt5UB5OlJ6bZDvjwtB8IKJ2yd2O4+EMcFGMEFIiQwNWZjNmI1ZC1kYmNmLTQ3MDctODA5OS0wNWJjNjI0Mjg3MTc=",
+            "ts": "1713783995302",
+            "ts_req": "0",
+            "tsr": "CoABw94I7VTRobaY1oARSccEj1FWWJd43i+WQ8/i6oeGKIfTdWuMvy2HnuNOZS+LLqkQDv2LdwEzsBO5KTQURT/6kj6pjA+6iN6vC2N0BYMJuL3E3dhxFxtMRVQ9OkLUbT1Swu4dY2AdFx7se9bx823OOANZUh8p5Fb47ZTfSeVEOQIQdBh2IiQ2NTgxYzNmYi03ZjQ3LTRkMTAtYjgyMy1kNTM5MjExMGRhOTM=",
+            "version": "4"
+          },
+          "price_info": {
+            "currency": "USD",
+            "market_price": 5338,
+            "market_price_str": "$53.38",
+            "market_price_text": [
+              "$",
+              "53.38",
+              ""
+            ],
+            "price": 566,
+            "price_color": "#FB7701",
+            "price_schema": "5.66",
+            "price_str": "$5.66",
+            "price_text": [
+              "$",
+              "5.66",
+              ""
+            ],
+            "reduction": 890,
+            "reduction_text": [
+              "-89",
+              "%"
+            ]
+          },
+          "queryReleScore": 0,
+          "sales_num": "21K+",
+          "sales_tip": "21K+ sold",
+          "sales_tip_text": [
+            "21K+",
+            "sold"
+          ],
+          "sales_tip_text_list": [
+            "21K+",
+            "sold"
+          ],
+          "show_index": 9,
+          "special_tags": [
+            {
+              "footer": {
+                "text": "Limited time offer"
+              },
+              "header": {
+                "text": "Special sale"
+              },
+              "split_line": 1
+            }
+          ],
+          "tags_info": {
+            "activity_icon_tags": [
+              {}
+            ],
+            "goods_tags": [
+              {
+                "color": "#FB7701",
+                "marketing_tag_type": 1000,
+                "tag_id": 91004,
+                "tag_series": 2,
+                "text": "Almost sold out"
+              },
+              {
+                "color": "#555555",
+                "ext_map": {
+                  "bring_to_detail_flag": "1",
+                  "extra_text": "rated 5 stars 12 min ago"
+                },
+                "height": 39,
+                "marketing_tag_type": 1000,
+                "tag_id": 91022,
+                "tag_series": 2,
+                "text": "rated 5 stars 12 min ago",
+                "url": "https://avatar-us.kwcdn.com/avatar/b/MjEx/CgI2WRIITFY5bFRzOUQaEOavf5vf6DyI6IbUdpaJaqcwAg-1675423559?imageMogr2/thumbnail/100x",
+                "width": 39
+              },
+              {
+                "color": "#555555",
+                "ext_map": {},
+                "marketing_tag_type": 1000,
+                "tag_id": 91027,
+                "tag_series": 2,
+                "text": "Lowest price in 30 days"
+              }
+            ]
+          },
+          "thumb_url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/64d079969727f0f2dcfded8a080e8237.jpg",
+          "title": "1pc Multifunctional Telescopic Rod, Punch-free Rod, Easy To Install, Shower Curtain Rod, Door Curtain Rod, Wardrobe Support Rod, Drying Rod, Bathroom Accessories",
+          "video": {
+            "icon_url": "https://aimg.kwcdn.com/upload_aimg/temu/35218716-bd3d-4f5a-8877-9771d5140ddd.png.slim.png",
+            "image_url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/64d079969727f0f2dcfded8a080e8237.jpg",
+            "url": "https://img.kwcdn.com/product/fad0858652bf191917a780f09e75334af1d50e9e.goods.000001.jpeg",
+            "video_url": "https://goods-vod.kwcdn.com/goods-video/0181c6888ef0dd8886bbd01023dd07f893b80258.f30.mp4"
+          },
+          "visible": true,
+          "ware_house_type": 0
+        },
+        {
+          "activity_type": 2,
+          "benefit_text": {
+            "text": "-77%"
+          },
+          "comment": {
+            "comment_num_tips": "(16,808)",
+            "goods_score": 4.7
+          },
+          "extend_fields": {
+            "show_similar_items_on_sku_close": true,
+            "support_tag_carousel": true
+          },
+          "goods_id": 601099535137009,
+          "goods_tags": [
+            {
+              "color": "#555555",
+              "ext_map": {
+                "bring_to_detail_flag": "1",
+                "extra_text": "rated 5 stars 9 min ago"
+              },
+              "height": 39,
+              "marketing_tag_type": 1000,
+              "tag_id": 91022,
+              "tag_series": 2,
+              "text": "rated 5 stars 9 min ago",
+              "url": "https://avatar-us.kwcdn.com/avatar/b/MTI/CgI2WRIITFY5bFRzOUQaEAPVMwyEnBfhlHSH6egPW4YwAg-1684638241?imageMogr2/thumbnail/100x",
+              "width": 39
+            },
+            {
+              "color": "#555555",
+              "ext_map": {},
+              "marketing_tag_type": 1000,
+              "tag_id": 91027,
+              "tag_series": 2,
+              "text": "Lowest price ever"
+            }
+          ],
+          "image": {
+            "height": 800,
+            "id": 2060129868,
+            "url": "https://img.kwcdn.com/product/open/2023-11-24/1700813253885-92bebe96e9f34fa9aec3deffb8b451cb-goods.jpeg",
+            "width": 800
+          },
+          "item_type": 0,
+          "link_url": "goods.html?_bg_fs=1&goods_id=601099535137009&_oak_mp_inf=EPHxkKKm1ogBGiAzZTE3ZDBjOTgzOGM0NDgyYjQ5OTMxNmIxNzhhZGVkOSCT9%2FGr8DE%3D&thumb_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Fopen%2F2023-11-24%2F1700813253885-92bebe96e9f34fa9aec3deffb8b451cb-goods.jpeg&_web_cover=thumb_url&pic_h=800&pic_w=800&spec_gallery_id=2060129868&refer_page_sn=10012&refer_source=0&freesia_scene=3&_oak_freesia_scene=3&_oak_rec_ext_1=NTc&_oak_gallery_order=427893909%2C400150367%2C1876069208%2C993254382%2C898801339",
+          "mall_id": 2775766871152,
+          "opt_id": 2171,
+          "opt_type": 3,
+          "p_rec": {
+            "bid": "69999705",
+            "engine_creative_id": "427893909",
+            "exp": "Co8D8gMTCK4EEMM2FBMIwAQQABQTCMkHABL2BwAhjgUVAPEJygUQ8jUUEwj7BRCFOBQTCCAQkTMUEwgaHQARYwYA8QpqEI8xFBMIgAEQ/BgUEwiEARCYEhQTCJMBHgAS2QcAQPMBEP45AKGqAhC4NBQTCLsCHgAS2wcAEv0HABL/BwAS4QcAoa0DEOIsFBMIgwYrAMD8BBDLNxQTCIoGEMyKACGEAxcAEoUHAPIClwMQyisUEwipAxDiLhQTCOIXAJL8AxCZMBQTCNsPABKY3AAP+QADwN8EEJ8yFBMI5AQQ6qMAAwIBQMcFEO54AA8CAQIRQ4QAEUUGABFMBgARSwYAgWQQ1AoUEwhpDQARfQYABCABko0BEMsvFBMIjhkBErYHABLDBwAEJwES7g8AErEKAUDFAhDqmgAS1w8AEtgHAAM8ARL0DgAPQwEKEt3/AECOBBDMywDAvAQQqC0UEwj3BBCdlQFAgQUQi2AAIasFqgAStwcAA3gBA6oBD38BEwRwAdD9AxDHNBQTCNsDEAAUEOoEGI8D",
+            "final_creative_id": "427893909",
+            "g": "601099535137009",
+            "gin_fallback": "0",
+            "goods_source": "rec",
+            "idx": "10",
+            "list_id": "3e17d0c9838c4482b499316b178aded9",
+            "mid": "69999906",
+            "no_result": "0",
+            "offset": "0",
+            "opt_id": "2170",
+            "opt_type": "0",
+            "region": "211",
+            "scene": "opt",
+            "scene_id": "3",
+            "search_id": "L0vJ5thtrLASGDwG88AEfsZKijSMor_m1Knjgj1C7Ac=",
+            "show_currency": "USD",
+            "show_price": "57",
+            "show_sales": "56K+",
+            "sr": "CtAFjtqK7GOAphcq1m8v47029yPw+QKPvhsu9ZA7HYXFozPVp5Em+67Y6UJBHAtHkeqdtHddLZJtforHMTymKS/o1wUYXd+RdncKL8YgzAXVplciX+3lNXq7RMnAecvbG9Ivp4s2uLmKLFpfIJyh/kORMxiuASJnAwjM8cLwJDVMOQIiuXrnzEYW0IReXvc5V8wM3Sqhm8e8KgkTSxo7npk6PP2sCqubaaYEW1oSqYIEXc763cBk57FB93RCAJi72acI53YAwp4J5IXpVhMAUpN2283y6ZA0vyZEdAFBdPbO9SZd7OKazmM70wKDPYzXuJloEtsP12aCquLYtYCNPzCVa+33i/KrQB9oSN7JAg8+Rll4I+Qy5A/eWyT2CTibCMv7UrlLNK9aUlaJbJ+aSweoiH9dpvCJgt5EazrPEmLwv1dhD6wGvRsfM3xseJrfw488M9138O80jwX4qYhQCMPrq16ehraubq1vEeRBsv6N5VjszTIDC4E+1vJdS0pKqWJhIyWw8rq2bCfBrYg/iAxgf/449wqPSjNWqPr6V3+xndBzhhXjeDHfIdAV1GVItozqiV2b88oO1KsQYwqJNDN1CKKvcm14JiM8eibKfUAauNY52SKHke1m5IuJh20T38NNjX3oivNYwJhijFoDkNnjNxUuRN7cCB32jb3ghooh+0dsX5g/9qXPM3wC9ThVQW2BBU96BhGUw9JgcLe/7G9Z8Q11hQVJ0BMmkK6rJY7ePAYrlpaUt/CABmL3WN0Dm30D+B6UUTcTedzAfKeRFTewXasQ1hRCf2ZOUDxOWTVdcpv1kGz/6/gthvNsL5x719wfTBch2NJskANuqdD1ECJLNuxpKHwWf2Zh+3leEkM2ONELuOHlbtregiQSmg6yf4A3j/ZwU5sscISaImOTkH7imM76MnKgx3U4bczBvA/V/uzEhdHHBjLn7cKARgSJ27iBEMYFGMAFIiQwNWZjNmI1ZC1kYmNmLTQ3MDctODA5OS0wNWJjNjI0Mjg3MTc=",
+            "ts": "1713783995302",
+            "ts_req": "0",
+            "tsr": "CoABaTVUyOHPRCs2CgjdUjjAx1FWWJd43i+WQ8/i6oeGKIfTdWuMvy2HnuNOZS+LLqkQXQtiMP9b3aH4EJtvUAq0az6pjA+6iN6vC2N0BYMJuL3E3dhxFxtMRVQ9OkLUbT1Sec1a1LE0NLye6LZ80CxPylGLJmFMHv26TTCTfEKg+6oQcxh1IiQ2NTgxYzNmYi03ZjQ3LTRkMTAtYjgyMy1kNTM5MjExMGRhOTM=",
+            "version": "4"
+          },
+          "price_info": {
+            "currency": "USD",
+            "market_price": 249,
+            "market_price_str": "$2.49",
+            "market_price_text": [
+              "$",
+              "2.49",
+              ""
+            ],
+            "price": 57,
+            "price_color": "#FB7701",
+            "price_schema": "0.57",
+            "price_str": "$0.57",
+            "price_text": [
+              "$",
+              "0.57",
+              ""
+            ],
+            "reduction": 770,
+            "reduction_text": [
+              "-77",
+              "%"
+            ]
+          },
+          "queryReleScore": 0,
+          "sales_num": "56K+",
+          "sales_tip": "56K+ sold",
+          "sales_tip_text": [
+            "56K+",
+            "sold"
+          ],
+          "sales_tip_text_list": [
+            "56K+",
+            "sold"
+          ],
+          "show_index": 10,
+          "sold_quantity_percent": 20,
+          "special_tags": [
+            {
+              "footer": {
+                "text": "Final hours!"
+              },
+              "header": {
+                "text": "Lightning deal"
+              },
+              "split_line": 1
+            }
+          ],
+          "tags_info": {
+            "activity_icon_tags": [
+              {
+                "height": 24,
+                "icon_img": "https://aimg.kwcdn.com/upload_aimg_b/search/0f7bbe9c-599b-4380-8c8a-7ea42ba4db03.png",
+                "width": 24
+              }
+            ],
+            "goods_tags": [
+              {
+                "color": "#555555",
+                "ext_map": {
+                  "bring_to_detail_flag": "1",
+                  "extra_text": "rated 5 stars 9 min ago"
+                },
+                "height": 39,
+                "marketing_tag_type": 1000,
+                "tag_id": 91022,
+                "tag_series": 2,
+                "text": "rated 5 stars 9 min ago",
+                "url": "https://avatar-us.kwcdn.com/avatar/b/MTI/CgI2WRIITFY5bFRzOUQaEAPVMwyEnBfhlHSH6egPW4YwAg-1684638241?imageMogr2/thumbnail/100x",
+                "width": 39
+              },
+              {
+                "color": "#555555",
+                "ext_map": {},
+                "marketing_tag_type": 1000,
+                "tag_id": 91027,
+                "tag_series": 2,
+                "text": "Lowest price ever"
+              }
+            ]
+          },
+          "thumb_url": "https://img.kwcdn.com/product/open/2023-11-24/1700813253885-92bebe96e9f34fa9aec3deffb8b451cb-goods.jpeg",
+          "title": "3pcs Coral Fleece Fingertip Towel, Hanging Towel For Wiping Hands, Household Dishwashing Cloths, Absorbent Soft Towel With Hanging Loop For Bathroom, Bathroom Supplies, Tea Towel",
+          "visible": true,
+          "ware_house_type": 0
+        },
+        {
+          "activity_type": 3,
+          "benefit_text": {
+            "text": "-76%"
+          },
+          "comment": {
+            "comment_num_tips": "(2,481)",
+            "goods_score": 4.8
+          },
+          "extend_fields": {
+            "sale_fire_flag": true,
+            "show_similar_items_on_sku_close": true,
+            "support_tag_carousel": true
+          },
+          "goods_id": 601099523845680,
+          "goods_tags": [
+            {
+              "color": "#FB7701",
+              "marketing_tag_type": 1000,
+              "tag_id": 91004,
+              "tag_series": 2,
+              "text": "Almost sold out"
+            },
+            {
+              "color": "#555555",
+              "ext_map": {
+                "bring_to_detail_flag": "1",
+                "extra_text": "just bought"
+              },
+              "height": 39,
+              "marketing_tag_type": 1000,
+              "tag_id": 91022,
+              "tag_series": 2,
+              "text": "just bought",
+              "url": "https://avatar-us.kwcdn.com/avatar/b/MjEx/CgI2WRIITFY5bFRzOUQaENA77WqQtPSmqV3u0xp1WwQwAg-1668325493?imageMogr2/thumbnail/100x",
+              "width": 39
+            }
+          ],
+          "image": {
+            "height": 1495,
+            "id": 2024621224,
+            "url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/9f92560afa92cf3d9927261d8648092c.jpg",
+            "width": 1495
+          },
+          "item_type": 0,
+          "link_url": "goods.html?_bg_fs=1&goods_id=601099523845680&_oak_mp_inf=ELDc35ym1ogBGiAzZTE3ZDBjOTgzOGM0NDgyYjQ5OTMxNmIxNzhhZGVkOSCT9%2FGr8DE%3D&thumb_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2FFancyalgo%2FVirtualModelMatting%2F9f92560afa92cf3d9927261d8648092c.jpg&_web_cover=thumb_url&pic_h=1495&pic_w=1495&spec_gallery_id=2024621224&refer_page_sn=10012&refer_source=0&freesia_scene=3&_oak_freesia_scene=3&_oak_rec_ext_1=MTc5OQ&_oak_gallery_order=1591191629%2C1096551373%2C1358602782%2C1108327286%2C765884777",
+          "mall_id": 634418209248035,
+          "opt_id": 2171,
+          "opt_type": 3,
+          "p_rec": {
+            "bid": "69999705",
+            "engine_creative_id": "1591191629",
+            "exp": "Co8D8gMTCK4EEMM2FBMIwAQQABQTCMkHABL2BwAhjgUVAPEJygUQ8jUUEwj7BRCFOBQTCCAQkTMUEwgaHQARYwYA8QpqEI8xFBMIgAEQ/BgUEwiEARCYEhQTCJMBHgAS2QcAQPMBEP45AKGqAhC4NBQTCLsCHgAS2wcAEv0HABL/BwAS4QcAoa0DEOIsFBMIgwYrAMD8BBDLNxQTCIoGEMyKACGEAxcAEoUHAPIClwMQyisUEwipAxDiLhQTCOIXAJL8AxCZMBQTCNsPABKY3AAP+QADwN8EEJ8yFBMI5AQQ6qMAAwIBQMcFEO54AA8CAQIRQ4QAEUUGABFMBgARSwYAgWQQ1AoUEwhpDQARfQYABCABko0BEMsvFBMIjhkBErYHABLDBwAEJwES7g8AErEKAUDFAhDqmgAS1w8AEtgHAAM8ARL0DgAPQwEKEt3/AECOBBDMywDAvAQQqC0UEwj3BBCdlQFAgQUQi2AAIasFqgAStwcAA3gBA6oBD38BEwRwAdD9AxDHNBQTCNsDEAAUEOoEGI8D",
+            "final_creative_id": "1591191629",
+            "g": "601099523845680",
+            "gin_fallback": "0",
+            "goods_source": "rec",
+            "idx": "11",
+            "list_id": "3e17d0c9838c4482b499316b178aded9",
+            "mid": "69999906",
+            "no_result": "0",
+            "offset": "0",
+            "opt_id": "2170",
+            "opt_type": "0",
+            "region": "211",
+            "scene": "opt",
+            "scene_id": "3",
+            "search_id": "L0vJ5thtrLASGDwG88AEfsZKijSMor_m1Knjgj1C7Ac=",
+            "show_currency": "USD",
+            "show_price": "1799",
+            "show_sales": "3.7K+",
+            "sr": "CtAFgqD4o+cWV6reE+ZPVYj76iPw+QKPvhsu9ZA7HYXFozMt8bjb8F3QN0xOlCKTEqy1tHddLZJtforHMTymKS/o1wUYXd+RdncKL8YgzAXVplciX+3lNXq7RMnAecvbG9Ivp4s2uLmKLFpfIJyh/kORMxiuASJnAwjM8cLwJDVMOQIiuXrnzEYW0IReXvc5V8wM3Sqhm8e8KgkTSxo7npk6PP2sCqubaaYEW1oSqYIEXc763cBk57FB93RCAJi72acI53YAwp4J5IXpVhMAUpN2283y6ZA0vyZEdAFBdPbO9SZd7OKazmM70wKDPYzXuJloEtsP12aCquLYtYCNPzCVa+33i/KrQB9oSN7JAg8+Rll4I+Qy5A/eWyT2CTibCMv7UrlLNK9aUlaJbJ+aSweoiH9dpvCJgt5EazrPEmLwv1dhD6wGvRsfM3xseJrfw488M9138O80jwX4qYhQCMPrq16ehraubq1vEeRBsv6N5VjszTIDC4E+1vJdS0pKqWJhIyWw8rq2bCfBrYg/iAxgf/449wqPSjNWqPr6V3+xndBzhhXjeDHfIdAV1GVItozqiV2b88oO1KsQYwqJNDN1CKKvcm14JiM8eibKfUAauNY52SKHke1m5IuJh20T38NNjX3oivNYwJhijFoDkNnjNxUuRN7cCB32jb3ghooh+0dsX5g/9qXPM3wC9ThVQW2BBU96BhGUw9JgcLe/7G9Z8Q11hQVJ0BMmkK6rJY7ePAZt5xZPbeg5yfiPPM7RxY4lNW06ma9bpEkp/FO8rYSUxasQ1hRCf2ZOUDxOWTVdcpv1kGz/6/gthvNsL5x719wf6NH6ce9GLeJDm7LQhvXaKjYPBCdbbQmSk9XBPL2bf+0LuOHlbtregiQSmg6yf4A360sqdZcKfusTwboK3qhGMJgPa21OdZmnf+mTlru/JbxChpB3BG9DO06EcSq4gEnoEMkFGMMFIiQwNWZjNmI1ZC1kYmNmLTQ3MDctODA5OS0wNWJjNjI0Mjg3MTc=",
+            "ts": "1713783995302",
+            "ts_req": "0",
+            "tsr": "CoABXJpWpUJLnDpPxhIlvA577lFWWJd43i+WQ8/i6oeGKIfTdWuMvy2HnuNOZS+LLqkQLxBVhK0rOqTH3jo9mNWWUz6pjA+6iN6vC2N0BYMJuL3E3dhxFxtMRVQ9OkLUbT1SMtDLLChhN1w2hJA8TTQ+j1Im6tHcVYQxwJtt7XEBhd0Qdhh4IiQ2NTgxYzNmYi03ZjQ3LTRkMTAtYjgyMy1kNTM5MjExMGRhOTM=",
+            "version": "4"
+          },
+          "price_info": {
+            "currency": "USD",
+            "market_price": 7566,
+            "market_price_str": "$75.66",
+            "market_price_text": [
+              "$",
+              "75.66",
+              ""
+            ],
+            "price": 1799,
+            "price_color": "#FB7701",
+            "price_schema": "17.99",
+            "price_str": "$17.99",
+            "price_text": [
+              "$",
+              "17.99",
+              ""
+            ],
+            "reduction": 760,
+            "reduction_text": [
+              "-76",
+              "%"
+            ]
+          },
+          "queryReleScore": 0,
+          "sales_num": "3.7K+",
+          "sales_tip": "3.7K+ sold",
+          "sales_tip_text": [
+            "3.7K+",
+            "sold"
+          ],
+          "sales_tip_text_list": [
+            "3.7K+",
+            "sold"
+          ],
+          "show_index": 11,
+          "special_tags": [
+            {
+              "footer": {
+                "text": "Limited time offer"
+              },
+              "header": {
+                "text": "Special sale"
+              },
+              "split_line": 1
+            }
+          ],
+          "tags_info": {
+            "activity_icon_tags": [
+              {}
+            ],
+            "goods_tags": [
+              {
+                "color": "#FB7701",
+                "marketing_tag_type": 1000,
+                "tag_id": 91004,
+                "tag_series": 2,
+                "text": "Almost sold out"
+              },
+              {
+                "color": "#555555",
+                "ext_map": {
+                  "bring_to_detail_flag": "1",
+                  "extra_text": "just bought"
+                },
+                "height": 39,
+                "marketing_tag_type": 1000,
+                "tag_id": 91022,
+                "tag_series": 2,
+                "text": "just bought",
+                "url": "https://avatar-us.kwcdn.com/avatar/b/MjEx/CgI2WRIITFY5bFRzOUQaENA77WqQtPSmqV3u0xp1WwQwAg-1668325493?imageMogr2/thumbnail/100x",
+                "width": 39
+              }
+            ]
+          },
+          "thumb_url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/9f92560afa92cf3d9927261d8648092c.jpg",
+          "title": "3/6pcs Purple Towel Set, 1 Bath Towels 1 Hand Towels 1 Washcloths, 2 Bath Towels 2 Hand Towels 2 Washcloths, Soft Cotton Towels, Plain Absorbent Towel For Home Bathroom, Bathroom Supplies",
+          "visible": true,
+          "ware_house_type": 0
+        },
+        {
+          "activity_type": 3,
+          "benefit_text": {
+            "text": "-84%"
+          },
+          "comment": {
+            "comment_num_tips": "(2,400)",
+            "goods_score": 4.8
+          },
+          "extend_fields": {
+            "sale_fire_flag": true,
+            "show_similar_items_on_sku_close": true,
+            "support_tag_carousel": true
+          },
+          "goods_id": 601099537596917,
+          "goods_tags": [
+            {
+              "color": "#555555",
+              "ext_map": {
+                "bring_to_detail_flag": "1",
+                "extra_text": "just bought"
+              },
+              "height": 39,
+              "marketing_tag_type": 1000,
+              "tag_id": 91022,
+              "tag_series": 2,
+              "text": "just bought",
+              "url": "https://avatar-us.kwcdn.com/avatar/b/MjEx/CgI2WRIITFY5bFRzOUQaEPNZQCHDr540PHDs7slFZz0wAg-1684804162?imageMogr2/thumbnail/100x",
+              "width": 39
+            },
+            {
+              "color": "#555555",
+              "ext_map": {},
+              "marketing_tag_type": 1000,
+              "tag_id": 91027,
+              "tag_series": 2,
+              "text": "Lowest price ever"
+            }
+          ],
+          "image": {
+            "height": 1500,
+            "id": 2066304670,
+            "url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/2a7c9c9544cbbe906af720b8b5b0e316.jpg",
+            "width": 1500
+          },
+          "item_type": 0,
+          "link_url": "goods.html?_bg_fs=1&goods_id=601099537596917&_oak_mp_inf=EPWDp6Om1ogBGiAzZTE3ZDBjOTgzOGM0NDgyYjQ5OTMxNmIxNzhhZGVkOSCT9%2FGr8DE%3D&thumb_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2FFancyalgo%2FVirtualModelMatting%2F2a7c9c9544cbbe906af720b8b5b0e316.jpg&_web_cover=thumb_url&pic_h=1500&pic_w=1500&spec_gallery_id=2066304670&refer_page_sn=10012&refer_source=0&freesia_scene=3&_oak_freesia_scene=3&_oak_rec_ext_1=OTgw&_oak_gallery_order=1633341373%2C1418398748%2C1191971097%2C975387113%2C654769096",
+          "mall_id": 634418211253400,
+          "opt_id": 6927,
+          "opt_type": 3,
+          "p_rec": {
+            "bid": "69999705",
+            "engine_creative_id": "1633341373",
+            "exp": "Co8D8gMTCK4EEMM2FBMIwAQQABQTCMkHABL2BwAhjgUVAPEJygUQ8jUUEwj7BRCFOBQTCCAQkTMUEwgaHQARYwYA8QpqEI8xFBMIgAEQ/BgUEwiEARCYEhQTCJMBHgAS2QcAQPMBEP45AKGqAhC4NBQTCLsCHgAS2wcAEv0HABL/BwAS4QcAoa0DEOIsFBMIgwYrAMD8BBDLNxQTCIoGEMyKACGEAxcAEoUHAPIClwMQyisUEwipAxDiLhQTCOIXAJL8AxCZMBQTCNsPABKY3AAP+QADwN8EEJ8yFBMI5AQQ6qMAAwIBQMcFEO54AA8CAQIRQ4QAEUUGABFMBgARSwYAgWQQ1AoUEwhpDQARfQYABCABko0BEMsvFBMIjhkBErYHABLDBwAEJwES7g8AErEKAUDFAhDqmgAS1w8AEtgHAAM8ARL0DgAPQwEKEt3/AECOBBDMywDAvAQQqC0UEwj3BBCdlQFAgQUQi2AAIasFqgAStwcAA3gBA6oBD38BEwRwAdD9AxDHNBQTCNsDEAAUEOoEGI8D",
+            "final_creative_id": "1633341373",
+            "g": "601099537596917",
+            "gin_fallback": "0",
+            "goods_source": "rec",
+            "idx": "12",
+            "list_id": "3e17d0c9838c4482b499316b178aded9",
+            "mid": "69999906",
+            "no_result": "0",
+            "offset": "0",
+            "opt_id": "2170",
+            "opt_type": "0",
+            "region": "211",
+            "scene": "opt",
+            "scene_id": "3",
+            "search_id": "L0vJ5thtrLASGDwG88AEfsZKijSMor_m1Knjgj1C7Ac=",
+            "show_currency": "USD",
+            "show_price": "980",
+            "show_sales": "3.2K+",
+            "sr": "CtAFBDCUTqZOT5pzfttc1BC8KSPw+QKPvhsu9ZA7HYXFozOMqzHl0gdNQeqJkoiKDNcRtHddLZJtforHMTymKS/o1wUYXd+RdncKL8YgzAXVplciX+3lNXq7RMnAecvbG9Ivp4s2uLmKLFpfIJyh/kORMxiuASJnAwjM8cLwJDVMOQIiuXrnzEYW0IReXvc5V8wM3Sqhm8e8KgkTSxo7npk6PP2sCqubaaYEW1oSqYIEXc763cBk57FB93RCAJi72acI53YAwp4J5IXpVhMAUpN2283y6ZA0vyZEdAFBdPbO9SZd7OKazmM70wKDPYzXuJloEtsP12aCquLYtYCNPzCVa+33i/KrQB9oSN7JAg8+Rll4I+Qy5A/eWyT2CTibCMv7UrlLNK9aUlaJbJ+aSweoiH9dpvCJgt5EazrPEmLwv1dhD6wGvRsfM3xseJrfw488M9138O80jwX4qYhQCMPrq16ehraubq1vEeRBsv6N5VjszTIDC4E+1vJdS0pKqWJhIyWw8rq2bCfBrYg/iAxgf/449wqPSjNWqPr6V3+xndBzhhXjeDHfIdAV1GVItozqiV2b88oO1KsQYwqJNDN1CKKvcm14JiM8eibKfUAauNY52SKHke1m5IuJh20T38NNjX3oivNYwJhijFoDkNnjNxUuRN7cCB32jb3ghooh+0dsX5g/9qXPM3wC9ThVQW2BBU96BhGUw9JgcLe/7G9Z8Q11hQVJ0BMmkK6rJY7ePAZj8La0prYtHzPqYeO6Cqq+dlbmhn2yD9QRxSUfale8dqsQ1hRCf2ZOUDxOWTVdcpv1kGz/6/gthvNsL5x719wfqk296PCwrmanimpVhF8nRxQyDzRg9tCDWhJgzewqZwULuOHlbtregiQSmg6yf4A3lr4lT4xDCKQ9PUS9Jd6Mxw2NUrTUVFDz8qqbliJxYJ5I8Oxw13XedYMNtllVsM2ZEMgFGMIFIiQwNWZjNmI1ZC1kYmNmLTQ3MDctODA5OS0wNWJjNjI0Mjg3MTc=",
+            "ts": "1713783995302",
+            "ts_req": "0",
+            "tsr": "CoABbOpPWWfLQifj1NOjeiSQAVFWWJd43i+WQ8/i6oeGKIfTdWuMvy2HnuNOZS+LLqkQXkdWD1xtza7x1cg36IARwT6pjA+6iN6vC2N0BYMJuL3E3dhxFxtMRVQ9OkLUbT1ScB6aXMoMntcbc7vPiWMbtrpsOH3jEIowgQfUS7rLWL8QdRh3IiQ2NTgxYzNmYi03ZjQ3LTRkMTAtYjgyMy1kNTM5MjExMGRhOTM=",
+            "version": "4"
+          },
+          "price_info": {
+            "currency": "USD",
+            "market_price": 6299,
+            "market_price_str": "$62.99",
+            "market_price_text": [
+              "$",
+              "62.99",
+              ""
+            ],
+            "price": 980,
+            "price_color": "#FB7701",
+            "price_schema": "9.80",
+            "price_str": "$9.80",
+            "price_text": [
+              "$",
+              "9.80",
+              ""
+            ],
+            "reduction": 840,
+            "reduction_text": [
+              "-84",
+              "%"
+            ]
+          },
+          "queryReleScore": 0,
+          "sales_num": "3.2K+",
+          "sales_tip": "3.2K+ sold",
+          "sales_tip_text": [
+            "3.2K+",
+            "sold"
+          ],
+          "sales_tip_text_list": [
+            "3.2K+",
+            "sold"
+          ],
+          "show_index": 12,
+          "special_tags": [
+            {
+              "footer": {
+                "text": "Limited time offer"
+              },
+              "header": {
+                "text": "Special sale"
+              },
+              "split_line": 1
+            }
+          ],
+          "tags_info": {
+            "activity_icon_tags": [
+              {}
+            ],
+            "goods_tags": [
+              {
+                "color": "#555555",
+                "ext_map": {
+                  "bring_to_detail_flag": "1",
+                  "extra_text": "just bought"
+                },
+                "height": 39,
+                "marketing_tag_type": 1000,
+                "tag_id": 91022,
+                "tag_series": 2,
+                "text": "just bought",
+                "url": "https://avatar-us.kwcdn.com/avatar/b/MjEx/CgI2WRIITFY5bFRzOUQaEPNZQCHDr540PHDs7slFZz0wAg-1684804162?imageMogr2/thumbnail/100x",
+                "width": 39
+              },
+              {
+                "color": "#555555",
+                "ext_map": {},
+                "marketing_tag_type": 1000,
+                "tag_id": 91027,
+                "tag_series": 2,
+                "text": "Lowest price ever"
+              }
+            ]
+          },
+          "thumb_url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/2a7c9c9544cbbe906af720b8b5b0e316.jpg",
+          "title": "4pcs Luxury Floral Bead Printed Shower Curtain Set, Waterproof Shower Curtain With 12 Hooks, Non-Slip Rug, Toilet Lid Cover Pad And U-shaped Mat, Bathroom Accessories, Modern Home Bathroom Decor",
+          "visible": true,
+          "ware_house_type": 0
+        },
+        {
+          "activity_type": 2,
+          "benefit_text": {
+            "text": "-62%"
+          },
+          "comment": {
+            "comment_num_tips": "(1,864)",
+            "goods_score": 4.8
+          },
+          "extend_fields": {
+            "sale_fire_flag": true,
+            "show_similar_items_on_sku_close": true,
+            "support_tag_carousel": true
+          },
+          "goods_id": 601099539437437,
+          "goods_tags": [
+            {
+              "color": "#FB7701",
+              "marketing_tag_type": 1000,
+              "tag_id": 91004,
+              "tag_series": 2,
+              "text": "Almost sold out"
+            },
+            {
+              "color": "#555555",
+              "ext_map": {
+                "bring_to_detail_flag": "1",
+                "extra_text": "just bought"
+              },
+              "height": 39,
+              "marketing_tag_type": 1000,
+              "tag_id": 91022,
+              "tag_series": 2,
+              "text": "just bought",
+              "url": "https://avatar-us.kwcdn.com/avatar/b/MjEx/CgI2WRIITFY5bFRzOUQaEMaH1fe2kqfJKK5FN_7zLEMwAg-1681324991?imageMogr2/thumbnail/100x",
+              "width": 39
+            }
+          ],
+          "image": {
+            "height": 1600,
+            "id": 2072961537,
+            "url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/8d048a64c5346171f19b51d8a2e83e7b.jpg",
+            "width": 1600
+          },
+          "item_type": 0,
+          "link_url": "goods.html?_bg_fs=1&goods_id=601099539437437&_oak_mp_inf=EP2ul6Sm1ogBGiAzZTE3ZDBjOTgzOGM0NDgyYjQ5OTMxNmIxNzhhZGVkOSCU9%2FGr8DE%3D&thumb_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2FFancyalgo%2FVirtualModelMatting%2F8d048a64c5346171f19b51d8a2e83e7b.jpg&_web_cover=thumb_url&pic_h=1600&pic_w=1600&spec_gallery_id=2072961537&refer_page_sn=10012&refer_source=0&freesia_scene=3&_oak_freesia_scene=3&_oak_rec_ext_1=MTE1MQ&_oak_gallery_order=1777096361%2C877796262%2C2115897470%2C1892599023%2C710771796",
+          "mall_id": 634418212461121,
+          "opt_id": 6927,
+          "opt_type": 3,
+          "p_rec": {
+            "bid": "69999705",
+            "engine_creative_id": "1777096361",
+            "exp": "Co8D8gMTCK4EEMM2FBMIwAQQABQTCMkHABL2BwAhjgUVAPEJygUQ8jUUEwj7BRCFOBQTCCAQkTMUEwgaHQARYwYA8QpqEI8xFBMIgAEQ/BgUEwiEARCYEhQTCJMBHgAS2QcAQPMBEP45AKGqAhC4NBQTCLsCHgAS2wcAEv0HABL/BwAS4QcAoa0DEOIsFBMIgwYrAMD8BBDLNxQTCIoGEMyKACGEAxcAEoUHAPIClwMQyisUEwipAxDiLhQTCOIXAJL8AxCZMBQTCNsPABKY3AAP+QADwN8EEJ8yFBMI5AQQ6qMAAwIBQMcFEO54AA8CAQIRQ4QAEUUGABFMBgARSwYAgWQQ1AoUEwhpDQARfQYABCABko0BEMsvFBMIjhkBErYHABLDBwAEJwES7g8AErEKAUDFAhDqmgAS1w8AEtgHAAM8ARL0DgAPQwEKEt3/AECOBBDMywDAvAQQqC0UEwj3BBCdlQFAgQUQi2AAIasFqgAStwcAA3gBA6oBD38BEwRwAdD9AxDHNBQTCNsDEAAUEOoEGI8D",
+            "final_creative_id": "1777096361",
+            "g": "601099539437437",
+            "gin_fallback": "0",
+            "goods_source": "rec",
+            "idx": "13",
+            "list_id": "3e17d0c9838c4482b499316b178aded9",
+            "mid": "69999906",
+            "no_result": "0",
+            "offset": "0",
+            "opt_id": "2170",
+            "opt_type": "0",
+            "region": "211",
+            "scene": "opt",
+            "scene_id": "3",
+            "search_id": "L0vJ5thtrLASGDwG88AEfsZKijSMor_m1Knjgj1C7Ac=",
+            "show_currency": "USD",
+            "show_price": "1151",
+            "show_sales": "2.3K+",
+            "sr": "CtAF7pwA+iAfA73s8GN036aM6CPw+QKPvhsu9ZA7HYXFozNn4AcJlyfSQyFh+D3Djf88tHddLZJtforHMTymKS/o1wUYXd+RdncKL8YgzAXVplciX+3lNXq7RMnAecvbG9Ivp4s2uLmKLFpfIJyh/kORMxiuASJnAwjM8cLwJDVMOQIiuXrnzEYW0IReXvc5V8wM3Sqhm8e8KgkTSxo7npk6PP2sCqubaaYEW1oSqYIEXc763cBk57FB93RCAJi72acI53YAwp4J5IXpVhMAUpN2283y6ZA0vyZEdAFBdPbO9SZd7OKazmM70wKDPYzXuJloEtsP12aCquLYtYCNPzCVa+33i/KrQB9oSN7JAg8+Rll4I+Qy5A/eWyT2CTibCMv7UrlLNK9aUlaJbJ+aSweoiH9dpvCJgt5EazrPEmLwv1dhD6wGvRsfM3xseJrfw488M9138O80jwX4qYhQCMPrq16ehraubq1vEeRBsv6N5VjszTIDC4E+1vJdS0pKqWJhIyWw8rq2bCfBrYg/iAxgf/449wqPSjNWqPr6V3+xndBzhhXjeDHfIdAV1GVItozqiV2b88oO1KsQYwqJNDN1CKKvcm14JiM8eibKfUAauNY52SKHke1m5IuJh20T38NNjX3oivNYwJhijFoDkNnjNxUuRN7cCB32jb3ghooh+0dsX5g/9qXPM3wC9ThVQW2BBU96BhGUw9JgcLe/7G9Z8Q11hQVJ0BMmkK6rJY7ePAZt5xZPbeg5yfiPPM7RxY4lNW06ma9bpEkp/FO8rYSUxasQ1hRCf2ZOUDxOWTVdcpv1kGz/6/gthvNsL5x719wf7/AfKoUhmD+Q4SBWPPJNqOmGlAdsNnNbjv4WW0RtVpALuOHlbtregiQSmg6yf4A3ALXPtmzbao/X1dZLwHfkkjS1q65TJQXn2pqmR+zE+WhHsObBs42mluxZPpqBBkkXEMkFGMMFIiQwNWZjNmI1ZC1kYmNmLTQ3MDctODA5OS0wNWJjNjI0Mjg3MTc=",
+            "ts": "1713783995302",
+            "ts_req": "0",
+            "tsr": "CoABXJpWpUJLnDpPxhIlvA577lFWWJd43i+WQ8/i6oeGKIfTdWuMvy2HnuNOZS+LLqkQUzHcALg8FVqAOBsP6DGxMT6pjA+6iN6vC2N0BYMJuL3E3dhxFxtMRVQ9OkLUbT1SYctMaO4N49TI1PDsO+bzLquvNO2llNFVN63lw3qNvvgQdhh4IiQ2NTgxYzNmYi03ZjQ3LTRkMTAtYjgyMy1kNTM5MjExMGRhOTM=",
+            "version": "4"
+          },
+          "price_info": {
+            "currency": "USD",
+            "market_price": 3070,
+            "market_price_str": "$30.70",
+            "market_price_text": [
+              "$",
+              "30.70",
+              ""
+            ],
+            "price": 1151,
+            "price_color": "#FB7701",
+            "price_schema": "11.51",
+            "price_str": "$11.51",
+            "price_text": [
+              "$",
+              "11.51",
+              ""
+            ],
+            "reduction": 620,
+            "reduction_text": [
+              "-62",
+              "%"
+            ]
+          },
+          "queryReleScore": 0,
+          "sales_num": "2.3K+",
+          "sales_tip": "2.3K+ sold",
+          "sales_tip_text": [
+            "2.3K+",
+            "sold"
+          ],
+          "sales_tip_text_list": [
+            "2.3K+",
+            "sold"
+          ],
+          "show_index": 13,
+          "sold_quantity_percent": 5,
+          "special_tags": [
+            {
+              "footer": {
+                "text": "Final hours!"
+              },
+              "header": {
+                "text": "Lightning deal"
+              },
+              "split_line": 1
+            }
+          ],
+          "tags_info": {
+            "activity_icon_tags": [
+              {
+                "height": 24,
+                "icon_img": "https://aimg.kwcdn.com/upload_aimg_b/search/0f7bbe9c-599b-4380-8c8a-7ea42ba4db03.png",
+                "width": 24
+              }
+            ],
+            "goods_tags": [
+              {
+                "color": "#FB7701",
+                "marketing_tag_type": 1000,
+                "tag_id": 91004,
+                "tag_series": 2,
+                "text": "Almost sold out"
+              },
+              {
+                "color": "#555555",
+                "ext_map": {
+                  "bring_to_detail_flag": "1",
+                  "extra_text": "just bought"
+                },
+                "height": 39,
+                "marketing_tag_type": 1000,
+                "tag_id": 91022,
+                "tag_series": 2,
+                "text": "just bought",
+                "url": "https://avatar-us.kwcdn.com/avatar/b/MjEx/CgI2WRIITFY5bFRzOUQaEMaH1fe2kqfJKK5FN_7zLEMwAg-1681324991?imageMogr2/thumbnail/100x",
+                "width": 39
+              }
+            ]
+          },
+          "thumb_url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/8d048a64c5346171f19b51d8a2e83e7b.jpg",
+          "title": "1/4pcs Purple Hummingbird Shower Curtain Set, Waterproof Floral Shower Curtain With 12 Hooks, Non-Slip Bathroom Rug, Toilet U-Shape Mat, Toilet Lid Cover Pad, Bathroom Decor, Shower Curtain Sets For Bathrooms, Bathroom Accessories",
+          "visible": true,
+          "ware_house_type": 0
+        },
+        {
+          "activity_type": 3,
+          "benefit_text": {
+            "text": "-64%"
+          },
+          "comment": {
+            "comment_num_tips": "(21,568)",
+            "goods_score": 4.8
+          },
+          "extend_fields": {
+            "sale_fire_flag": true,
+            "show_similar_items_on_sku_close": true,
+            "support_tag_carousel": true
+          },
+          "goods_id": 601099536146958,
+          "goods_tags": [
+            {
+              "color": "#FB7701",
+              "marketing_tag_type": 1000,
+              "tag_id": 91004,
+              "tag_series": 2,
+              "text": "Almost sold out"
+            },
+            {
+              "color": "#555555",
+              "ext_map": {
+                "bring_to_detail_flag": "1",
+                "extra_text": "just bought"
+              },
+              "height": 39,
+              "marketing_tag_type": 1000,
+              "tag_id": 91022,
+              "tag_series": 2,
+              "text": "just bought",
+              "url": "https://avatar-us.kwcdn.com/avatar/b/MjEx/CgI2WRIITFY5bFRzOUQaEFuTx3oVHAcH3CotKq1_enUwAg-1689787318?imageMogr2/thumbnail/100x",
+              "width": 39
+            }
+          ],
+          "image": {
+            "height": 1200,
+            "id": 2064362905,
+            "url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/c056e47ccd7b7bde22d389ac94c46390.jpg",
+            "width": 1200
+          },
+          "item_type": 0,
+          "link_url": "goods.html?_bg_fs=1&goods_id=601099536146958&_oak_mp_inf=EI7EzqKm1ogBGiAzZTE3ZDBjOTgzOGM0NDgyYjQ5OTMxNmIxNzhhZGVkOSCU9%2FGr8DE%3D&thumb_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2FFancyalgo%2FVirtualModelMatting%2Fc056e47ccd7b7bde22d389ac94c46390.jpg&_web_cover=thumb_url&pic_h=1200&pic_w=1200&spec_gallery_id=2064362905&refer_page_sn=10012&refer_source=0&freesia_scene=3&_oak_freesia_scene=3&_oak_rec_ext_1=MTA3OQ&_oak_gallery_order=1921711429%2C2121172309%2C1141757115%2C639460241%2C1664476920",
+          "mall_id": 5299685292110,
+          "opt_id": 6927,
+          "opt_type": 3,
+          "p_rec": {
+            "bid": "69999705",
+            "engine_creative_id": "1921711429",
+            "exp": "Co8D8gMTCK4EEMM2FBMIwAQQABQTCMkHABL2BwAhjgUVAPEJygUQ8jUUEwj7BRCFOBQTCCAQkTMUEwgaHQARYwYA8QpqEI8xFBMIgAEQ/BgUEwiEARCYEhQTCJMBHgAS2QcAQPMBEP45AKGqAhC4NBQTCLsCHgAS2wcAEv0HABL/BwAS4QcAoa0DEOIsFBMIgwYrAMD8BBDLNxQTCIoGEMyKACGEAxcAEoUHAPIClwMQyisUEwipAxDiLhQTCOIXAJL8AxCZMBQTCNsPABKY3AAP+QADwN8EEJ8yFBMI5AQQ6qMAAwIBQMcFEO54AA8CAQIRQ4QAEUUGABFMBgARSwYAgWQQ1AoUEwhpDQARfQYABCABko0BEMsvFBMIjhkBErYHABLDBwAEJwES7g8AErEKAUDFAhDqmgAS1w8AEtgHAAM8ARL0DgAPQwEKEt3/AECOBBDMywDAvAQQqC0UEwj3BBCdlQFAgQUQi2AAIasFqgAStwcAA3gBA6oBD38BEwRwAdD9AxDHNBQTCNsDEAAUEOoEGI8D",
+            "final_creative_id": "1921711429",
+            "g": "601099536146958",
+            "gin_fallback": "0",
+            "goods_source": "rec",
+            "idx": "14",
+            "list_id": "3e17d0c9838c4482b499316b178aded9",
+            "mid": "69999906",
+            "no_result": "0",
+            "offset": "0",
+            "opt_id": "2170",
+            "opt_type": "0",
+            "region": "211",
+            "scene": "opt",
+            "scene_id": "3",
+            "search_id": "L0vJ5thtrLASGDwG88AEfsZKijSMor_m1Knjgj1C7Ac=",
+            "show_currency": "USD",
+            "show_price": "1079",
+            "show_sales": "2.4K+",
+            "sr": "CtAFdyokTurnG7W23yFxRgQNAiPw+QKPvhsu9ZA7HYXFozNbwCX/3xeoD3OgpfPonx+VtHddLZJtforHMTymKS/o1wUYXd+RdncKL8YgzAXVplciX+3lNXq7RMnAecvbG9Ivp4s2uLmKLFpfIJyh/kORMxiuASJnAwjM8cLwJDVMOQIiuXrnzEYW0IReXvc5V8wM3Sqhm8e8KgkTSxo7npk6PP2sCqubaaYEW1oSqYIEXc763cBk57FB93RCAJi72acI53YAwp4J5IXpVhMAUpN2283y6ZA0vyZEdAFBdPbO9SZd7OKazmM70wKDPYzXuJloEtsP12aCquLYtYCNPzCVa+33i/KrQB9oSN7JAg8+Rll4I+Qy5A/eWyT2CTibCMv7UrlLNK9aUlaJbJ+aSweoiH9dpvCJgt5EazrPEmLwv1dhD6wGvRsfM3xseJrfw488M9138O80jwX4qYhQCMPrq16ehraubq1vEeRBsv6N5VjszTIDC4E+1vJdS0pKqWJhIyWw8rq2bCfBrYg/iAxgf/449wqPSjNWqPr6V3+xndBzhhXjeDHfIdAV1GVItozqiV2b88oO1KsQYwqJNDN1CKKvcm14JiM8eibKfUAauNY52SKHke1m5IuJh20T38NNjX3oivNYwJhijFoDkNnjNxUuRN7cCB32jb3ghooh+0dsX5g/9qXPM3wC9ThVQW2BBU96BhGUw9JgcLe/7G9Z8Q11hQVJ0BMmkK6rJY7ePAZt5xZPbeg5yfiPPM7RxY4lNW06ma9bpEkp/FO8rYSUxasQ1hRCf2ZOUDxOWTVdcpv1kGz/6/gthvNsL5x719wfzXwgK1OcPCFZmHA6W6Ig8SLuV2jauFNtnu7g5U7R8SILuOHlbtregiQSmg6yf4A3R+ivhsCLdY6u0oqCHIzYe85zrPy/il+Z1DWaKJyZEa6hBYgoS4BfyGOuKKzTZ19cEMkFGMMFIiQwNWZjNmI1ZC1kYmNmLTQ3MDctODA5OS0wNWJjNjI0Mjg3MTc=",
+            "ts": "1713783995302",
+            "ts_req": "0",
+            "tsr": "CoABXJpWpUJLnDpPxhIlvA577lFWWJd43i+WQ8/i6oeGKIfTdWuMvy2HnuNOZS+LLqkQrgFc+mhoWmZFN2EmgyqzhT6pjA+6iN6vC2N0BYMJuL3E3dhxFxtMRVQ9OkLUbT1Sa/DK/aKhef+GwdHCNeEjTTotrn0KBBphU3I1fJAqQPUQdhh4IiQ2NTgxYzNmYi03ZjQ3LTRkMTAtYjgyMy1kNTM5MjExMGRhOTM=",
+            "version": "4"
+          },
+          "price_info": {
+            "currency": "USD",
+            "market_price": 2998,
+            "market_price_str": "$29.98",
+            "market_price_text": [
+              "$",
+              "29.98",
+              ""
+            ],
+            "price": 1079,
+            "price_color": "#FB7701",
+            "price_schema": "10.79",
+            "price_str": "$10.79",
+            "price_text": [
+              "$",
+              "10.79",
+              ""
+            ],
+            "reduction": 640,
+            "reduction_text": [
+              "-64",
+              "%"
+            ]
+          },
+          "queryReleScore": 0,
+          "sales_num": "2.4K+",
+          "sales_tip": "2.4K+ sold",
+          "sales_tip_text": [
+            "2.4K+",
+            "sold"
+          ],
+          "sales_tip_text_list": [
+            "2.4K+",
+            "sold"
+          ],
+          "show_index": 14,
+          "special_tags": [
+            {
+              "footer": {
+                "text": "Limited time offer"
+              },
+              "header": {
+                "text": "Special sale"
+              },
+              "split_line": 1
+            }
+          ],
+          "tags_info": {
+            "activity_icon_tags": [
+              {}
+            ],
+            "goods_tags": [
+              {
+                "color": "#FB7701",
+                "marketing_tag_type": 1000,
+                "tag_id": 91004,
+                "tag_series": 2,
+                "text": "Almost sold out"
+              },
+              {
+                "color": "#555555",
+                "ext_map": {
+                  "bring_to_detail_flag": "1",
+                  "extra_text": "just bought"
+                },
+                "height": 39,
+                "marketing_tag_type": 1000,
+                "tag_id": 91022,
+                "tag_series": 2,
+                "text": "just bought",
+                "url": "https://avatar-us.kwcdn.com/avatar/b/MjEx/CgI2WRIITFY5bFRzOUQaEFuTx3oVHAcH3CotKq1_enUwAg-1689787318?imageMogr2/thumbnail/100x",
+                "width": 39
+              }
+            ]
+          },
+          "thumb_url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/c056e47ccd7b7bde22d389ac94c46390.jpg",
+          "title": "1/4pcs Lowers & Yoga Printed Shower Curtain Set, Waterproof Bathroom Partition Curtain With Hooks, Non-Slip Bath Rug, U-Shape Mat, Toilet Lid Cover Mat, Bathroom Accessories, Home Decor",
+          "visible": true,
+          "ware_house_type": 0
+        }
+      ]
+    }
+  },
+  "tip": "You can read document or contact provider: https://www.idatariver.com/project/temu-e-commerce-scraping-api-2019"
+}

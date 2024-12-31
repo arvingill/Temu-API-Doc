@@ -1,0 +1,213 @@
+{
+  "code": 0,
+  "credits": 0.01,
+  "result": {
+    "control": {
+      "find_similar": 1,
+      "support_experiment_control": {
+        "top_search_type": 1
+      }
+    },
+    "goods": {
+      "goods_id": 601099518118140,
+      "goods_name": "1pc Ergonomic Wrist Rest Pad - Improve Comfort And Efficiency While Working Or Gaming On Your Computer Or Laptop",
+      "hd_thumb_url": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/0a64188f31b0671119c94307a2cd103b.jpg",
+      "sold_out_content": {
+        "sold_out_after_subscribe_button_content": "Unsubscribe",
+        "sold_out_after_subscribe_sub_tip": "View details and estimate restock time",
+        "sold_out_after_subscribe_tip": "You have already subscribed to the arrival reminder.",
+        "sold_out_before_subscribe_button_content": "Notify me",
+        "sold_out_before_subscribe_tip": "You can click notify me to receive updates when the item comes back in stock.",
+        "sold_out_title_content": "This item is sold out. View more details"
+      },
+      "sold_out_jump_url": "goods_snapshot.html?goods_id=601099518118140&title=Details",
+      "sold_out_subscribe_status": 1,
+      "status": 3
+    },
+    "goods_shopping_cart_num": 0,
+    "is_personal_fav": 0,
+    "is_show_fav_icon": 1,
+    "mall": {},
+    "review": {},
+    "server_time": 1713783978,
+    "size_guide": {
+      "show": 1
+    },
+    "sku": [
+      {
+        "auto_tune_number_toast": "The quantity you selected exceeds the current stock of this item. We've updated it to the maximum available.",
+        "can_subscribe": 1,
+        "control": {},
+        "goods_id": 601099518118140,
+        "is_onsale": 1,
+        "limit_quantity": 0,
+        "line_price_rich": [
+          {
+            "text": "$",
+            "text_format": {
+              "bold": 1,
+              "color": "#AAAAAA",
+              "font_size": 13,
+              "font_weight": 400
+            },
+            "type": "currency"
+          },
+          {
+            "text": "16.59",
+            "text_format": {
+              "bold": 1,
+              "color": "#AAAAAA",
+              "font_size": 13,
+              "font_weight": 400
+            },
+            "type": "price"
+          }
+        ],
+        "normal_line_price": 1659,
+        "normal_line_price_str": "$16.59",
+        "normal_price": 176,
+        "normal_price_str": "$1.76",
+        "reduction": {
+          "background_color": "#FFFFFF",
+          "border_color": "#FB7701",
+          "reduction": 890,
+          "text_rich": [
+            {
+              "text": "-89%",
+              "text_format": {
+                "bold": 1,
+                "color": "#FB7701",
+                "font_size": 10,
+                "font_weight": 600
+              },
+              "type": "price"
+            }
+          ]
+        },
+        "sale_price_rich": [
+          {
+            "text": "$",
+            "text_format": {
+              "bold": 1,
+              "color": "#000000",
+              "font_size": 18,
+              "font_weight": 600
+            },
+            "type": "currency"
+          },
+          {
+            "text": "1.76",
+            "text_format": {
+              "bold": 1,
+              "color": "#000000",
+              "font_size": 20,
+              "font_weight": 600
+            },
+            "type": "price"
+          }
+        ],
+        "sku_id": 17592222823543,
+        "sku_limit_toast": "The quantity you selected exceeds the current stock of this item.",
+        "specs": [
+          {
+            "spec_key": "Color",
+            "spec_key_id": 1001,
+            "spec_value": "grey",
+            "spec_value_id": 16080
+          }
+        ],
+        "stock_quantity": 0,
+        "subscribe_status": 0,
+        "thumb_url": "https://img.kwcdn.com/product/1e133b32143/f5dfa891-2a75-4467-957e-b663c30b2431_800x800.png"
+      },
+      {
+        "auto_tune_number_toast": "The quantity you selected exceeds the current stock of this item. We've updated it to the maximum available.",
+        "can_subscribe": 1,
+        "control": {},
+        "goods_id": 601099518118140,
+        "is_onsale": 1,
+        "limit_quantity": 0,
+        "line_price_rich": [
+          {
+            "text": "$",
+            "text_format": {
+              "bold": 1,
+              "color": "#AAAAAA",
+              "font_size": 13,
+              "font_weight": 400
+            },
+            "type": "currency"
+          },
+          {
+            "text": "1.99",
+            "text_format": {
+              "bold": 1,
+              "color": "#AAAAAA",
+              "font_size": 13,
+              "font_weight": 400
+            },
+            "type": "price"
+          }
+        ],
+        "normal_line_price": 199,
+        "normal_line_price_str": "$1.99",
+        "normal_price": 161,
+        "normal_price_str": "$1.61",
+        "reduction": {
+          "background_color": "#FFFFFF",
+          "border_color": "#FB7701",
+          "reduction": 190,
+          "text_rich": [
+            {
+              "text": "-19%",
+              "text_format": {
+                "bold": 1,
+                "color": "#FB7701",
+                "font_size": 10,
+                "font_weight": 600
+              },
+              "type": "price"
+            }
+          ]
+        },
+        "sale_price_rich": [
+          {
+            "text": "$",
+            "text_format": {
+              "bold": 1,
+              "color": "#000000",
+              "font_size": 18,
+              "font_weight": 600
+            },
+            "type": "currency"
+          },
+          {
+            "text": "1.61",
+            "text_format": {
+              "bold": 1,
+              "color": "#000000",
+              "font_size": 20,
+              "font_weight": 600
+            },
+            "type": "price"
+          }
+        ],
+        "sku_id": 17592222823544,
+        "sku_limit_toast": "The quantity you selected exceeds the current stock of this item.",
+        "specs": [
+          {
+            "spec_key": "Color",
+            "spec_key_id": 1001,
+            "spec_value": "Black",
+            "spec_value_id": 3002
+          }
+        ],
+        "stock_quantity": 0,
+        "subscribe_status": 0,
+        "thumb_url": "https://img.kwcdn.com/product/1e133b32143/3125ead5-d16a-453c-a1a8-71755e14a64c_800x800.png"
+      }
+    ],
+    "user": {}
+  },
+  "tip": "You can read document or contact provider: https://www.idatariver.com/project/temu-e-commerce-scraping-api-2019"
+}
